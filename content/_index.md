@@ -1,0 +1,3 @@
+New Hampshire is a state in the New England region of the northeastern United States. It is bordered by Massachusetts to the south, Vermont to the west, Maine and the Atlantic Ocean to the east, and the Canadian province of Quebec to the north. New Hampshire is the 5th smallest by area and the 10th least populous U.S. state.
+
+Concord is the state capital, while Manchester is the largest city. New Hampshire has no general sales tax, nor income tax other than on interest and dividends. The New Hampshire primary is the first primary in the U.S. presidential election cycle. Its license plates carry the state motto, "Live Free or Die". The state's nickname, "The Granite State", refers to its extensive granite formations and quarries. (Wikipedia)
