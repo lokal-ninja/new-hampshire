@@ -1,4 +1,0 @@
----
-title: "U.S. Cellular"
-url: /manchester/u-s-cellular-2/
----

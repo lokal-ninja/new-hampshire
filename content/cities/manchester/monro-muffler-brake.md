@@ -1,4 +1,4 @@
 ---
-title: "Monro Muffler/Brake"
+title: "Monro Muffler Brake"
 url: /manchester/monro-muffler-brake/
 ---

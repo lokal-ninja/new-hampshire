@@ -1,4 +1,4 @@
 ---
-title: "Dan O'Brien KIa"
+title: "Dan O'Brien Kia"
 url: /concord/dan-obrien-kia/
 ---

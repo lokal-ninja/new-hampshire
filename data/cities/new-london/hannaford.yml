@@ -1,12 +1,12 @@
-id: 3768289877
-type: node
+id: 225291012
+type: way
 shop: supermarket
-latitude: 43.4230348
-longitude: -72.00329570000001
+latitude: 43.422870100000004
+longitude: -72.0035955
 postcode: "03257"
 city: New London
 street: "Newport Road"
-housenumber: 259
-phone: ""
-opening_hours: ""
-website: "https://www.hannaford.com/custserv/store_detail.jsp?viewStoreId=20729"
+housenumber: 295
+phone: "+1-603-526-6951"
+opening_hours: "Mo-Su 07:00-21:00"
+website: "https://www.hannaford.com/locations/new-london-hannaford-20729"
