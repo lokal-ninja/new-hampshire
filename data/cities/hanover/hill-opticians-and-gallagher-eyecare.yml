@@ -8,5 +8,5 @@ city: Hanover
 street: "South Main Street"
 housenumber: 53
 phone: "+1-603-643-2400"
-opening_hours: "Mo,We,Fr 09:00-17:00; Tu,Th 09:00-18:00"
-website: ""
+opening_hours: ""
+website: "https://www.hillopticians.com/"
