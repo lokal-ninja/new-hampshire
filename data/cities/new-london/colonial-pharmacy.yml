@@ -1,6 +1,5 @@
 id: 7232987439
 type: node
-shop: chemist
 latitude: 43.4220826
 longitude: -71.9953933
 postcode: "03257"
@@ -9,4 +8,4 @@ street: "Newport Road"
 housenumber: 82
 phone: "+1 (603) 526-2233"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 08:00-17:00"
-website: "www.colonialpharmacy.com"
+website: "https://www.colonialpharmacy.com/"
