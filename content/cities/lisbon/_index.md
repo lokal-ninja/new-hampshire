@@ -1,6 +1,6 @@
 ---
 title: Lisbon
 url: /lisbon/
-latitude: 44.213710000000006
-longitude: -71.911011
+latitude: 44.2135187
+longitude: -71.9107884
 ---

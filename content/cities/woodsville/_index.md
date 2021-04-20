@@ -1,6 +1,6 @@
 ---
 title: Woodsville
 url: /woodsville/
-latitude: 44.1522858
-longitude: -72.0373132
+latitude: 44.152297100000006
+longitude: -72.0370393
 ---
