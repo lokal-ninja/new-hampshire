@@ -1,6 +1,6 @@
 ---
 title: Center Harbor
 url: /center-harbor/
-latitude: 43.7097831
-longitude: -71.4604351
+latitude: 43.7084957
+longitude: -71.4626399
 ---
