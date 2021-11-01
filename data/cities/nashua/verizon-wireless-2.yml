@@ -1,11 +1,11 @@
-id: 4305086950
-type: node
-latitude: 42.7021894
-longitude: -71.43700510000001
-postcode: "03060"
+id: 202230683
+type: way
+latitude: 42.801768200000005
+longitude: -71.5376305
+postcode: "03063"
 city: Nashua
-street: "Daniel Webster Highway"
-housenumber: 310
-phone: "+1-603-888-5240"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
+street: "Amherst Street"
+housenumber: 611
+phone: "+1-603-882-7989"
+opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
 website: "http://www.verizonwireless.com/"

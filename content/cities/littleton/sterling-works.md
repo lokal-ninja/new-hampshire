@@ -1,5 +1,5 @@
 ---
 title: "Sterling Works"
 url: /littleton/sterling-works/
-shop: shop
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
 url: /nashua/xfinity/
-shop: electronics
+shop: mobile phone
 ---
