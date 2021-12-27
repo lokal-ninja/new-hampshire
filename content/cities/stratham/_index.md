@@ -1,6 +1,6 @@
 ---
 title: Stratham
 url: /stratham/
-latitude: 
-longitude: 
+latitude: 42.999
+longitude: -70.924
 ---

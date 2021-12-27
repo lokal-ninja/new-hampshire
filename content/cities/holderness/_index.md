@@ -1,6 +1,6 @@
 ---
 title: Holderness
 url: /holderness/
-latitude: 43.732406000000005
-longitude: -71.58897400000001
+latitude: 43.76
+longitude: -71.674
 ---

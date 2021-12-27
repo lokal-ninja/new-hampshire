@@ -1,6 +1,6 @@
 ---
 title: Center Ossipee
 url: /center-ossipee/
-latitude: 43.755076100000004
-longitude: -71.15201280000001
+latitude: 43.771
+longitude: -71.157
 ---

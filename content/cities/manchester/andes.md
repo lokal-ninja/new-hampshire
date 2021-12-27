@@ -1,5 +1,5 @@
 ---
 title: "Ande's"
 url: /manchester/andes/
-shop: pawnbroker
+shop: Leiher
 ---

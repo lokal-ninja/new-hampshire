@@ -1,6 +1,6 @@
 ---
 title: New Hampton
 url: /new-hampton/
-latitude: 43.605753
-longitude: -71.654892
+latitude: 43.617
+longitude: -71.636
 ---

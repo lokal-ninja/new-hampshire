@@ -1,5 +1,5 @@
 ---
 title: "Coach"
 url: /nashua/coach/
-shop: bag
+shop: Taschen & Koffer
 ---

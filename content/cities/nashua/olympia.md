@@ -1,5 +1,5 @@
 ---
 title: "Olympia"
 url: /nashua/olympia/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wholesale Flooring"
 url: /north-hampton/wholesale-flooring/
-shop: trade
+shop: Baustoffe
 ---

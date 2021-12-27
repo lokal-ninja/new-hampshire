@@ -1,6 +1,6 @@
 ---
 title: Wentworth
 url: /wentworth/
-latitude: 43.8724198
-longitude: -71.9130828
+latitude: 43.873
+longitude: -71.914
 ---

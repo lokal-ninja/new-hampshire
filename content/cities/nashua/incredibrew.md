@@ -1,5 +1,5 @@
 ---
 title: "Incredibrew"
 url: /nashua/incredibrew/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /derry/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,6 +1,6 @@
 ---
 title: West Opssipee
 url: /west-opssipee/
-latitude: 
-longitude: 
+latitude: 43.825
+longitude: -71.207
 ---

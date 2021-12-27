@@ -1,6 +1,6 @@
 ---
 title: Fairlee
 url: /fairlee/
-latitude: 
-longitude: 
+latitude: 43.909
+longitude: -72.141
 ---

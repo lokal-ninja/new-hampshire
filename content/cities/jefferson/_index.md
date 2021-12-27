@@ -1,6 +1,6 @@
 ---
 title: Jefferson
 url: /jefferson/
-latitude: 44.419069
-longitude: -71.474991
+latitude: 44.419
+longitude: -71.475
 ---

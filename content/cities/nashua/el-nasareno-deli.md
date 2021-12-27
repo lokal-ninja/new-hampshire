@@ -1,5 +1,5 @@
 ---
 title: "El Nasareno Deli"
 url: /nashua/el-nasareno-deli/
-shop: convenience
+shop: Lebensmittel
 ---

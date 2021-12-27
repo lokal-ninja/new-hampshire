@@ -1,5 +1,5 @@
 ---
 title: "Coastal Forest Products"
 url: /bedford/coastal-forest-products/
-shop: hardware
+shop: Eisenwaren
 ---

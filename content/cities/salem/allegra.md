@@ -1,5 +1,5 @@
 ---
 title: "Allegra"
 url: /salem/allegra/
-shop: copyshop
+shop: Kopieren
 ---

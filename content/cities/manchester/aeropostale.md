@@ -1,5 +1,5 @@
 ---
 title: "Aeropostale"
 url: /manchester/aeropostale/
-shop: clothes
+shop: Kleidung
 ---

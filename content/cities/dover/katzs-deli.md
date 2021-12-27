@@ -1,5 +1,5 @@
 ---
 title: "Katz's Deli"
 url: /dover/katzs-deli/
-shop: deli
+shop: Feinkost
 ---

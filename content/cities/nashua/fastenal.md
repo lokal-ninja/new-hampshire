@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /nashua/fastenal/
-shop: hardware
+shop: Eisenwaren
 ---

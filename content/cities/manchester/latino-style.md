@@ -1,5 +1,5 @@
 ---
 title: "Latino Style"
 url: /manchester/latino-style/
-shop: hairdresser
+shop: Friseur
 ---

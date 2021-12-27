@@ -1,5 +1,5 @@
 ---
 title: "Irving"
 url: /derry/irving/
-shop: convenience
+shop: Lebensmittel
 ---

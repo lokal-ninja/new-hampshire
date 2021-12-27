@@ -1,5 +1,5 @@
 ---
 title: "This Olde Stuff"
 url: /amherst/this-olde-stuff/
-shop: antiques
+shop: Antiquitäten
 ---

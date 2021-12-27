@@ -1,6 +1,6 @@
 ---
 title: Barrington
 url: /barrington/
-latitude: 43.223191
-longitude: -71.047211
+latitude: 43.209
+longitude: -70.996
 ---

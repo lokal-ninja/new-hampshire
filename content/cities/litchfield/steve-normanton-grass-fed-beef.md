@@ -1,5 +1,5 @@
 ---
 title: "Steve Normanton Grass-fed Beef"
 url: /litchfield/steve-normanton-grass-fed-beef/
-shop: butcher
+shop: Metzgerei
 ---

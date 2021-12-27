@@ -1,6 +1,6 @@
 ---
 title: Loudon
 url: /loudon/
-latitude: 
-longitude: 
+latitude: 43.274
+longitude: -71.46
 ---

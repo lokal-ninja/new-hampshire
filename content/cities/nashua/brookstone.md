@@ -1,5 +1,5 @@
 ---
 title: "Brookstone"
 url: /nashua/brookstone/
-shop: gift
+shop: Andenken
 ---

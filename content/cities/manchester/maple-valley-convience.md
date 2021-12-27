@@ -1,5 +1,5 @@
 ---
 title: "Maple Valley Convience"
 url: /manchester/maple-valley-convience/
-shop: convenience
+shop: Lebensmittel
 ---

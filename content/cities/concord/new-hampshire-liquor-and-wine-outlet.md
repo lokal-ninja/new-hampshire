@@ -1,5 +1,5 @@
 ---
-title: "New Hampshire Liquor & Wine Outlet"
+title: "New Hampshire Liquor and Wine Outlet"
 url: /concord/new-hampshire-liquor-and-wine-outlet/
-shop: alcohol
+shop: Spirituosen
 ---

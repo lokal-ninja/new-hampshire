@@ -1,6 +1,6 @@
 ---
 title: Claremont
 url: /claremont/
-latitude: 43.377105
-longitude: -72.347031
+latitude: 43.361
+longitude: -72.316
 ---

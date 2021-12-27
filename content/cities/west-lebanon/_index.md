@@ -1,6 +1,6 @@
 ---
 title: West Lebanon
 url: /west-lebanon/
-latitude: 
-longitude: 
+latitude: 43.624
+longitude: -72.324
 ---

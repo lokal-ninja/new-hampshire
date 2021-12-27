@@ -1,6 +1,6 @@
 ---
 title: Sunapee
 url: /sunapee/
-latitude: 43.3874008
-longitude: -72.0877198
+latitude: 43.388
+longitude: -72.087
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fidelis"
 url: /nashua/fidelis/
-shop: hifi
+shop: Hifi
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /derry/bp/
-shop: convenience
+shop: Lebensmittel
 ---

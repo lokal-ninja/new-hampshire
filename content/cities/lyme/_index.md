@@ -1,6 +1,6 @@
 ---
 title: Lyme
 url: /lyme/
-latitude: 43.809756
-longitude: -72.156143
+latitude: 43.811
+longitude: -72.158
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hannoush"
 url: /manchester/hannoush/
-shop: jewelry
+shop: Schmuck
 ---

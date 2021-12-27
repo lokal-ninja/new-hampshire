@@ -1,6 +1,6 @@
 ---
 title: Wolfeboro Falls
 url: /wolfeboro-falls/
-latitude: 43.592022500000006
-longitude: -71.20562360000001
+latitude: 43.587
+longitude: -71.205
 ---

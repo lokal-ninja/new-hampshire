@@ -1,6 +1,6 @@
 ---
 title: Campton
 url: /campton/
-latitude: 
-longitude: 
+latitude: 43.849
+longitude: -71.643
 ---

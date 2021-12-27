@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /nashua/firestone/
-shop: car repair
+shop: Autowerkstatt
 ---

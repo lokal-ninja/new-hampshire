@@ -1,6 +1,6 @@
 ---
 title: No. Sutton
 url: /no-sutton/
-latitude: 
-longitude: 
+latitude: 43.37
+longitude: -71.943
 ---

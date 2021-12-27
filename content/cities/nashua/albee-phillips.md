@@ -1,5 +1,5 @@
 ---
 title: "Albee Phillips"
 url: /nashua/albee-phillips/
-shop: kitchen
+shop: Küchen
 ---

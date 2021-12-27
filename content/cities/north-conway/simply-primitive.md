@@ -1,5 +1,5 @@
 ---
 title: "Simply Primitive"
 url: /north-conway/simply-primitive/
-shop: antiques
+shop: Antiquitäten
 ---

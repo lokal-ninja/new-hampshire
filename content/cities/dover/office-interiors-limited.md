@@ -1,5 +1,5 @@
 ---
 title: "Office Interiors Limited"
 url: /dover/office-interiors-limited/
-shop: furniture
+shop: Möbel
 ---

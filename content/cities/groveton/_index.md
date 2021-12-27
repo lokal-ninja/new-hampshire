@@ -1,6 +1,6 @@
 ---
 title: Groveton
 url: /groveton/
-latitude: 44.5989641
-longitude: -71.510912
+latitude: 44.599
+longitude: -71.513
 ---

@@ -1,6 +1,6 @@
 ---
 title: Atkinson
 url: /atkinson/
-latitude: 42.8384221
-longitude: -71.1470037
+latitude: 42.854
+longitude: -71.196
 ---

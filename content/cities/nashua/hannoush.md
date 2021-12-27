@@ -1,5 +1,5 @@
 ---
 title: "Hannoush"
 url: /nashua/hannoush/
-shop: jewelry
+shop: Schmuck
 ---

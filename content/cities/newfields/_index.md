@@ -1,6 +1,6 @@
 ---
 title: Newfields
 url: /newfields/
-latitude: 43.037031600000006
-longitude: -70.9383906
+latitude: 43.047
+longitude: -70.931
 ---

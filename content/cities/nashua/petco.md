@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /nashua/petco/
-shop: pet
+shop: Tiere
 ---

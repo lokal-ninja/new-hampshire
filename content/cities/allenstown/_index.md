@@ -1,6 +1,6 @@
 ---
 title: Allenstown
 url: /allenstown/
-latitude: 43.1276195
-longitude: -71.4319655
+latitude: 43.123
+longitude: -71.442
 ---

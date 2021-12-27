@@ -1,6 +1,6 @@
 ---
 title: Colebrook
 url: /colebrook/
-latitude: 44.8942649
-longitude: -71.4964125
+latitude: 44.894
+longitude: -71.497
 ---

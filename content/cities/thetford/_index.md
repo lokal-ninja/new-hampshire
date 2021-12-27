@@ -1,6 +1,6 @@
 ---
 title: Thetford
 url: /thetford/
-latitude: 
-longitude: 
+latitude: 43.813
+longitude: -72.186
 ---

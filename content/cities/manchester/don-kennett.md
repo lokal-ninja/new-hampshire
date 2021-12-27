@@ -1,5 +1,5 @@
 ---
 title: "Don Kennett"
 url: /manchester/don-kennett/
-shop: paint
+shop: Farben
 ---

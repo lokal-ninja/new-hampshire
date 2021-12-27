@@ -1,5 +1,5 @@
 ---
 title: "Lavish Hair Designs"
 url: /manchester/lavish-hair-designs/
-shop: hairdresser
+shop: Friseur
 ---

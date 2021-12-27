@@ -1,6 +1,6 @@
 ---
 title: MERRIMACK
 url: /merrimack/
-latitude: 
-longitude: 
+latitude: 42.826
+longitude: -71.501
 ---

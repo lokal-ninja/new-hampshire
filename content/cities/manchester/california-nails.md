@@ -1,5 +1,5 @@
 ---
 title: "California Nails"
 url: /manchester/california-nails/
-shop: beauty
+shop: Kosmetik
 ---

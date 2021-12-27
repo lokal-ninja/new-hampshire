@@ -1,5 +1,5 @@
 ---
 title: "Autolot Used Cars"
 url: /hudson/autolot-used-cars/
-shop: car
+shop: Autohaus
 ---

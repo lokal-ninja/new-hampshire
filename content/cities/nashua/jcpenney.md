@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /nashua/jcpenney/
-shop: department store
+shop: Warenhaus
 ---

@@ -1,6 +1,6 @@
 ---
 title: Newmarket
 url: /newmarket/
-latitude: 43.082931
-longitude: -70.935974
+latitude: 43.081
+longitude: -70.937
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /derry/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

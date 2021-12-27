@@ -1,5 +1,5 @@
 ---
 title: "Kittredge Farms"
 url: /derry/kittredge-farms/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

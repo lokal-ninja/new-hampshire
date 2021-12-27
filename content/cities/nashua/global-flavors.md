@@ -1,5 +1,5 @@
 ---
 title: "Global Flavors"
 url: /nashua/global-flavors/
-shop: supermarket
+shop: Supermarkt
 ---

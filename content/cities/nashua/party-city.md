@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /nashua/party-city/
-shop: party
+shop: Partyzubehör
 ---

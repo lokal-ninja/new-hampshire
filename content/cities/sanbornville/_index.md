@@ -1,6 +1,6 @@
 ---
 title: Sanbornville
 url: /sanbornville/
-latitude: 43.554246000000006
-longitude: -71.0308988
+latitude: 43.553
+longitude: -71.026
 ---

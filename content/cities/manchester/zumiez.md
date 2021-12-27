@@ -1,5 +1,5 @@
 ---
 title: "Zumiez"
 url: /manchester/zumiez/
-shop: clothes
+shop: Kleidung
 ---

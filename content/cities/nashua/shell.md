@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /nashua/shell/
-shop: convenience
+shop: Lebensmittel
 ---

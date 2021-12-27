@@ -1,5 +1,5 @@
 ---
 title: "Morning Star"
 url: /nashua/morning-star/
-shop: books
+shop: Bücher
 ---

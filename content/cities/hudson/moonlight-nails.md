@@ -1,5 +1,5 @@
 ---
 title: "Moonlight Nails"
 url: /hudson/moonlight-nails/
-shop: beauty
+shop: Kosmetik
 ---

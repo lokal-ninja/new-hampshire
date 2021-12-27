@@ -1,5 +1,5 @@
 ---
 title: "Exeter Carpet Company"
 url: /exeter/exeter-carpet-company/
-shop: carpet
+shop: Teppiche
 ---

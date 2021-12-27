@@ -1,6 +1,6 @@
 ---
 title: Newington
 url: /newington/
-latitude: 43.100482
-longitude: -70.834351
+latitude: 43.094
+longitude: -70.802
 ---

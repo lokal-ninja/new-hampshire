@@ -1,5 +1,5 @@
 ---
 title: "Baileyworks"
 url: /newmarket/baileyworks/
-shop: bag
+shop: Taschen & Koffer
 ---

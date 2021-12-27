@@ -1,5 +1,5 @@
 ---
 title: "Lids"
 url: /manchester/lids/
-shop: clothes
+shop: Kleidung
 ---

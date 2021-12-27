@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /nashua/walgreens/
-shop: chemist
+shop: Drogerie
 ---

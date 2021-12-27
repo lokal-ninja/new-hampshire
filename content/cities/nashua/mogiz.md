@@ -1,5 +1,5 @@
 ---
 title: "Mogi'z"
 url: /nashua/mogiz/
-shop: hairdresser
+shop: Friseur
 ---

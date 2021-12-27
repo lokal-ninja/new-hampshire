@@ -1,5 +1,5 @@
 ---
 title: "Hot Topic"
 url: /manchester/hot-topic/
-shop: clothes
+shop: Kleidung
 ---

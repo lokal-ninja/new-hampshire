@@ -1,6 +1,6 @@
 ---
 title: Boscawen
 url: /boscawen/
-latitude: 43.315187
-longitude: -71.621246
+latitude: 43.36
+longitude: -71.686
 ---

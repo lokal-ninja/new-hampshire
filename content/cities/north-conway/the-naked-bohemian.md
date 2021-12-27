@@ -1,5 +1,5 @@
 ---
 title: "The Naked Bohemian"
 url: /north-conway/the-naked-bohemian/
-shop: furniture
+shop: Möbel
 ---
