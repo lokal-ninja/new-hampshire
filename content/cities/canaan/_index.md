@@ -1,6 +1,6 @@
 ---
 title: Canaan
 url: /canaan/
-latitude: 43.647
-longitude: -72.009
+latitude: 43.646
+longitude: -72.026
 ---
