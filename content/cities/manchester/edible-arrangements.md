@@ -1,5 +1,5 @@
 ---
 title: "Edible Arrangements"
 url: /manchester/edible-arrangements/
-shop: Blumen
+shop: florist
 ---

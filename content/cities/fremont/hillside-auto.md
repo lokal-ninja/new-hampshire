@@ -1,5 +1,5 @@
 ---
 title: "Hillside Auto"
 url: /fremont/hillside-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

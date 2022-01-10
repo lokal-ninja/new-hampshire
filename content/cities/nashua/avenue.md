@@ -1,5 +1,5 @@
 ---
 title: "Avenue"
 url: /nashua/avenue/
-shop: Kleidung
+shop: clothes
 ---

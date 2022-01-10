@@ -1,5 +1,5 @@
 ---
 title: "The Corner News"
 url: /keene/the-corner-news/
-shop: Zeitungen
+shop: newsagent
 ---

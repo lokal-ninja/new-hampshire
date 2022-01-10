@@ -1,5 +1,5 @@
 ---
 title: "Belletetes"
 url: /sunapee/belletetes/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Altitude Trampoline Park Concord"
 url: /concord/altitude-trampoline-park-concord/
-shop: Einkaufszentrum
+shop: mall
 ---

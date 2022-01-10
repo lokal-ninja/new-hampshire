@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /nashua/sephora/
-shop: Kosmetik
+shop: beauty
 ---

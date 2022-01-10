@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /nashua/kohls/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /north-conway/spectrum/
-shop: Handy
+shop: mobile phone
 ---

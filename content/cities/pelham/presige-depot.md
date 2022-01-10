@@ -1,5 +1,5 @@
 ---
 title: "Presige Depot"
 url: /pelham/presige-depot/
-shop: Andenken
+shop: gift
 ---

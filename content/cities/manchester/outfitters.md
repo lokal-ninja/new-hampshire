@@ -1,5 +1,5 @@
 ---
 title: "Outfitters"
 url: /manchester/outfitters/
-shop: Gebrauchtwaren
+shop: charity
 ---

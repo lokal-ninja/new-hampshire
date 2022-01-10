@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /nashua/lenscrafters-2/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /derry/gamestop/
-shop: Videospiele
+shop: video games
 ---

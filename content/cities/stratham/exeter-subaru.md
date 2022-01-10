@@ -1,5 +1,5 @@
 ---
 title: "Exeter Subaru"
 url: /stratham/exeter-subaru/
-shop: Autohaus
+shop: car
 ---

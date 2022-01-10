@@ -1,5 +1,5 @@
 ---
 title: "Littleton Office Supply"
 url: /littleton/littleton-office-supply/
-shop: Schreibwaren
+shop: office supplies
 ---

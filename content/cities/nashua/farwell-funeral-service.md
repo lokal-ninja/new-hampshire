@@ -1,5 +1,5 @@
 ---
 title: "Farwell Funeral Service"
 url: /nashua/farwell-funeral-service/
-shop: Bestattungen
+shop: funeral directors
 ---

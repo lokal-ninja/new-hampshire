@@ -1,5 +1,5 @@
 ---
 title: "Kathryn's Pets"
 url: /pelham/kathryns-pets/
-shop: Friseur
+shop: hairdresser
 ---

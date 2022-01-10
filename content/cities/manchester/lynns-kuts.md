@@ -1,5 +1,5 @@
 ---
 title: "Lynn's Kuts"
 url: /manchester/lynns-kuts/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /amherst/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

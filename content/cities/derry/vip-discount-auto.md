@@ -1,5 +1,5 @@
 ---
 title: "VIP Discount Auto"
 url: /derry/vip-discount-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

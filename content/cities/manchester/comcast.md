@@ -1,5 +1,5 @@
 ---
 title: "Comcast"
 url: /manchester/comcast/
-shop: Videothek
+shop: video
 ---

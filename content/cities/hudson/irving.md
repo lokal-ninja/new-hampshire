@@ -1,5 +1,5 @@
 ---
 title: "Irving"
 url: /hudson/irving/
-shop: Lebensmittel
+shop: convenience
 ---

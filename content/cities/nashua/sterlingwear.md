@@ -1,5 +1,5 @@
 ---
 title: "Sterlingwear"
 url: /nashua/sterlingwear/
-shop: Kleidung
+shop: clothes
 ---

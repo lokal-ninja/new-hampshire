@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /nashua/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

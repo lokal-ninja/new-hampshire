@@ -1,5 +1,5 @@
 ---
 title: "You're An Artist"
 url: /derry/youre-an-artist/
-shop: Kunst
+shop: art
 ---

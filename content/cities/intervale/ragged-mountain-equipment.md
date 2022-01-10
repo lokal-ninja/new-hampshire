@@ -1,5 +1,5 @@
 ---
 title: "Ragged Mountain Equipment"
 url: /intervale/ragged-mountain-equipment/
-shop: Outdoor
+shop: outdoor
 ---

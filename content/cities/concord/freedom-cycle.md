@@ -1,5 +1,5 @@
 ---
 title: "Freedom Cycle"
 url: /concord/freedom-cycle/
-shop: Motorrad
+shop: motorcycle
 ---

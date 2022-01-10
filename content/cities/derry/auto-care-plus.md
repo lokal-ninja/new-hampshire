@@ -1,5 +1,5 @@
 ---
 title: "Auto Care Plus"
 url: /derry/auto-care-plus/
-shop: Autowerkstatt
+shop: car repair
 ---

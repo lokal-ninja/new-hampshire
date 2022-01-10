@@ -1,5 +1,5 @@
 ---
 title: "Motorway Custom Cycles"
 url: /manchester/motorway-custom-cycles/
-shop: Motorrad
+shop: motorcycle
 ---

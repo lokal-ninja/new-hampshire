@@ -1,5 +1,5 @@
 ---
 title: "City Tailor"
 url: /manchester/city-tailor/
-shop: Schneiderei
+shop: tailor
 ---

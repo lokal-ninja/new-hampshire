@@ -1,5 +1,5 @@
 ---
 title: "Maggie's Spa"
 url: /nashua/maggies-spa/
-shop: Massage
+shop: massage
 ---

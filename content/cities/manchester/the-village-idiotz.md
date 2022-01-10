@@ -1,5 +1,5 @@
 ---
 title: "The Village Idiotz"
 url: /manchester/the-village-idiotz/
-shop: Partyzubehör
+shop: party
 ---

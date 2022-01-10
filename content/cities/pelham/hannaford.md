@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
 url: /pelham/hannaford/
-shop: Supermarkt
+shop: supermarket
 ---

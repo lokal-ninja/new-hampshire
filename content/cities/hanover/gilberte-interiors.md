@@ -1,5 +1,5 @@
 ---
 title: "Gilberte Interiors"
 url: /hanover/gilberte-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

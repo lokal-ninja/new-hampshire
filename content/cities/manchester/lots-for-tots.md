@@ -1,5 +1,5 @@
 ---
 title: "Lots for Tots"
 url: /manchester/lots-for-tots/
-shop: Kleidung
+shop: clothes
 ---

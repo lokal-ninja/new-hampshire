@@ -1,5 +1,5 @@
 ---
 title: "Gate City Collision"
 url: /hooksett/gate-city-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

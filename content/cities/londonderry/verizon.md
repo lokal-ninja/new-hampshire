@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /londonderry/verizon/
-shop: Handy
+shop: mobile phone
 ---

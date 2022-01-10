@@ -1,5 +1,5 @@
 ---
 title: "Nashua Hyandai"
 url: /nashua/nashua-hyandai/
-shop: Autohaus
+shop: car
 ---

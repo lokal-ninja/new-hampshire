@@ -1,5 +1,5 @@
 ---
 title: "Vanessa's Salon"
 url: /west-lebanon/vanessas-salon/
-shop: Friseur
+shop: hairdresser
 ---

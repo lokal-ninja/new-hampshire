@@ -1,5 +1,5 @@
 ---
 title: "Statement"
 url: /manchester/statement/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fisette Small Engine"
 url: /windham/fisette-small-engine/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Microseconds"
 url: /manchester/microseconds/
-shop: Computer
+shop: computer
 ---

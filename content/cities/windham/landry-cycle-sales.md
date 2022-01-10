@@ -1,5 +1,5 @@
 ---
 title: "Landry Cycle Sales"
 url: /windham/landry-cycle-sales/
-shop: Motorrad
+shop: motorcycle
 ---

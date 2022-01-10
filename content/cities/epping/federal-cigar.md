@@ -1,5 +1,5 @@
 ---
 title: "Federal Cigar"
 url: /epping/federal-cigar/
-shop: Tabak
+shop: tobacco
 ---

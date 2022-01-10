@@ -1,5 +1,5 @@
 ---
 title: "Brewtopia"
 url: /keene/brewtopia/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Norms Ski and Bike"
 url: /keene/norms-ski-and-bike/
-shop: Fahrrad
+shop: bicycle
 ---

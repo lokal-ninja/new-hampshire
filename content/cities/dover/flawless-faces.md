@@ -1,5 +1,5 @@
 ---
 title: "Flawless Faces"
 url: /dover/flawless-faces/
-shop: Kosmetik
+shop: beauty
 ---

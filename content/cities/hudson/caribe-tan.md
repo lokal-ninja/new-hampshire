@@ -1,5 +1,5 @@
 ---
 title: "Caribe Tan"
 url: /hudson/caribe-tan/
-shop: Reisebüro
+shop: travel agency
 ---

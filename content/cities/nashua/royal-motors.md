@@ -1,5 +1,5 @@
 ---
 title: "Royal Motors"
 url: /nashua/royal-motors/
-shop: Autohaus
+shop: car
 ---

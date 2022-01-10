@@ -1,5 +1,5 @@
 ---
 title: "Second Chance Auto Sales"
 url: /derry/second-chance-auto-sales/
-shop: Autohaus
+shop: car
 ---

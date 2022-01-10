@@ -1,5 +1,5 @@
 ---
 title: "Jaguar Exeter"
 url: /exeter/jaguar-exeter/
-shop: Autohaus
+shop: car
 ---

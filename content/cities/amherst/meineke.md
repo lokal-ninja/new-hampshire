@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /amherst/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

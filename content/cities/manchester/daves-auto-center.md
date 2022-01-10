@@ -1,5 +1,5 @@
 ---
 title: "Dave's Auto Center"
 url: /manchester/daves-auto-center/
-shop: Autowerkstatt
+shop: car repair
 ---

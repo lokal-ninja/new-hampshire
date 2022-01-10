@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /nashua/sprint-2/
-shop: Handy
+shop: mobile phone
 ---

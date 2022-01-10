@@ -1,5 +1,5 @@
 ---
 title: "Inner Beauty Concepts"
 url: /nashua/inner-beauty-concepts/
-shop: Friseur
+shop: hairdresser
 ---

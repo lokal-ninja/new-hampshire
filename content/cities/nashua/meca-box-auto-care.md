@@ -1,5 +1,5 @@
 ---
 title: "Meca Box Auto Care"
 url: /nashua/meca-box-auto-care/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cellairis"
 url: /nashua/cellairis/
-shop: Handy
+shop: mobile phone
 ---

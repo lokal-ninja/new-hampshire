@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /manchester/ntb/
-shop: Autowerkstatt
+shop: car repair
 ---

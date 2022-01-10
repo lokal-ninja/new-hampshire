@@ -1,5 +1,5 @@
 ---
 title: "Cathedral Church Goods"
 url: /manchester/cathedral-church-goods/
-shop: Bücher
+shop: books
 ---

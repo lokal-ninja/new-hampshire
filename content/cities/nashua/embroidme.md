@@ -1,5 +1,5 @@
 ---
 title: "EmbroidMe"
 url: /nashua/embroidme/
-shop: Kleidung
+shop: clothes
 ---

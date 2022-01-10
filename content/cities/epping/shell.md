@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /epping/shell/
-shop: Lebensmittel
+shop: convenience
 ---

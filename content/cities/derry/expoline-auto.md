@@ -1,5 +1,5 @@
 ---
 title: "Expoline Auto"
 url: /derry/expoline-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

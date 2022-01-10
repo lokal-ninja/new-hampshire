@@ -1,5 +1,5 @@
 ---
 title: "Good Scents Cellz"
 url: /manchester/good-scents-cellz/
-shop: Handy
+shop: mobile phone
 ---

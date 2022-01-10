@@ -1,5 +1,5 @@
 ---
 title: "Smokin' Joes Ayottes Stateline"
 url: /hudson/smokin-joes-ayottes-stateline/
-shop: Lebensmittel
+shop: convenience
 ---

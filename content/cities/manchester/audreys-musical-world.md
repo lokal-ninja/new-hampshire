@@ -1,5 +1,5 @@
 ---
 title: "Audrey's Musical World"
 url: /manchester/audreys-musical-world/
-shop: Instrumente
+shop: musical instrument
 ---

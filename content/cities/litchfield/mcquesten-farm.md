@@ -1,5 +1,5 @@
 ---
 title: "McQuesten Farm"
 url: /litchfield/mcquesten-farm/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /epping/walgreens/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TBD"
 url: /bedford/tbd/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "bareMinerals"
 url: /nashua/bareminerals/
-shop: Kosmetik
+shop: beauty
 ---

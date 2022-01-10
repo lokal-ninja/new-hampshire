@@ -1,5 +1,5 @@
 ---
 title: "Monro"
 url: /merrimack/monro/
-shop: Autowerkstatt
+shop: car repair
 ---

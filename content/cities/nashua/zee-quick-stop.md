@@ -1,5 +1,5 @@
 ---
 title: "Zee Quick Stop"
 url: /nashua/zee-quick-stop/
-shop: Lebensmittel
+shop: convenience
 ---

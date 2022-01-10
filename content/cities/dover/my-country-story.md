@@ -1,5 +1,5 @@
 ---
 title: "My Country Story"
 url: /dover/my-country-story/
-shop: Andenken
+shop: gift
 ---

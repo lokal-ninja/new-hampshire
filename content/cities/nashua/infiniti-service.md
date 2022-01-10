@@ -1,5 +1,5 @@
 ---
 title: "Infiniti Service"
 url: /nashua/infiniti-service/
-shop: Autowerkstatt
+shop: car repair
 ---

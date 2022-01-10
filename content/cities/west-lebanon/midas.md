@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /west-lebanon/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

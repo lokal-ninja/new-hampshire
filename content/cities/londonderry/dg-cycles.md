@@ -1,5 +1,5 @@
 ---
 title: "DG Cycles"
 url: /londonderry/dg-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

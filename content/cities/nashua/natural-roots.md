@@ -1,5 +1,5 @@
 ---
 title: "Natural Roots"
 url: /nashua/natural-roots/
-shop: Garten-Center
+shop: garden centre
 ---

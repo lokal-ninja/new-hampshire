@@ -1,5 +1,5 @@
 ---
 title: "Mac's"
 url: /franconia/macs/
-shop: Supermarkt
+shop: supermarket
 ---

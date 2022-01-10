@@ -1,5 +1,5 @@
 ---
 title: "Joe's Equipment"
 url: /west-lebanon/joes-equipment/
-shop: Eisenwaren
+shop: hardware
 ---

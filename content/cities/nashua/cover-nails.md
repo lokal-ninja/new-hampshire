@@ -1,5 +1,5 @@
 ---
 title: "Cover Nails"
 url: /nashua/cover-nails/
-shop: Kosmetik
+shop: beauty
 ---

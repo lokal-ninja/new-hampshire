@@ -1,5 +1,5 @@
 ---
 title: "Evans Expressmart"
 url: /sunapee/evans-expressmart/
-shop: Lebensmittel
+shop: convenience
 ---

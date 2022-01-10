@@ -1,5 +1,5 @@
 ---
 title: "Sleep Number"
 url: /manchester/sleep-number/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Seacoast Stone"
 url: /seabrook/seacoast-stone/
-shop: Fliesen
+shop: tiles
 ---

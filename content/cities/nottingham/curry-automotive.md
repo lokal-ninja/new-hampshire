@@ -1,5 +1,5 @@
 ---
 title: "Curry Automotive"
 url: /nottingham/curry-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

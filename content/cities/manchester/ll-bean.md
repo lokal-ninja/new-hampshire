@@ -1,5 +1,5 @@
 ---
 title: "LL Bean"
 url: /manchester/ll-bean/
-shop: Kleidung
+shop: clothes
 ---

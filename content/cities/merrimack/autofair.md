@@ -1,5 +1,5 @@
 ---
 title: "Autofair"
 url: /merrimack/autofair/
-shop: Autohaus
+shop: car
 ---

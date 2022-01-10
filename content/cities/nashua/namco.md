@@ -1,5 +1,5 @@
 ---
 title: "Namco"
 url: /nashua/namco/
-shop: Pool
+shop: swimming pool
 ---

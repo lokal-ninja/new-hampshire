@@ -1,5 +1,5 @@
 ---
 title: "Verizon Wireless"
 url: /north-conway/verizon-wireless/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /nashua/best-buy/
-shop: Elektronik
+shop: electronics
 ---

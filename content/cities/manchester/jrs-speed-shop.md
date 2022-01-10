@@ -1,5 +1,5 @@
 ---
 title: "JR's Speed Shop"
 url: /manchester/jrs-speed-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

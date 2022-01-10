@@ -1,5 +1,5 @@
 ---
 title: "MacMulkin"
 url: /nashua/macmulkin/
-shop: Autohaus
+shop: car
 ---

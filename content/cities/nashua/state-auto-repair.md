@@ -1,5 +1,5 @@
 ---
 title: "State Auto Repair"
 url: /nashua/state-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /amherst/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

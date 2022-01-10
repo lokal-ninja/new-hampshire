@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /west-lebanon/walgreens/
-shop: Drogerie
+shop: chemist
 ---

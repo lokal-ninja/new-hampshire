@@ -1,5 +1,5 @@
 ---
 title: "Evans Expressmart"
 url: /lebanon/evans-expressmart/
-shop: Lebensmittel
+shop: convenience
 ---

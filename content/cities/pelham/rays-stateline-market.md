@@ -1,5 +1,5 @@
 ---
 title: "Ray's Stateline Market"
 url: /pelham/rays-stateline-market/
-shop: Lebensmittel
+shop: convenience
 ---

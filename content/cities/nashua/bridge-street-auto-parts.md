@@ -1,5 +1,5 @@
 ---
 title: "Bridge Street Auto Parts"
 url: /nashua/bridge-street-auto-parts/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Action Auto Body"
 url: /fremont/action-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

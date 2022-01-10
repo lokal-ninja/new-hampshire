@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
 url: /nashua/cricket-wireless-2/
-shop: Handy
+shop: mobile phone
 ---

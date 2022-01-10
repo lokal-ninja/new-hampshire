@@ -1,5 +1,5 @@
 ---
 title: "Goodeed"
 url: /nashua/goodeed/
-shop: Elektronik
+shop: electronics
 ---

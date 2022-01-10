@@ -1,5 +1,5 @@
 ---
 title: "Drum Center of Portsmouth"
 url: /north-hampton/drum-center-of-portsmouth/
-shop: Instrumente
+shop: musical instrument
 ---

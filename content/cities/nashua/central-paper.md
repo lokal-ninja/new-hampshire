@@ -1,5 +1,5 @@
 ---
 title: "Central Paper"
 url: /nashua/central-paper/
-shop: Kopieren
+shop: copyshop
 ---

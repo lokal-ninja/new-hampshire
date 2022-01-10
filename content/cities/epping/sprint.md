@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /epping/sprint/
-shop: Handy
+shop: mobile phone
 ---

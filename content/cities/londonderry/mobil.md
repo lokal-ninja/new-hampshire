@@ -1,5 +1,5 @@
 ---
 title: "Mobil"
 url: /londonderry/mobil/
-shop: Lebensmittel
+shop: convenience
 ---

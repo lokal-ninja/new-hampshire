@@ -1,5 +1,5 @@
 ---
 title: "Red Persimmon"
 url: /manchester/red-persimmon/
-shop: Kosmetik
+shop: beauty
 ---

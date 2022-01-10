@@ -1,5 +1,5 @@
 ---
 title: "Youthful Solutions Spa"
 url: /hanover/youthful-solutions-spa/
-shop: Kosmetik
+shop: beauty
 ---

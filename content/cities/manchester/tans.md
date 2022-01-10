@@ -1,5 +1,5 @@
 ---
 title: "Tans"
 url: /manchester/tans/
-shop: Kosmetik
+shop: beauty
 ---

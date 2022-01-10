@@ -1,5 +1,5 @@
 ---
 title: "Stateline Sports"
 url: /west-lebanon/stateline-sports/
-shop: Sport
+shop: sports
 ---

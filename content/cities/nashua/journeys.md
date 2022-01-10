@@ -1,5 +1,5 @@
 ---
 title: "Journeys"
 url: /nashua/journeys/
-shop: Schuhe
+shop: shoes
 ---

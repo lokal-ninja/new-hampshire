@@ -1,5 +1,5 @@
 ---
 title: "Sanel Auto Parts"
 url: /derry/sanel-auto-parts/
-shop: Autowerkstatt
+shop: car repair
 ---

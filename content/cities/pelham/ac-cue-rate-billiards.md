@@ -1,5 +1,5 @@
 ---
 title: "Ac-Cue-Rate Billiards"
 url: /pelham/ac-cue-rate-billiards/
-shop: Sport
+shop: sports
 ---

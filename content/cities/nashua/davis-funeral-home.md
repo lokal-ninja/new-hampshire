@@ -1,5 +1,5 @@
 ---
 title: "Davis Funeral Home"
 url: /nashua/davis-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

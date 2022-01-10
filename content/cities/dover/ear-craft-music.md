@@ -1,5 +1,5 @@
 ---
 title: "Ear Craft Music"
 url: /dover/ear-craft-music/
-shop: Instrumente
+shop: musical instrument
 ---

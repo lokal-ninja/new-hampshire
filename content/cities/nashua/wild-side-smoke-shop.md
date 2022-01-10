@@ -1,5 +1,5 @@
 ---
 title: "Wild Side Smoke Shop"
 url: /nashua/wild-side-smoke-shop/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

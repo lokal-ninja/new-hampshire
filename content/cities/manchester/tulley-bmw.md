@@ -1,5 +1,5 @@
 ---
 title: "Tulley BMW"
 url: /manchester/tulley-bmw/
-shop: Autohaus
+shop: car
 ---

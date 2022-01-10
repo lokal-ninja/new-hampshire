@@ -1,5 +1,5 @@
 ---
 title: "D's Autobody"
 url: /hudson/ds-autobody/
-shop: Autowerkstatt
+shop: car repair
 ---

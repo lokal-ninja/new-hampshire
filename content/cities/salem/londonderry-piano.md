@@ -1,5 +1,5 @@
 ---
 title: "Londonderry Piano"
 url: /salem/londonderry-piano/
-shop: Instrumente
+shop: musical instrument
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cash for Gold"
 url: /londonderry/cash-for-gold/
-shop: Schmuck
+shop: jewelry
 ---

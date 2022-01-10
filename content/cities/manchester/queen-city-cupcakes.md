@@ -1,5 +1,5 @@
 ---
 title: "Queen City Cupcakes"
 url: /manchester/queen-city-cupcakes/
-shop: Bäckerei
+shop: bakery
 ---

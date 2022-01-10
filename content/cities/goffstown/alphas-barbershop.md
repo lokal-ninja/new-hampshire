@@ -1,5 +1,5 @@
 ---
 title: "Alpha's Barbershop"
 url: /goffstown/alphas-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

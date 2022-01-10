@@ -1,5 +1,5 @@
 ---
 title: "Nouria"
 url: /manchester/nouria/
-shop: Lebensmittel
+shop: convenience
 ---

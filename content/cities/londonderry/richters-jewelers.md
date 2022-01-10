@@ -1,5 +1,5 @@
 ---
 title: "Richter's Jewelers"
 url: /londonderry/richters-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

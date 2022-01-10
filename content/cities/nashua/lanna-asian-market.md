@@ -1,5 +1,5 @@
 ---
 title: "Lanna Asian Market"
 url: /nashua/lanna-asian-market/
-shop: Lebensmittel
+shop: convenience
 ---

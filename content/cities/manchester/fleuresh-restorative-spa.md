@@ -1,5 +1,5 @@
 ---
 title: "Fleuresh Restorative Spa"
 url: /manchester/fleuresh-restorative-spa/
-shop: Massage
+shop: massage
 ---

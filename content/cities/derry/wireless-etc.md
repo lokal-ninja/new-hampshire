@@ -1,5 +1,5 @@
 ---
 title: "Wireless Etc"
 url: /derry/wireless-etc/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Justice"
 url: /nashua/justice/
-shop: Kleidung
+shop: clothes
 ---

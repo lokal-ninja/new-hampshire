@@ -1,5 +1,5 @@
 ---
 title: "Go Wireless"
 url: /merrimack/go-wireless/
-shop: Handy
+shop: mobile phone
 ---

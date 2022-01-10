@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /nashua/petsmart-2/
-shop: Tiere
+shop: pet
 ---

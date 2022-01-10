@@ -1,5 +1,5 @@
 ---
 title: "Cool Tan"
 url: /londonderry/cool-tan/
-shop: Kosmetik
+shop: beauty
 ---

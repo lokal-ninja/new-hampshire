@@ -1,5 +1,5 @@
 ---
 title: "Aeropostale"
 url: /nashua/aeropostale/
-shop: Kleidung
+shop: clothes
 ---

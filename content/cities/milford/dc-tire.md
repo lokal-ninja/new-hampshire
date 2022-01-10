@@ -1,5 +1,5 @@
 ---
 title: "DC Tire"
 url: /milford/dc-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

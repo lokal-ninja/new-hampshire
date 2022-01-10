@@ -1,5 +1,5 @@
 ---
 title: "Radical Auto Repair"
 url: /nashua/radical-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

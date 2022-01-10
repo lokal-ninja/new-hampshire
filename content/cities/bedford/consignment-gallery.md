@@ -1,5 +1,5 @@
 ---
 title: "Consignment Gallery"
 url: /bedford/consignment-gallery/
-shop: Gebrauchtwaren
+shop: charity
 ---

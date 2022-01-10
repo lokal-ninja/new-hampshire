@@ -1,5 +1,5 @@
 ---
 title: "Detail Works"
 url: /hampton/detail-works/
-shop: Autowerkstatt
+shop: car repair
 ---

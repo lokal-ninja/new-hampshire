@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /nashua/ntb/
-shop: Autowerkstatt
+shop: car repair
 ---

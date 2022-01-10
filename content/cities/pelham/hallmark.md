@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /pelham/hallmark/
-shop: Schreibwaren
+shop: office supplies
 ---

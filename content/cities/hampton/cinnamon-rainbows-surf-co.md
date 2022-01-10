@@ -1,5 +1,5 @@
 ---
 title: "Cinnamon Rainbows Surf Co."
 url: /hampton/cinnamon-rainbows-surf-co/
-shop: Sport
+shop: sports
 ---

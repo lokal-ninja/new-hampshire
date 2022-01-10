@@ -1,5 +1,5 @@
 ---
 title: "Ur 1st Stop"
 url: /manchester/ur-1st-stop/
-shop: Lebensmittel
+shop: convenience
 ---

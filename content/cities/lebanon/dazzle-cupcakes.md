@@ -1,5 +1,5 @@
 ---
 title: "Dazzle Cupcakes"
 url: /lebanon/dazzle-cupcakes/
-shop: Konditorei
+shop: pastry
 ---

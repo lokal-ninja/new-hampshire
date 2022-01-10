@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /derry/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Prince Racing Transmissions"
 url: /hudson/prince-racing-transmissions/
-shop: Autowerkstatt
+shop: car repair
 ---

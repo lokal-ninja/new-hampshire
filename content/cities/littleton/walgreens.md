@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /littleton/walgreens/
-shop: Drogerie
+shop: chemist
 ---

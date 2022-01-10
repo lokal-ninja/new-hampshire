@@ -1,5 +1,5 @@
 ---
 title: "Haffner's Kick Stop"
 url: /hudson/haffners-kick-stop/
-shop: Lebensmittel
+shop: convenience
 ---

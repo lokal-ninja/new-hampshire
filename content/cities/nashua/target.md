@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /nashua/target/
-shop: Warenhaus
+shop: department store
 ---

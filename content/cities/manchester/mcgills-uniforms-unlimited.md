@@ -1,5 +1,5 @@
 ---
 title: "McGill's Uniforms Unlimited"
 url: /manchester/mcgills-uniforms-unlimited/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toy Tech"
 url: /barrington/toy-tech/
-shop: Autowerkstatt
+shop: car repair
 ---

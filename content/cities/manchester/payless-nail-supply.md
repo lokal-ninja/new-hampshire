@@ -1,5 +1,5 @@
 ---
 title: "Payless Nail Supply"
 url: /manchester/payless-nail-supply/
-shop: Kosmetik
+shop: beauty
 ---

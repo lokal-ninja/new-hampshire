@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
 url: /exeter/hannaford/
-shop: Supermarkt
+shop: supermarket
 ---

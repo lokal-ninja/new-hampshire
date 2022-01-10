@@ -1,5 +1,5 @@
 ---
 title: "Shaw's"
 url: /plaistow/shaws/
-shop: Supermarkt
+shop: supermarket
 ---

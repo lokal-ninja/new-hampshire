@@ -1,5 +1,5 @@
 ---
 title: "Un-Dun'"
 url: /west-lebanon/un-dun/
-shop: Allgemein
+shop: shop
 ---

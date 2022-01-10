@@ -1,5 +1,5 @@
 ---
 title: "Crown Nails"
 url: /nashua/crown-nails/
-shop: Kosmetik
+shop: beauty
 ---

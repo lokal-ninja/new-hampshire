@@ -1,5 +1,5 @@
 ---
 title: "Salon Rella"
 url: /manchester/salon-rella/
-shop: Friseur
+shop: hairdresser
 ---

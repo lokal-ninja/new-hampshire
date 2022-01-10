@@ -1,5 +1,5 @@
 ---
 title: "Treasures Hallmark"
 url: /east-hampstead/treasures-hallmark/
-shop: Andenken
+shop: gift
 ---

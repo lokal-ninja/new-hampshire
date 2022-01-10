@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /manchester/savers/
-shop: Supermarkt
+shop: supermarket
 ---

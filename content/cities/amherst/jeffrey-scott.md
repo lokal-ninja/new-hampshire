@@ -1,5 +1,5 @@
 ---
 title: "Jeffrey Scott"
 url: /amherst/jeffrey-scott/
-shop: Schmuck
+shop: jewelry
 ---

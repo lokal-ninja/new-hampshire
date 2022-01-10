@@ -1,5 +1,5 @@
 ---
 title: "LaValley Building Supply"
 url: /newport/lavalley-building-supply/
-shop: Eisenwaren
+shop: hardware
 ---

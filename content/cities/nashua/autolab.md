@@ -1,5 +1,5 @@
 ---
 title: "Autolab"
 url: /nashua/autolab/
-shop: Autowerkstatt
+shop: car repair
 ---

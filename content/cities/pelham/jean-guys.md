@@ -1,5 +1,5 @@
 ---
 title: "Jean-Guy's"
 url: /pelham/jean-guys/
-shop: Autowerkstatt
+shop: car repair
 ---

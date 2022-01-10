@@ -1,5 +1,5 @@
 ---
 title: "Cumberland Farms"
 url: /nashua/cumberland-farms-3/
-shop: Lebensmittel
+shop: convenience
 ---

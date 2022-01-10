@@ -1,5 +1,5 @@
 ---
 title: "The Chocolatier"
 url: /exeter/the-chocolatier/
-shop: Süßwaren
+shop: confectionery
 ---

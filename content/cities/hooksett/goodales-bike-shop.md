@@ -1,5 +1,5 @@
 ---
 title: "Goodale's Bike Shop"
 url: /hooksett/goodales-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

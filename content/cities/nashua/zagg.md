@@ -1,5 +1,5 @@
 ---
 title: "Zagg"
 url: /nashua/zagg/
-shop: Handy
+shop: mobile phone
 ---

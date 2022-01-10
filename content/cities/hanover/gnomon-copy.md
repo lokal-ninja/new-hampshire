@@ -1,5 +1,5 @@
 ---
 title: "Gnomon Copy"
 url: /hanover/gnomon-copy/
-shop: Kopieren
+shop: copyshop
 ---

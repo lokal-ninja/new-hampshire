@@ -1,5 +1,5 @@
 ---
 title: "Arrow Glass"
 url: /manchester/arrow-glass/
-shop: Autowerkstatt
+shop: car repair
 ---

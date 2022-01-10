@@ -1,5 +1,5 @@
 ---
 title: "Chloe's Cuts"
 url: /goffstown/chloes-cuts/
-shop: Friseur
+shop: hairdresser
 ---

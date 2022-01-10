@@ -1,5 +1,5 @@
 ---
 title: "Italmoda"
 url: /nashua/italmoda/
-shop: Möbel
+shop: furniture
 ---
