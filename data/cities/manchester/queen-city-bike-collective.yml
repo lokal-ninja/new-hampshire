@@ -1,6 +1,6 @@
 id: 9530007887
 type: node
-latitude: 42.97494
+latitude: 42.97497
 longitude: -71.46279
 postcode: "03101"
 city: Manchester
@@ -8,4 +8,4 @@ street: "Elm Street"
 housenumber: 35
 phone: ""
 opening_hours: ""
-website: "qcbike.org"
+website: "https://qcbike.org"
