@@ -7,5 +7,5 @@ city: Hanover
 street: "Allen Street"
 housenumber: 3
 phone: "+1-603-676-7856"
-opening_hours: "Mo-Sa 10:00-22:00; Su 10:00-18:00"
+opening_hours: "Mo-We,Sa 09:00-18:00; Th,Fr 09:00-21:00; Su 11:00-16:00"
 website: "https://www.stillnorthbooks.com/"
