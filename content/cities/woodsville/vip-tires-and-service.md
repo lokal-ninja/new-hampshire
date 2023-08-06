@@ -1,5 +1,5 @@
 ---
-title: "VIP Tires & Service"
+title: "VIP Tires and Service"
 url: /woodsville/vip-tires-and-service/
-shop: tyres
+shop: car repair
 ---

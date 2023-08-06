@@ -1,6 +1,6 @@
 ---
 title: Chichester
 url: /chichester/
-latitude: 43.244
-longitude: -71.408
+latitude: 43.242
+longitude: -71.4
 ---
