@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /nashua/verizon/
+url: /nashua/verizon-daniel-webster-highway/
 shop: mobile phone
 ---

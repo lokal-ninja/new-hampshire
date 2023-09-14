@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
-url: /concord/supercuts/
+url: /concord/supercuts-loudon-road/
 shop: hairdresser
 ---

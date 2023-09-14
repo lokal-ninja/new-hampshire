@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
-url: /manchester/lenscrafters/
+url: /manchester/lenscrafters-march-avenue/
 shop: optician
 ---

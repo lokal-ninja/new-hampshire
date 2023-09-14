@@ -1,5 +1,5 @@
 ---
 title: "Shaw's"
-url: /nashua/shaws/
+url: /nashua/shaws-daniel-webster-highway/
 shop: supermarket
 ---

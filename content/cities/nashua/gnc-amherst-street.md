@@ -1,5 +1,5 @@
 ---
 title: "GNC"
-url: /nashua/gnc/
+url: /nashua/gnc-amherst-street/
 shop: nutrition supplements
 ---

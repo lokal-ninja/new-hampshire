@@ -1,5 +1,5 @@
 ---
 title: "Miller's Powerhouse"
-url: /manchester/millers-powerhouse/
+url: /manchester/millers-powerhouse-second-street/
 shop: car repair
 ---

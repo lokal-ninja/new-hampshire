@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /nashua/autozone/
+url: /nashua/autozone-amherst-street/
 shop: car parts
 ---

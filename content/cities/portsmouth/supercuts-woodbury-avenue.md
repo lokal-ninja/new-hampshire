@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
-url: /portsmouth/supercuts/
+url: /portsmouth/supercuts-woodbury-avenue/
 shop: hairdresser
 ---

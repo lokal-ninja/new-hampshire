@@ -1,5 +1,5 @@
 ---
 title: "Piercing Pagoda"
-url: /nashua/piercing-pagoda/
+url: /nashua/piercing-pagoda-daniel-webster-highway/
 shop: piercing
 ---

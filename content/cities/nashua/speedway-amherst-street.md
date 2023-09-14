@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /nashua/speedway/
+url: /nashua/speedway-amherst-street/
 shop: convenience
 ---

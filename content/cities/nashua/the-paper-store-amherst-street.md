@@ -1,5 +1,5 @@
 ---
 title: "The Paper Store"
-url: /nashua/the-paper-store/
+url: /nashua/the-paper-store-amherst-street/
 shop: office supplies
 ---

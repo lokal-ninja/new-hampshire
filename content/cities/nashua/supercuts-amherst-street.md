@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
-url: /nashua/supercuts/
+url: /nashua/supercuts-amherst-street/
 shop: hairdresser
 ---

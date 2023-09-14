@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
-url: /nashua/mattress-firm/
+url: /nashua/mattress-firm-daniel-webster-highway/
 shop: bed
 ---

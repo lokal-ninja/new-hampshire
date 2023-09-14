@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
-url: /nashua/rite-aid/
+url: /nashua/rite-aid-amherst-street/
 shop: chemist
 ---

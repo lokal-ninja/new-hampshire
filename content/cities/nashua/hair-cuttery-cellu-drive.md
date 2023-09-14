@@ -1,5 +1,5 @@
 ---
 title: "Hair Cuttery"
-url: /nashua/hair-cuttery/
+url: /nashua/hair-cuttery-cellu-drive/
 shop: hairdresser
 ---

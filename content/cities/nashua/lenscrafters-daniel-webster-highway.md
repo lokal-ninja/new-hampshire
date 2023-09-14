@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
-url: /nashua/lenscrafters/
+url: /nashua/lenscrafters-daniel-webster-highway/
 shop: optician
 ---

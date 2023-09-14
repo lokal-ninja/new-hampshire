@@ -1,6 +1,6 @@
 ---
 title: North Conway
 url: /north-conway/
-latitude: 44.052
-longitude: -71.126
+latitude: 44.054
+longitude: -71.129
 ---

@@ -1,5 +1,5 @@
 ---
 title: "True Blue Cleaners"
-url: /nashua/true-blue-cleaners/
+url: /nashua/true-blue-cleaners-progress-avenue/
 shop: laundry
 ---

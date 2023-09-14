@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
-url: /nashua/sprint/
+url: /nashua/sprint-gusabel-avenue/
 shop: mobile phone
 ---
