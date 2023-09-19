@@ -1,6 +1,6 @@
 ---
 title: Bethlehem
 url: /bethlehem/
-latitude: 44.28
-longitude: -71.69
+latitude: 44.278
+longitude: -71.72
 ---
