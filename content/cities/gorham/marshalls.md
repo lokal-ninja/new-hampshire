@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
-url: /nashua/marshalls-northwest-boulevard/
+url: /gorham/marshalls/
 shop: department store
 ---
