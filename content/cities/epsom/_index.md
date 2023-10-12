@@ -1,6 +1,6 @@
 ---
 title: Epsom
 url: /epsom/
-latitude: 43.247
-longitude: -71.371
+latitude: 43.224
+longitude: -71.339
 ---
