@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
-url: /nashua/marshalls-daniel-webster-highway/
+url: /nashua/marshalls-northwest-boulevard/
 shop: department store
 ---
