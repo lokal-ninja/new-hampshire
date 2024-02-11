@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /concord/speedway-hall-street/
+url: /concord/speedway-north-main-street/
 shop: convenience
 ---
