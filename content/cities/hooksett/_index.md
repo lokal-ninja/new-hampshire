@@ -1,6 +1,6 @@
 ---
 title: Hooksett
 url: /hooksett/
-latitude: 43.025
-longitude: -71.409
+latitude: 43.111
+longitude: -71.476
 ---
