@@ -1,6 +1,6 @@
 ---
 title: Tilton
 url: /tilton/
-latitude: 43.444
-longitude: -71.593
+latitude: 43.456
+longitude: -71.563
 ---
