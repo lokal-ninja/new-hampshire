@@ -1,5 +1,5 @@
 ---
 title: "PacSun"
 url: /nashua/pacsun/
-shop: clothes
+shop: Kleidung
 ---

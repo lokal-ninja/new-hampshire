@@ -1,5 +1,5 @@
 ---
 title: "Torrid"
 url: /manchester/torrid/
-shop: clothes
+shop: Kleidung
 ---

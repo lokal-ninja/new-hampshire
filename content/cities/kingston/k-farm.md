@@ -1,5 +1,5 @@
 ---
 title: "K. Farm"
 url: /kingston/k-farm/
-shop: farm
+shop: Hofladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /keene/walmart/
-shop: supermarket
+shop: Supermarkt
 ---

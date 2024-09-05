@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /nashua/swarovski/
-shop: jewelry
+shop: Schmuck
 ---

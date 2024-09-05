@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /nashua/savers/
-shop: charity
+shop: Gebrauchtwaren
 ---

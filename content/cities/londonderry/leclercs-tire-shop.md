@@ -1,5 +1,5 @@
 ---
 title: "LeClerc's Tire Shop"
 url: /londonderry/leclercs-tire-shop/
-shop: tyres
+shop: Reifen
 ---

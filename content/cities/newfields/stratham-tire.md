@@ -1,5 +1,5 @@
 ---
 title: "Stratham Tire"
 url: /newfields/stratham-tire/
-shop: car repair
+shop: Autowerkstatt
 ---

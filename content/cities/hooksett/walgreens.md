@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /hooksett/walgreens/
-shop: chemist
+shop: Drogerie
 ---

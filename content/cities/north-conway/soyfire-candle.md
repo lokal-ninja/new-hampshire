@@ -1,5 +1,5 @@
 ---
 title: "Soyfire Candle"
 url: /north-conway/soyfire-candle/
-shop: candles
+shop: Kerzen
 ---

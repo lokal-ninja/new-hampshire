@@ -1,5 +1,5 @@
 ---
 title: "Maplefields"
 url: /lebanon/maplefields/
-shop: convenience
+shop: Lebensmittel
 ---

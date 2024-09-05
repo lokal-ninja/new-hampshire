@@ -1,5 +1,5 @@
 ---
 title: "Smith Farm Produce"
 url: /hudson/smith-farm-produce/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

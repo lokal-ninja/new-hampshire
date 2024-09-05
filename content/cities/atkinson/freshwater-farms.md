@@ -1,5 +1,5 @@
 ---
 title: "Freshwater Farms"
 url: /atkinson/freshwater-farms/
-shop: garden centre
+shop: Garten-Center
 ---

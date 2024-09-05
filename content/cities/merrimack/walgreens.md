@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /merrimack/walgreens/
-shop: chemist
+shop: Drogerie
 ---

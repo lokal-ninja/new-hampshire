@@ -1,5 +1,5 @@
 ---
 title: "Shaggin' Salon"
 url: /manchester/shaggin-salon/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Arhaus"
 url: /salem/arhaus/
-shop: furniture
+shop: Möbel
 ---

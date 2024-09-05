@@ -1,5 +1,5 @@
 ---
 title: "Amidon Jewelers"
 url: /west-lebanon/amidon-jewelers/
-shop: jewelry
+shop: Schmuck
 ---

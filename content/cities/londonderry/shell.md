@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /londonderry/shell/
-shop: convenience
+shop: Lebensmittel
 ---

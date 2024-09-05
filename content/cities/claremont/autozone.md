@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /claremont/autozone/
-shop: car parts
+shop: Autoteile
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sandri"
 url: /west-lebanon/sandri/
-shop: convenience
+shop: Lebensmittel
 ---

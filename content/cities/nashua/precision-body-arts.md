@@ -1,5 +1,5 @@
 ---
 title: "Precision Body Arts"
 url: /nashua/precision-body-arts/
-shop: tattoo
+shop: Tattoo
 ---

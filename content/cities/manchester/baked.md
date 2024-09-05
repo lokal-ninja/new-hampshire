@@ -1,5 +1,5 @@
 ---
 title: "Baked"
 url: /manchester/baked/
-shop: bakery
+shop: Bäckerei
 ---

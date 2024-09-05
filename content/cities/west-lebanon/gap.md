@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /west-lebanon/gap/
-shop: clothes
+shop: Kleidung
 ---

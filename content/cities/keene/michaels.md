@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /keene/michaels/
-shop: craft
+shop: Basteln
 ---

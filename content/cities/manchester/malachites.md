@@ -1,5 +1,5 @@
 ---
 title: "Malachites"
 url: /manchester/malachites/
-shop: hairdresser
+shop: Friseur
 ---

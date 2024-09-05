@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /hudson/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

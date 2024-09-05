@@ -1,5 +1,5 @@
 ---
 title: "Express"
 url: /nashua/express/
-shop: clothes
+shop: Kleidung
 ---

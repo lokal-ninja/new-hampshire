@@ -1,5 +1,5 @@
 ---
 title: "Windsor"
 url: /manchester/windsor/
-shop: clothes
+shop: Kleidung
 ---

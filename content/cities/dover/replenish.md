@@ -1,5 +1,5 @@
 ---
 title: "Replenish"
 url: /dover/replenish/
-shop: chemist
+shop: Drogerie
 ---

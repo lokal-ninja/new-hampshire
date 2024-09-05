@@ -1,5 +1,5 @@
 ---
 title: "Belletetes"
 url: /andover/belletetes/
-shop: hardware
+shop: Eisenwaren
 ---

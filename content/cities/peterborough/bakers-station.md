@@ -1,5 +1,5 @@
 ---
 title: "Baker's Station"
 url: /peterborough/bakers-station/
-shop: bakery
+shop: Bäckerei
 ---

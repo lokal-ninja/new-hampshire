@@ -1,5 +1,5 @@
 ---
 title: "Mapvapes"
 url: /nashua/mapvapes/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

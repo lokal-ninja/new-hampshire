@@ -1,5 +1,5 @@
 ---
 title: "Vans"
 url: /nashua/vans/
-shop: shoes
+shop: Schuhe
 ---

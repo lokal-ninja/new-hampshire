@@ -1,5 +1,5 @@
 ---
 title: "Edible Arrangements"
 url: /nashua/edible-arrangements/
-shop: florist
+shop: Blumen
 ---

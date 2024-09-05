@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /nashua/burlington/
-shop: department store
+shop: Warenhaus
 ---

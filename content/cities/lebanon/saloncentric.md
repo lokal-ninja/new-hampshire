@@ -1,5 +1,5 @@
 ---
 title: "SalonCentric"
 url: /lebanon/saloncentric/
-shop: beauty
+shop: Kosmetik
 ---

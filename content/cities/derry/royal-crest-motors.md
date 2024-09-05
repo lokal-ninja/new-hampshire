@@ -1,5 +1,5 @@
 ---
 title: "Royal Crest Motors"
 url: /derry/royal-crest-motors/
-shop: car
+shop: Autohaus
 ---

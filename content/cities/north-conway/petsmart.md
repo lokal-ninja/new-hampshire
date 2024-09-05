@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /north-conway/petsmart/
-shop: pet
+shop: Tiere
 ---

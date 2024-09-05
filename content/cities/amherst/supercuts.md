@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /amherst/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

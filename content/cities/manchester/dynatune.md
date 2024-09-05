@@ -1,5 +1,5 @@
 ---
 title: "DynaTune"
 url: /manchester/dynatune/
-shop: car repair
+shop: Autowerkstatt
 ---

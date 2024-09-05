@@ -1,5 +1,5 @@
 ---
 title: "Shear Imagination"
 url: /pelham/shear-imagination/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fastbreak Sports"
 url: /derry/fastbreak-sports/
-shop: sports
+shop: Sport
 ---

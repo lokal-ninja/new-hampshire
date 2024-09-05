@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /seabrook/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

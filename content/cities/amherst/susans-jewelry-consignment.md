@@ -1,5 +1,5 @@
 ---
 title: "Susan's Jewelry Consignment"
 url: /amherst/susans-jewelry-consignment/
-shop: jewelry
+shop: Schmuck
 ---

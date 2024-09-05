@@ -1,5 +1,5 @@
 ---
 title: "Costco Tire Center"
 url: /nashua/costco-tire-center/
-shop: tyres
+shop: Reifen
 ---

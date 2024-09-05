@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /gilford/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

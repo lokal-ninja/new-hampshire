@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /gilford/petco/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rapid Refill"
 url: /chichester/rapid-refill/
-shop: convenience
+shop: Lebensmittel
 ---

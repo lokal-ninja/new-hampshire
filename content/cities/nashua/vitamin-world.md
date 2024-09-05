@@ -1,5 +1,5 @@
 ---
 title: "Vitamin World"
 url: /nashua/vitamin-world/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

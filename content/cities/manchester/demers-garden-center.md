@@ -1,5 +1,5 @@
 ---
 title: "Demers Garden Center"
 url: /manchester/demers-garden-center/
-shop: garden centre
+shop: Garten-Center
 ---

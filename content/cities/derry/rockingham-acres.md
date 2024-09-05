@@ -1,5 +1,5 @@
 ---
 title: "Rockingham Acres"
 url: /derry/rockingham-acres/
-shop: garden centre
+shop: Garten-Center
 ---

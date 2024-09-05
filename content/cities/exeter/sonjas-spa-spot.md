@@ -1,5 +1,5 @@
 ---
 title: "Sonja's Spa Spot"
 url: /exeter/sonjas-spa-spot/
-shop: beauty
+shop: Kosmetik
 ---

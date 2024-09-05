@@ -1,5 +1,5 @@
 ---
 title: "The Framery"
 url: /nashua/the-framery/
-shop: frame
+shop: Rahmen
 ---

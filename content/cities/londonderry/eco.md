@@ -1,5 +1,5 @@
 ---
 title: "Eco"
 url: /londonderry/eco/
-shop: hairdresser
+shop: Friseur
 ---

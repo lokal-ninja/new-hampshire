@@ -1,5 +1,5 @@
 ---
 title: "Marjam"
 url: /manchester/marjam/
-shop: doityourself
+shop: Baumarkt
 ---

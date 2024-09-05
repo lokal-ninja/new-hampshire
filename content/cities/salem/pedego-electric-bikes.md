@@ -1,5 +1,5 @@
 ---
 title: "Pedego Electric Bikes"
 url: /salem/pedego-electric-bikes/
-shop: bicycle
+shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ACE"
 url: /keene/ace/
-shop: hardware
+shop: Eisenwaren
 ---

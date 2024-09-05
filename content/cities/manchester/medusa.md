@@ -1,5 +1,5 @@
 ---
 title: "Medusa"
 url: /manchester/medusa/
-shop: beauty
+shop: Kosmetik
 ---

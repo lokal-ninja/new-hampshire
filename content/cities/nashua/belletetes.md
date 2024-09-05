@@ -1,5 +1,5 @@
 ---
 title: "Belletetes"
 url: /nashua/belletetes/
-shop: hardware
+shop: Eisenwaren
 ---

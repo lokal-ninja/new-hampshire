@@ -1,5 +1,5 @@
 ---
 title: "Framers Market"
 url: /manchester/framers-market/
-shop: frame
+shop: Rahmen
 ---

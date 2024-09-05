@@ -1,5 +1,5 @@
 ---
 title: "Agway"
 url: /milford/agway/
-shop: doityourself
+shop: Baumarkt
 ---

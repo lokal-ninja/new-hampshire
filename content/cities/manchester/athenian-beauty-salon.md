@@ -1,5 +1,5 @@
 ---
 title: "Athenian Beauty Salon"
 url: /manchester/athenian-beauty-salon/
-shop: hairdresser
+shop: Friseur
 ---

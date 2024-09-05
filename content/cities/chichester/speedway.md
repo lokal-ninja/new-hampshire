@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /chichester/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

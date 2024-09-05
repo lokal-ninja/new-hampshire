@@ -1,5 +1,5 @@
 ---
 title: "National Tire and Battery"
 url: /nashua/national-tire-and-battery/
-shop: car repair
+shop: Autowerkstatt
 ---

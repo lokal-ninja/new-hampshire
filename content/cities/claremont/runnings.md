@@ -1,5 +1,5 @@
 ---
 title: "Runnings"
 url: /claremont/runnings/
-shop: doityourself
+shop: Baumarkt
 ---

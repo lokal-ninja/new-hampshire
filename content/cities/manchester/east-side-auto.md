@@ -1,5 +1,5 @@
 ---
 title: "East Side Auto"
 url: /manchester/east-side-auto/
-shop: car
+shop: Autohaus
 ---

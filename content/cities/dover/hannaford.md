@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
 url: /dover/hannaford/
-shop: supermarket
+shop: Supermarkt
 ---
