@@ -1,5 +1,5 @@
 ---
 title: "Hudson Trophy"
 url: /nashua/hudson-trophy/
-shop: Pokal
+shop: trophy
 ---

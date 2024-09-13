@@ -1,5 +1,5 @@
 ---
 title: "Stanley Mitsubishi"
 url: /manchester/stanley-mitsubishi/
-shop: Autohaus
+shop: car
 ---

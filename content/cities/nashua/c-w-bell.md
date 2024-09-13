@@ -1,5 +1,5 @@
 ---
 title: "C. W. Bell"
 url: /nashua/c-w-bell/
-shop: Autowerkstatt
+shop: car repair
 ---

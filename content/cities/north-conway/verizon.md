@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /north-conway/verizon/
-shop: Handy
+shop: mobile phone
 ---

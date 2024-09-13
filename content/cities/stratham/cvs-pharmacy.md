@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /stratham/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

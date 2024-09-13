@@ -1,5 +1,5 @@
 ---
 title: "Jared"
 url: /newington/jared/
-shop: Schmuck
+shop: jewelry
 ---

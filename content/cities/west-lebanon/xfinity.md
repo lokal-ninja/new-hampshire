@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
 url: /west-lebanon/xfinity/
-shop: Handy
+shop: mobile phone
 ---

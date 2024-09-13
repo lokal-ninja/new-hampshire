@@ -1,5 +1,5 @@
 ---
 title: "Shamrock Auto Brokers"
 url: /belmont/shamrock-auto-brokers/
-shop: Autohaus
+shop: car
 ---

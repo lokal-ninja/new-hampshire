@@ -1,5 +1,5 @@
 ---
 title: "Sanel NAPA"
 url: /milford/sanel-napa/
-shop: Autoteile
+shop: car parts
 ---

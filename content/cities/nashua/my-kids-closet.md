@@ -1,5 +1,5 @@
 ---
 title: "My Kids Closet"
 url: /nashua/my-kids-closet/
-shop: Gebrauchtwaren
+shop: charity
 ---

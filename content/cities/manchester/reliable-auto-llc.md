@@ -1,5 +1,5 @@
 ---
 title: "Reliable Auto LLC"
 url: /manchester/reliable-auto-llc/
-shop: Autowerkstatt
+shop: car repair
 ---

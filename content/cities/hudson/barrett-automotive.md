@@ -1,5 +1,5 @@
 ---
 title: "Barrett Automotive"
 url: /hudson/barrett-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

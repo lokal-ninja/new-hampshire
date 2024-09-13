@@ -1,5 +1,5 @@
 ---
 title: "White Barn"
 url: /nashua/white-barn/
-shop: Kerzen
+shop: candles
 ---

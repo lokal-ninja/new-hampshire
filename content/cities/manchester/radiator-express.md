@@ -1,5 +1,5 @@
 ---
 title: "Radiator Express"
 url: /manchester/radiator-express/
-shop: Autowerkstatt
+shop: car repair
 ---

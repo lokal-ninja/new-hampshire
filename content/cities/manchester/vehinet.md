@@ -1,5 +1,5 @@
 ---
 title: "Vehinet"
 url: /manchester/vehinet/
-shop: Autohaus
+shop: car
 ---

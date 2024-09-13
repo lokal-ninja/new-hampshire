@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /concord/trek/
-shop: Fahrrad
+shop: bicycle
 ---

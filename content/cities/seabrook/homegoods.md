@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /seabrook/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

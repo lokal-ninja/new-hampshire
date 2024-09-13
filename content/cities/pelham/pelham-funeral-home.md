@@ -1,5 +1,5 @@
 ---
 title: "Pelham Funeral Home"
 url: /pelham/pelham-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

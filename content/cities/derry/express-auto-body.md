@@ -1,5 +1,5 @@
 ---
 title: "Express Auto Body"
 url: /derry/express-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

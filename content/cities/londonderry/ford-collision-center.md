@@ -1,5 +1,5 @@
 ---
 title: "Ford Collision Center"
 url: /londonderry/ford-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

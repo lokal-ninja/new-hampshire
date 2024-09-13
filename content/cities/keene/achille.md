@@ -1,5 +1,5 @@
 ---
 title: "Achille"
 url: /keene/achille/
-shop: Garten-Center
+shop: garden centre
 ---

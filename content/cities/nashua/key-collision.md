@@ -1,5 +1,5 @@
 ---
 title: "Key Collision"
 url: /nashua/key-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

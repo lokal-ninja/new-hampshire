@@ -1,5 +1,5 @@
 ---
 title: "Noggin Factory"
 url: /dover/noggin-factory/
-shop: Spielzeug
+shop: toys
 ---

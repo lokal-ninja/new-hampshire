@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /plaistow/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

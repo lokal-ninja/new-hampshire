@@ -1,5 +1,5 @@
 ---
 title: "All Season Nails"
 url: /west-lebanon/all-season-nails/
-shop: Kosmetik
+shop: beauty
 ---

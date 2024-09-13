@@ -1,5 +1,5 @@
 ---
 title: "Benjamin Moore"
 url: /west-lebanon/benjamin-moore/
-shop: Farben
+shop: paint
 ---

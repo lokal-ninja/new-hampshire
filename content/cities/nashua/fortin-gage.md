@@ -1,5 +1,5 @@
 ---
 title: "Fortin Gage"
 url: /nashua/fortin-gage/
-shop: Blumen
+shop: florist
 ---

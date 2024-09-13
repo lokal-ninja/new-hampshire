@@ -1,5 +1,5 @@
 ---
 title: "Belletetes"
 url: /peterborough/belletetes/
-shop: Eisenwaren
+shop: hardware
 ---

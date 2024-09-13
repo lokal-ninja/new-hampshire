@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /rindge/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Re-Bath"
 url: /manchester/re-bath/
-shop: Badezimmer
+shop: bathroom
 ---

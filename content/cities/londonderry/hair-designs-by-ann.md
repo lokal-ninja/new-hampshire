@@ -1,5 +1,5 @@
 ---
 title: "Hair Designs by Ann"
 url: /londonderry/hair-designs-by-ann/
-shop: Friseur
+shop: hairdresser
 ---

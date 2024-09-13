@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /concord/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

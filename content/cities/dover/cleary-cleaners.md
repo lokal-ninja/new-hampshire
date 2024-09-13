@@ -1,5 +1,5 @@
 ---
 title: "Cleary Cleaners"
 url: /dover/cleary-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

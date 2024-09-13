@@ -1,5 +1,5 @@
 ---
 title: "Tricity Line-X"
 url: /dover/tricity-line-x/
-shop: Autowerkstatt
+shop: car repair
 ---

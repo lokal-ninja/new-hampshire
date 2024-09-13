@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /tilton/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

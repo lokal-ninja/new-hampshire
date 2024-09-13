@@ -1,5 +1,5 @@
 ---
 title: "Sierra"
 url: /west-lebanon/sierra/
-shop: Outdoor
+shop: outdoor
 ---

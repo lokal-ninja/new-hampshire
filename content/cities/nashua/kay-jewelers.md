@@ -1,5 +1,5 @@
 ---
 title: "Kay Jewelers"
 url: /nashua/kay-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

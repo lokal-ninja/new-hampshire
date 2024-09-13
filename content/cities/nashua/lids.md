@@ -1,5 +1,5 @@
 ---
 title: "Lids"
 url: /nashua/lids/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spencer's"
 url: /nashua/spencers/
-shop: Andenken
+shop: gift
 ---

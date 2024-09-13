@@ -1,5 +1,5 @@
 ---
 title: "Volvo of Manchester"
 url: /manchester/volvo-of-manchester/
-shop: Autohaus
+shop: car
 ---

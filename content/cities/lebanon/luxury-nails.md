@@ -1,5 +1,5 @@
 ---
 title: "Luxury Nails"
 url: /lebanon/luxury-nails/
-shop: Kosmetik
+shop: beauty
 ---

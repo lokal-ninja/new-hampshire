@@ -1,5 +1,5 @@
 ---
 title: "Gurney's Automotive Repair"
 url: /nashua/gurneys-automotive-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

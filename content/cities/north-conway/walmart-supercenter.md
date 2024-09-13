@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /north-conway/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

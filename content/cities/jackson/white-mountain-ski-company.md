@@ -1,5 +1,5 @@
 ---
 title: "White Mountain Ski Company"
 url: /jackson/white-mountain-ski-company/
-shop: Sport
+shop: sports
 ---

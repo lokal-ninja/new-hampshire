@@ -1,5 +1,5 @@
 ---
 title: "Monro"
 url: /hudson/monro/
-shop: Autowerkstatt
+shop: car repair
 ---

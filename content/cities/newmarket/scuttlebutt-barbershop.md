@@ -1,5 +1,5 @@
 ---
 title: "Scuttlebutt Barbershop"
 url: /newmarket/scuttlebutt-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

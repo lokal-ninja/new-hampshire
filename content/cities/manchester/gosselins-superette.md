@@ -1,5 +1,5 @@
 ---
 title: "Gosselin's Superette"
 url: /manchester/gosselins-superette/
-shop: Lebensmittel
+shop: convenience
 ---

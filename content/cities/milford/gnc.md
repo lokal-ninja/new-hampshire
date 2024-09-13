@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /milford/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

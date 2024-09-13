@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /plaistow/savers/
-shop: Gebrauchtwaren
+shop: charity
 ---

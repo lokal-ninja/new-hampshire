@@ -1,5 +1,5 @@
 ---
 title: "Spider Bite"
 url: /manchester/spider-bite/
-shop: Tattoo
+shop: tattoo
 ---

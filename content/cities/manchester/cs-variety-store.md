@@ -1,5 +1,5 @@
 ---
 title: "C's Variety Store"
 url: /manchester/cs-variety-store/
-shop: Kramladen
+shop: variety store
 ---

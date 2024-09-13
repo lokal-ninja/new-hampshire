@@ -1,5 +1,5 @@
 ---
 title: "Backmann Florist"
 url: /derry/backmann-florist/
-shop: Blumen
+shop: florist
 ---

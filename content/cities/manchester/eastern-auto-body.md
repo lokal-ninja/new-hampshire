@@ -1,5 +1,5 @@
 ---
 title: "Eastern Auto Body"
 url: /manchester/eastern-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

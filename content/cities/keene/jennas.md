@@ -1,5 +1,5 @@
 ---
 title: "Jenna's"
 url: /keene/jennas/
-shop: Feinkost
+shop: deli
 ---

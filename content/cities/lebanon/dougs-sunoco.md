@@ -1,5 +1,5 @@
 ---
 title: "Doug's Sunoco"
 url: /lebanon/dougs-sunoco/
-shop: Autowerkstatt
+shop: car repair
 ---

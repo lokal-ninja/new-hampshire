@@ -1,5 +1,5 @@
 ---
 title: "Best Cleaners"
 url: /nashua/best-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

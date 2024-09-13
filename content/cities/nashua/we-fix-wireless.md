@@ -1,5 +1,5 @@
 ---
 title: "We Fix Wireless"
 url: /nashua/we-fix-wireless/
-shop: Handy
+shop: mobile phone
 ---

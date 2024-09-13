@@ -1,5 +1,5 @@
 ---
 title: "Spice Center"
 url: /manchester/spice-center/
-shop: Supermarkt
+shop: supermarket
 ---

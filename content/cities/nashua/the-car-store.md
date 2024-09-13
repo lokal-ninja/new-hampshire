@@ -1,5 +1,5 @@
 ---
 title: "The Car Store"
 url: /nashua/the-car-store/
-shop: Autohaus
+shop: car
 ---

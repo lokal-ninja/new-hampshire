@@ -1,5 +1,5 @@
 ---
 title: "VIP Tires and Service"
 url: /tilton/vip-tires-and-service/
-shop: Autowerkstatt
+shop: car repair
 ---

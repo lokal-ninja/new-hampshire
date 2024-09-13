@@ -1,5 +1,5 @@
 ---
 title: "Magnusson Farm"
 url: /kingston/magnusson-farm/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Charlie's Auto Service"
 url: /amherst/charlies-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

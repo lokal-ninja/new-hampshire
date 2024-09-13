@@ -1,5 +1,5 @@
 ---
 title: "BP Service"
 url: /londonderry/bp-service/
-shop: Autowerkstatt
+shop: car repair
 ---

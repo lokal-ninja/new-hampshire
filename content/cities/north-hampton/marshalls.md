@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /north-hampton/marshalls/
-shop: Warenhaus
+shop: department store
 ---

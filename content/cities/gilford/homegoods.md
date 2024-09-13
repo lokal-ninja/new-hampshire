@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /gilford/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paquette-Neun Funeral Home"
 url: /northfield/paquette-neun-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

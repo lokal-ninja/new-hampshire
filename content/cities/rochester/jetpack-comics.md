@@ -1,5 +1,5 @@
 ---
 title: "Jetpack Comics"
 url: /rochester/jetpack-comics/
-shop: Sammler
+shop: collector
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cohen's Fashion Optical"
 url: /nashua/cohens-fashion-optical/
-shop: Optiker
+shop: optician
 ---

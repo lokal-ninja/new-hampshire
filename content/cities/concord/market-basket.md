@@ -1,5 +1,5 @@
 ---
 title: "Market Basket"
 url: /concord/market-basket/
-shop: Supermarkt
+shop: supermarket
 ---

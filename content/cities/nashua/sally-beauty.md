@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /nashua/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

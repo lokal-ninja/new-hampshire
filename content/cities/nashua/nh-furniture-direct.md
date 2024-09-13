@@ -1,5 +1,5 @@
 ---
 title: "NH Furniture Direct"
 url: /nashua/nh-furniture-direct/
-shop: Möbel
+shop: furniture
 ---

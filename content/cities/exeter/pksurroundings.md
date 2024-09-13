@@ -1,5 +1,5 @@
 ---
 title: "PKsurroundings"
 url: /exeter/pksurroundings/
-shop: Küchen
+shop: kitchen
 ---

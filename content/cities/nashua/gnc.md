@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /nashua/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

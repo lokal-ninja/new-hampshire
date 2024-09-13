@@ -1,5 +1,5 @@
 ---
 title: "Accessory World"
 url: /londonderry/accessory-world/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /west-lebanon/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

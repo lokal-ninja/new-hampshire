@@ -1,5 +1,5 @@
 ---
 title: "Goodale's Bike Shop"
 url: /nashua/goodales-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

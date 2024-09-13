@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /seabrook/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

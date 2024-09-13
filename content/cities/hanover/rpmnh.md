@@ -1,5 +1,5 @@
 ---
 title: "rpmNH"
 url: /hanover/rpmnh/
-shop: Musik
+shop: music
 ---

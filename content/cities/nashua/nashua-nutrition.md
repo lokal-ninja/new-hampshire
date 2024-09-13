@@ -1,5 +1,5 @@
 ---
 title: "Nashua Nutrition"
 url: /nashua/nashua-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

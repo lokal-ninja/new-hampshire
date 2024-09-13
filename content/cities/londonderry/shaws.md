@@ -1,5 +1,5 @@
 ---
 title: "Shaw's"
 url: /londonderry/shaws/
-shop: Supermarkt
+shop: supermarket
 ---

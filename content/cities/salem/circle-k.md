@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /salem/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

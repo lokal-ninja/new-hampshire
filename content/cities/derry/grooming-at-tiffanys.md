@@ -1,5 +1,5 @@
 ---
 title: "Grooming at Tiffany's"
 url: /derry/grooming-at-tiffanys/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hayloft Barn"
 url: /chester/hayloft-barn/
-shop: Antiquitäten
+shop: antiques
 ---

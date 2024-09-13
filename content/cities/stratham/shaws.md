@@ -1,5 +1,5 @@
 ---
 title: "Shaw's"
 url: /stratham/shaws/
-shop: Supermarkt
+shop: supermarket
 ---

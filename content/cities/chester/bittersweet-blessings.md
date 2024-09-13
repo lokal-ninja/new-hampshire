@@ -1,5 +1,5 @@
 ---
 title: "Bittersweet Blessings"
 url: /chester/bittersweet-blessings/
-shop: Andenken
+shop: gift
 ---

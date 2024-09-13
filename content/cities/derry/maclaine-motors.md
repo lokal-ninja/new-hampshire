@@ -1,5 +1,5 @@
 ---
 title: "MacLaine Motors"
 url: /derry/maclaine-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Five Below"
 url: /nashua/five-below/
-shop: Kramladen
+shop: variety store
 ---

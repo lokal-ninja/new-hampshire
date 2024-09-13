@@ -1,5 +1,5 @@
 ---
 title: "Runner's Alley"
 url: /manchester/runners-alley/
-shop: Schuhe
+shop: shoes
 ---

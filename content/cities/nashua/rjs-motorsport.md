@@ -1,5 +1,5 @@
 ---
 title: "RJ's Motorsport"
 url: /nashua/rjs-motorsport/
-shop: Motorrad
+shop: motorcycle
 ---

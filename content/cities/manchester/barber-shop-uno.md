@@ -1,5 +1,5 @@
 ---
 title: "Barber Shop Uno"
 url: /manchester/barber-shop-uno/
-shop: Friseur
+shop: hairdresser
 ---

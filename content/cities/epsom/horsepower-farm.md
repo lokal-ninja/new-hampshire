@@ -1,5 +1,5 @@
 ---
 title: "Horsepower Farm"
 url: /epsom/horsepower-farm/
-shop: Autowerkstatt
+shop: car repair
 ---

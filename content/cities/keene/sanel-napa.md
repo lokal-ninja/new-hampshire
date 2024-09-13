@@ -1,5 +1,5 @@
 ---
 title: "Sanel NAPA"
 url: /keene/sanel-napa/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cleary Cleaners"
 url: /manchester/cleary-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

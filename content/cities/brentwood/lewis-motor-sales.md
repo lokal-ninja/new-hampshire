@@ -1,5 +1,5 @@
 ---
 title: "Lewis Motor Sales"
 url: /brentwood/lewis-motor-sales/
-shop: Autohaus
+shop: car
 ---

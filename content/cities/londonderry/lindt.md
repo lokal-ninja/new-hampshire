@@ -1,5 +1,5 @@
 ---
 title: "Lindt"
 url: /londonderry/lindt/
-shop: Schokolade
+shop: chocolate
 ---

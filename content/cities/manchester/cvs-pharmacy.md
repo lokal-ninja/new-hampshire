@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /manchester/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

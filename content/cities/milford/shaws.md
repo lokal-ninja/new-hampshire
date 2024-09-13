@@ -1,5 +1,5 @@
 ---
 title: "Shaw's"
 url: /milford/shaws/
-shop: Supermarkt
+shop: supermarket
 ---

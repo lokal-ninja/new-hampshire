@@ -1,5 +1,5 @@
 ---
 title: "Newbury Comics"
 url: /west-lebanon/newbury-comics/
-shop: Bücher
+shop: books
 ---

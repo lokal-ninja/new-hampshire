@@ -1,5 +1,5 @@
 ---
 title: "Douglas Automotive"
 url: /manchester/douglas-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

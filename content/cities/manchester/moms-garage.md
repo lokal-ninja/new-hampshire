@@ -1,5 +1,5 @@
 ---
 title: "Mom's Garage"
 url: /manchester/moms-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

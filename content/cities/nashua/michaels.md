@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /nashua/michaels/
-shop: Basteln
+shop: craft
 ---

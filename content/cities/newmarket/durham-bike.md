@@ -1,5 +1,5 @@
 ---
 title: "Durham Bike"
 url: /newmarket/durham-bike/
-shop: Fahrrad
+shop: bicycle
 ---

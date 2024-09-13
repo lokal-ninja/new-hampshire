@@ -1,5 +1,5 @@
 ---
 title: "Spacetown Auto Body"
 url: /derry/spacetown-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

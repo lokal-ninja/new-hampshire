@@ -1,5 +1,5 @@
 ---
 title: "Five Star ServiCenter"
 url: /manchester/five-star-servicenter/
-shop: Autowerkstatt
+shop: car repair
 ---

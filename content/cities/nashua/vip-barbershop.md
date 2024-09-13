@@ -1,5 +1,5 @@
 ---
 title: "VIP Barbershop"
 url: /nashua/vip-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

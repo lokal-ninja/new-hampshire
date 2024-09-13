@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /newington/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

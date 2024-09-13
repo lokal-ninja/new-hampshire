@@ -1,5 +1,5 @@
 ---
 title: "Bond Auto Parts"
 url: /nashua/bond-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AAMCO"
 url: /amherst/aamco/
-shop: Autowerkstatt
+shop: car repair
 ---

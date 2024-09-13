@@ -1,5 +1,5 @@
 ---
 title: "Caribbean Market"
 url: /manchester/caribbean-market/
-shop: Lebensmittel
+shop: convenience
 ---

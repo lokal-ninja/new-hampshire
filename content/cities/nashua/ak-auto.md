@@ -1,5 +1,5 @@
 ---
 title: "AK Auto"
 url: /nashua/ak-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

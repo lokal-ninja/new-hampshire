@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
 url: /nashua/hannaford/
-shop: Supermarkt
+shop: supermarket
 ---

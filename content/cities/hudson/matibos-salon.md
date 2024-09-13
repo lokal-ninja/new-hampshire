@@ -1,5 +1,5 @@
 ---
 title: "Matibo's Salon"
 url: /hudson/matibos-salon/
-shop: Friseur
+shop: hairdresser
 ---

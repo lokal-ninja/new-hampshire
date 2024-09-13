@@ -1,5 +1,5 @@
 ---
 title: "McGovern Subaru"
 url: /newington/mcgovern-subaru/
-shop: Autohaus
+shop: car
 ---

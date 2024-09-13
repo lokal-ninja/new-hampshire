@@ -1,5 +1,5 @@
 ---
 title: "Beebie's Automotive"
 url: /nashua/beebies-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

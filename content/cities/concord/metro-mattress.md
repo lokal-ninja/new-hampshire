@@ -1,5 +1,5 @@
 ---
 title: "Metro Mattress"
 url: /concord/metro-mattress/
-shop: Betten
+shop: bed
 ---

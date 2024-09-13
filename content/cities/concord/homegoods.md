@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /concord/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

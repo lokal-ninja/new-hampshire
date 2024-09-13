@@ -1,5 +1,5 @@
 ---
 title: "Sullivan Tire"
 url: /nashua/sullivan-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

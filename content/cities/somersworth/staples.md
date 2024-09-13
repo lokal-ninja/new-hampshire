@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /somersworth/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

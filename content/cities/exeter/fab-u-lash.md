@@ -1,5 +1,5 @@
 ---
 title: "Fab-u-Lash"
 url: /exeter/fab-u-lash/
-shop: Kosmetik
+shop: beauty
 ---

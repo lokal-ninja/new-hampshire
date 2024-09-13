@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /nashua/visionworks/
-shop: Optiker
+shop: optician
 ---

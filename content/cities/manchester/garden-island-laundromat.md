@@ -1,5 +1,5 @@
 ---
 title: "Garden Island Laundromat"
 url: /manchester/garden-island-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

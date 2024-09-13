@@ -1,5 +1,5 @@
 ---
 title: "Hamlin Automotive"
 url: /peterborough/hamlin-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

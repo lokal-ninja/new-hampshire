@@ -1,5 +1,5 @@
 ---
 title: "La Legion Barber Shop"
 url: /nashua/la-legion-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

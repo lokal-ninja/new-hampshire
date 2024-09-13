@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /nashua/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

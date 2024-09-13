@@ -1,5 +1,5 @@
 ---
 title: "Baker Collision"
 url: /manchester/baker-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kinetic Motorworks"
 url: /hampstead/kinetic-motorworks/
-shop: Autowerkstatt
+shop: car repair
 ---

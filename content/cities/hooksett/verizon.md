@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /hooksett/verizon/
-shop: Handy
+shop: mobile phone
 ---

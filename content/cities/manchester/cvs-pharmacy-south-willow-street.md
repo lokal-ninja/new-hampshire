@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /manchester/cvs-pharmacy-south-willow-street/
-shop: Drogerie
+shop: chemist
 ---

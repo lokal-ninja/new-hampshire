@@ -1,5 +1,5 @@
 ---
 title: "Saint Laurent Funeral Home"
 url: /nashua/saint-laurent-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shear Talk Beauty Supply"
 url: /manchester/shear-talk-beauty-supply/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

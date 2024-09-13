@@ -1,5 +1,5 @@
 ---
 title: "Super Wrench"
 url: /manchester/super-wrench/
-shop: Autowerkstatt
+shop: car repair
 ---

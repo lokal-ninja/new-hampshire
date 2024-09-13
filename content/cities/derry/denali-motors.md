@@ -1,5 +1,5 @@
 ---
 title: "Denali Motors"
 url: /derry/denali-motors/
-shop: Autohaus
+shop: car
 ---

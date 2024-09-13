@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /manchester/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

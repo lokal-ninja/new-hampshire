@@ -1,5 +1,5 @@
 ---
 title: "Wild Orchid Bakery"
 url: /manchester/wild-orchid-bakery/
-shop: Bäckerei
+shop: bakery
 ---

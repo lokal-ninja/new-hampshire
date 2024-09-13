@@ -1,5 +1,5 @@
 ---
 title: "Hudson Brews"
 url: /hudson/hudson-brews/
-shop: Spirituosen
+shop: alcohol
 ---

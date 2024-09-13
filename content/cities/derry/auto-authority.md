@@ -1,5 +1,5 @@
 ---
 title: "Auto Authority"
 url: /derry/auto-authority/
-shop: Autohaus
+shop: car
 ---

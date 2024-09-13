@@ -1,5 +1,5 @@
 ---
 title: "The Auto Outlet"
 url: /hudson/the-auto-outlet/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crown Hill Antiques"
 url: /nashua/crown-hill-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

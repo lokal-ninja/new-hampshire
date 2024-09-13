@@ -1,5 +1,5 @@
 ---
 title: "Peters Kia"
 url: /nashua/peters-kia/
-shop: Autohaus
+shop: car
 ---

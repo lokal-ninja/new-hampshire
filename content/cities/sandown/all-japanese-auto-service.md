@@ -1,5 +1,5 @@
 ---
 title: "All Japanese Auto Service"
 url: /sandown/all-japanese-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

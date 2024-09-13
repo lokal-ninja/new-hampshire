@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /hudson/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

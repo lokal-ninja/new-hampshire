@@ -1,5 +1,5 @@
 ---
 title: "Collins Flowers"
 url: /nashua/collins-flowers/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trans-Medic"
 url: /manchester/trans-medic/
-shop: Autowerkstatt
+shop: car repair
 ---

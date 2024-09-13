@@ -1,5 +1,5 @@
 ---
 title: "Aerie"
 url: /nashua/aerie/
-shop: Kleidung
+shop: clothes
 ---

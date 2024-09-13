@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /keene/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Herbal Path"
 url: /dover/the-herbal-path/
-shop: Kräuter
+shop: herbalist
 ---

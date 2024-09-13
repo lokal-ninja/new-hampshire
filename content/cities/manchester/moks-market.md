@@ -1,5 +1,5 @@
 ---
 title: "Mok's Market"
 url: /manchester/moks-market/
-shop: Lebensmittel
+shop: convenience
 ---

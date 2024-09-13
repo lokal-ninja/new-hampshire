@@ -1,5 +1,5 @@
 ---
 title: "Performance Autobody"
 url: /hudson/performance-autobody/
-shop: Autowerkstatt
+shop: car repair
 ---

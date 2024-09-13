@@ -1,5 +1,5 @@
 ---
 title: "Lumber Liquidators"
 url: /lebanon/lumber-liquidators/
-shop: Fußböden
+shop: flooring
 ---

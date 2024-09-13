@@ -1,5 +1,5 @@
 ---
 title: "The Foxhole"
 url: /west-lebanon/the-foxhole/
-shop: Militär
+shop: military
 ---

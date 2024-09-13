@@ -1,5 +1,5 @@
 ---
 title: "Veloce Imports"
 url: /londonderry/veloce-imports/
-shop: Autowerkstatt
+shop: car repair
 ---

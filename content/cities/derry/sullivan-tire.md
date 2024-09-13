@@ -1,5 +1,5 @@
 ---
 title: "Sullivan Tire"
 url: /derry/sullivan-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

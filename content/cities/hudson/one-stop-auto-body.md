@@ -1,5 +1,5 @@
 ---
 title: "One Stop Auto Body"
 url: /hudson/one-stop-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

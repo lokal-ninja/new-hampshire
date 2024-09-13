@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /manchester/pandora/
-shop: Schmuck
+shop: jewelry
 ---

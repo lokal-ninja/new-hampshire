@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /derry/sprint/
-shop: Handy
+shop: mobile phone
 ---

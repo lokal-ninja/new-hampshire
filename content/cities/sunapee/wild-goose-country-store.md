@@ -1,5 +1,5 @@
 ---
 title: "Wild Goose Country Store"
 url: /sunapee/wild-goose-country-store/
-shop: Andenken
+shop: gift
 ---

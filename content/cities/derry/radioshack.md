@@ -1,5 +1,5 @@
 ---
 title: "RadioShack"
 url: /derry/radioshack/
-shop: Elektronik
+shop: electronics
 ---

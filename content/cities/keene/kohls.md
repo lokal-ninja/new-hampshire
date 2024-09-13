@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /keene/kohls/
-shop: Warenhaus
+shop: department store
 ---

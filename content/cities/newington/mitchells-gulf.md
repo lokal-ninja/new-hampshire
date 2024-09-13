@@ -1,5 +1,5 @@
 ---
 title: "Mitchell's Gulf"
 url: /newington/mitchells-gulf/
-shop: Lebensmittel
+shop: convenience
 ---

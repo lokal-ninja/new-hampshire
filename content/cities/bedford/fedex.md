@@ -1,5 +1,5 @@
 ---
 title: "FedEx"
 url: /bedford/fedex/
-shop: Kopieren
+shop: copyshop
 ---

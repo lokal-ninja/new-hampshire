@@ -1,5 +1,5 @@
 ---
 title: "Alex Auto Body"
 url: /manchester/alex-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

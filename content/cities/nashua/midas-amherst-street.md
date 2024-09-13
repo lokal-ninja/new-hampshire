@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /nashua/midas-amherst-street/
-shop: Autowerkstatt
+shop: car repair
 ---

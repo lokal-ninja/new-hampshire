@@ -1,5 +1,5 @@
 ---
 title: "Peters of Nashua"
 url: /nashua/peters-of-nashua/
-shop: Autohaus
+shop: car
 ---

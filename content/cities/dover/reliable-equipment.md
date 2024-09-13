@@ -1,5 +1,5 @@
 ---
 title: "Reliable Equipment"
 url: /dover/reliable-equipment/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /tilton/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

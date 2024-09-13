@@ -1,5 +1,5 @@
 ---
 title: "Autofair Ford"
 url: /manchester/autofair-ford/
-shop: Autohaus
+shop: car
 ---

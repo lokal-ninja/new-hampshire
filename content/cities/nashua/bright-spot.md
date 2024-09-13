@@ -1,5 +1,5 @@
 ---
 title: "Bright Spot"
 url: /nashua/bright-spot/
-shop: Lebensmittel
+shop: convenience
 ---

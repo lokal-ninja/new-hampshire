@@ -1,5 +1,5 @@
 ---
 title: "Attitudes"
 url: /nashua/attitudes/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gulf Express"
 url: /nashua/gulf-express-broad-street/
-shop: Lebensmittel
+shop: convenience
 ---

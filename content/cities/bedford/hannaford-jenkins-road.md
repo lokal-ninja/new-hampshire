@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
 url: /bedford/hannaford-jenkins-road/
-shop: Supermarkt
+shop: supermarket
 ---

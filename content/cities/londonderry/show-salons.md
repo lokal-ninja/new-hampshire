@@ -1,5 +1,5 @@
 ---
 title: "Show Salons"
 url: /londonderry/show-salons/
-shop: Friseur
+shop: hairdresser
 ---

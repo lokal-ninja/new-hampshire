@@ -1,5 +1,5 @@
 ---
 title: "Pearle Vision"
 url: /dover/pearle-vision/
-shop: Optiker
+shop: optician
 ---

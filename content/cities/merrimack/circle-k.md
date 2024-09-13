@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /merrimack/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

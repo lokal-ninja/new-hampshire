@@ -1,5 +1,5 @@
 ---
 title: "Groomingdales"
 url: /stratham/groomingdales/
-shop: Tiersalon
+shop: pet grooming
 ---

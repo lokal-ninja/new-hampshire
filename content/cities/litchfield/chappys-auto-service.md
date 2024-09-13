@@ -1,5 +1,5 @@
 ---
 title: "Chappy's Auto Service"
 url: /litchfield/chappys-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BootLegger's"
 url: /north-conway/bootleggers/
-shop: Schuhe
+shop: shoes
 ---

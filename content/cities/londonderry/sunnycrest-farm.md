@@ -1,5 +1,5 @@
 ---
 title: "Sunnycrest Farm"
 url: /londonderry/sunnycrest-farm/
-shop: Hofladen
+shop: farm
 ---

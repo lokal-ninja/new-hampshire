@@ -1,5 +1,5 @@
 ---
 title: "Puddlejumpers"
 url: /exeter/puddlejumpers/
-shop: Modehaus
+shop: boutique
 ---

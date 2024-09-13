@@ -1,5 +1,5 @@
 ---
 title: "Exeter Tailor"
 url: /exeter/exeter-tailor/
-shop: Schneiderei
+shop: tailor
 ---

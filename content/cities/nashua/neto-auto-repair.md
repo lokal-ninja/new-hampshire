@@ -1,5 +1,5 @@
 ---
 title: "Neto Auto Repair"
 url: /nashua/neto-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

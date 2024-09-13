@@ -1,5 +1,5 @@
 ---
 title: "Saigon Asian Market"
 url: /manchester/saigon-asian-market/
-shop: Supermarkt
+shop: supermarket
 ---

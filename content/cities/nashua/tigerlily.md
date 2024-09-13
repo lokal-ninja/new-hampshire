@@ -1,5 +1,5 @@
 ---
 title: "Tigerlily"
 url: /nashua/tigerlily/
-shop: Kosmetik
+shop: beauty
 ---

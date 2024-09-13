@@ -1,5 +1,5 @@
 ---
 title: "Finish Line"
 url: /nashua/finish-line/
-shop: Sport
+shop: sports
 ---

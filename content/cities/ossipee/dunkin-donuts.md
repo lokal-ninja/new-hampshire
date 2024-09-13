@@ -1,5 +1,5 @@
 ---
 title: "Dunkin' Donuts"
 url: /ossipee/dunkin-donuts/
-shop: Kaffee
+shop: coffee
 ---

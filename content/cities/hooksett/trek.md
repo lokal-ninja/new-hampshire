@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /hooksett/trek/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nike"
 url: /salem/nike/
-shop: Kleidung
+shop: clothes
 ---

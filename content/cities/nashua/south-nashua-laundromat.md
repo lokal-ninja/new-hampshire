@@ -1,5 +1,5 @@
 ---
 title: "South Nashua Laundromat"
 url: /nashua/south-nashua-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

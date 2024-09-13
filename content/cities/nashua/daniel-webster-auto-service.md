@@ -1,5 +1,5 @@
 ---
 title: "Daniel Webster Auto Service"
 url: /nashua/daniel-webster-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

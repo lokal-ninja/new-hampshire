@@ -1,5 +1,5 @@
 ---
 title: "Everest Convenience Store"
 url: /manchester/everest-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

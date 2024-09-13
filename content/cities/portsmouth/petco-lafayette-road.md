@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /portsmouth/petco-lafayette-road/
-shop: Tiere
+shop: pet
 ---

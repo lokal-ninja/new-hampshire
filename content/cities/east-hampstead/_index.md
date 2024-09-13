@@ -1,6 +1,6 @@
 ---
 title: East Hampstead
 url: /east-hampstead/
-latitude: 42.893
+latitude: 42.891
 longitude: -71.142
 ---

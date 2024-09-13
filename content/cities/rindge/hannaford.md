@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
 url: /rindge/hannaford/
-shop: Bioladen
+shop: health food
 ---

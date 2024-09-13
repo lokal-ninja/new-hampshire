@@ -1,5 +1,5 @@
 ---
 title: "Busy Box"
 url: /derry/busy-box/
-shop: Computer
+shop: computer
 ---

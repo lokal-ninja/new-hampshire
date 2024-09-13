@@ -1,5 +1,5 @@
 ---
 title: "Volkeswagen of Rochester"
 url: /rochester/volkeswagen-of-rochester/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RightSpace Storage"
 url: /lebanon/rightspace-storage/
-shop: Mieten
+shop: storage rental
 ---

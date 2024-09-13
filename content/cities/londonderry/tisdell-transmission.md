@@ -1,5 +1,5 @@
 ---
 title: "Tisdell Transmission"
 url: /londonderry/tisdell-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

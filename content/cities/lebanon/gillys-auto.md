@@ -1,5 +1,5 @@
 ---
 title: "Gilly's Auto"
 url: /lebanon/gillys-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

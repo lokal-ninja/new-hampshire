@@ -1,5 +1,5 @@
 ---
 title: "State Line Garage"
 url: /east-wakefield/state-line-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /londonderry/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

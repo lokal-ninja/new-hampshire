@@ -1,5 +1,5 @@
 ---
 title: "Gardener's Supply Company"
 url: /lebanon/gardeners-supply-company/
-shop: Garten-Center
+shop: garden centre
 ---

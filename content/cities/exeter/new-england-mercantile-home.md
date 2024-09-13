@@ -1,5 +1,5 @@
 ---
 title: "New England Mercantile Home"
 url: /exeter/new-england-mercantile-home/
-shop: Haushaltsartikel
+shop: houseware
 ---

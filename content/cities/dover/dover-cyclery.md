@@ -1,5 +1,5 @@
 ---
 title: "Dover Cyclery"
 url: /dover/dover-cyclery/
-shop: Fahrrad
+shop: bicycle
 ---

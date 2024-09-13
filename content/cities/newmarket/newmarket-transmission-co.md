@@ -1,5 +1,5 @@
 ---
 title: "Newmarket Transmission Co."
 url: /newmarket/newmarket-transmission-co/
-shop: Autowerkstatt
+shop: car repair
 ---

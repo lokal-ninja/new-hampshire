@@ -1,5 +1,5 @@
 ---
 title: "Focus Automotive"
 url: /bow/focus-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

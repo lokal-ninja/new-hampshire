@@ -1,5 +1,5 @@
 ---
 title: "Photosmith"
 url: /dover/photosmith/
-shop: Foto
+shop: photo
 ---

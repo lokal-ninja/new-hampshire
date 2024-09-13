@@ -1,5 +1,5 @@
 ---
 title: "AG's Custom Cars and Towing"
 url: /sandown/ags-custom-cars-and-towing/
-shop: Autowerkstatt
+shop: car repair
 ---

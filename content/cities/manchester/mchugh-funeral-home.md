@@ -1,5 +1,5 @@
 ---
 title: "McHugh Funeral Home"
 url: /manchester/mchugh-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

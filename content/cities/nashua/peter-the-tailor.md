@@ -1,5 +1,5 @@
 ---
 title: "Peter The Tailor"
 url: /nashua/peter-the-tailor/
-shop: Schneiderei
+shop: tailor
 ---

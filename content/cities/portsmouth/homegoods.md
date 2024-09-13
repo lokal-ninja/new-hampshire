@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /portsmouth/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

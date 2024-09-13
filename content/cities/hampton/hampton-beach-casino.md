@@ -1,5 +1,5 @@
 ---
 title: "Hampton Beach Casino"
 url: /hampton/hampton-beach-casino/
-shop: Einkaufszentrum
+shop: mall
 ---

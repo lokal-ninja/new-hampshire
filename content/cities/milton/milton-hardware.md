@@ -1,5 +1,5 @@
 ---
 title: "Milton Hardware"
 url: /milton/milton-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

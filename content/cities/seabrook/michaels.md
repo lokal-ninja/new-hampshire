@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /seabrook/michaels/
-shop: Basteln
+shop: craft
 ---

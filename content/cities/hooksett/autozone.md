@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /hooksett/autozone/
-shop: Autoteile
+shop: car parts
 ---

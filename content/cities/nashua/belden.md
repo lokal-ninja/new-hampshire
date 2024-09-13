@@ -1,5 +1,5 @@
 ---
 title: "Belden"
 url: /nashua/belden/
-shop: Schmuck
+shop: jewelry
 ---

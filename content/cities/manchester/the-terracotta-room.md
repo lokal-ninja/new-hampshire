@@ -1,5 +1,5 @@
 ---
 title: "The Terracotta Room"
 url: /manchester/the-terracotta-room/
-shop: Blumen
+shop: florist
 ---

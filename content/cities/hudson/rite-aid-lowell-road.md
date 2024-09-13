@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /hudson/rite-aid-lowell-road/
-shop: Drogerie
+shop: chemist
 ---

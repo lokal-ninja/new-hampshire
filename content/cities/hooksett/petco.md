@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /hooksett/petco/
-shop: Tiere
+shop: pet
 ---

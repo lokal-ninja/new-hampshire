@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /nashua/shell-broad-street/
-shop: Lebensmittel
+shop: convenience
 ---

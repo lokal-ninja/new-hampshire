@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /seabrook/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

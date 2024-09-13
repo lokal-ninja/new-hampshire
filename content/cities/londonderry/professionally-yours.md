@@ -1,5 +1,5 @@
 ---
 title: "Professionally Yours"
 url: /londonderry/professionally-yours/
-shop: Friseur
+shop: hairdresser
 ---

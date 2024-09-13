@@ -1,5 +1,5 @@
 ---
 title: "Studio on Pearl"
 url: /nashua/studio-on-pearl/
-shop: Friseur
+shop: hairdresser
 ---

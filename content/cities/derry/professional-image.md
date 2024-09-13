@@ -1,5 +1,5 @@
 ---
 title: "Professional Image"
 url: /derry/professional-image/
-shop: Wäscherei
+shop: laundry
 ---

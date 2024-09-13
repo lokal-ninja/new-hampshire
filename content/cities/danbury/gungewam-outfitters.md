@@ -1,5 +1,5 @@
 ---
 title: "Gungewam Outfitters"
 url: /danbury/gungewam-outfitters/
-shop: Outdoor
+shop: outdoor
 ---
