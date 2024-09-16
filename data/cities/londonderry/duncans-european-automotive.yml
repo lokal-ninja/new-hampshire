@@ -1,11 +1,11 @@
 id: 90851101
-type: way
+type: node
 latitude: 42.91588
 longitude: -71.36454
 postcode: "03053"
 city: Londonderry
-street: "Liberty Drive"
-housenumber: 3
+street: Liberty Drive
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.duncansauto.com/"
+website: https://www.duncansauto.com/

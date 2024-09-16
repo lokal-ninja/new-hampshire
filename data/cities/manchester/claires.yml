@@ -1,11 +1,11 @@
 id: 230522135
-type: way
+type: node
 latitude: 42.95485
 longitude: -71.43285
 postcode: "03103"
 city: Manchester
-street: "South Willow Street"
-housenumber: 1500
+street: South Willow Street
+housenumber: "1500"
 phone: ""
 opening_hours: ""
-website: "https://www.claires.com/"
+website: https://www.claires.com/

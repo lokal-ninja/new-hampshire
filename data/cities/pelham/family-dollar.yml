@@ -1,11 +1,11 @@
 id: 145221256
-type: way
+type: node
 latitude: 42.71724
 longitude: -71.31991
 postcode: "03076"
 city: Pelham
-street: "Willow Street"
-housenumber: 1
+street: Willow Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.familydollar.com/"
+website: https://www.familydollar.com/

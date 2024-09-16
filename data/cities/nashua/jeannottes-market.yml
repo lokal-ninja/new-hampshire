@@ -1,11 +1,11 @@
 id: 162043252
-type: way
+type: node
 latitude: 42.77201
 longitude: -71.47011
 postcode: "03064"
 city: Nashua
-street: "Courtland Street"
-housenumber: 2
+street: Courtland Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

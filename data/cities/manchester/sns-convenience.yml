@@ -1,11 +1,11 @@
 id: 203685661
-type: way
+type: node
 latitude: 42.96443
 longitude: -71.42127
 postcode: "03109"
 city: Manchester
-street: "South Mammoth Road"
-housenumber: 307
+street: South Mammoth Road
+housenumber: "307"
 phone: ""
 opening_hours: ""
 website: ""

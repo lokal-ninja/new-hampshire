@@ -1,11 +1,11 @@
 id: 693589266
-type: way
+type: node
 latitude: 43.63682
 longitude: -72.28741
 postcode: "03766"
 city: Lebanon
-street: "Miracle Mile"
-housenumber: 364
+street: Miracle Mile
+housenumber: "364"
 phone: ""
 opening_hours: ""
 website: ""

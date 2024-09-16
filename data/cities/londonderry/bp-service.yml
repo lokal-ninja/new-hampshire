@@ -1,11 +1,11 @@
 id: 65731999
-type: way
+type: node
 latitude: 42.84706
 longitude: -71.35984
 postcode: "03053"
 city: Londonderry
-street: "Mohawk Drive"
-housenumber: 2
+street: Mohawk Drive
+housenumber: "2"
 phone: ""
-opening_hours: "Mo 17:00-20:00;We 17:00-20:00"
+opening_hours: Mo 17:00-20:00;We 17:00-20:00
 website: ""

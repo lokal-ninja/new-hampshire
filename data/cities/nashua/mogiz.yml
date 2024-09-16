@@ -1,11 +1,11 @@
 id: 265134439
-type: way
+type: node
 latitude: 42.70805
 longitude: -71.46795
 postcode: "03062"
 city: Nashua
-street: "East Dunstable Road"
-housenumber: 383
+street: East Dunstable Road
+housenumber: "383"
 phone: ""
 opening_hours: ""
-website: "http://www.mogizalon.com/"
+website: http://www.mogizalon.com/

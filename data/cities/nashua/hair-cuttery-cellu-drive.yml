@@ -1,11 +1,11 @@
 id: 194225726
-type: way
+type: node
 latitude: 42.79766
 longitude: -71.53403
 postcode: "03063"
 city: Nashua
-street: "Cellu Drive"
-housenumber: 2
+street: Cellu Drive
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.haircuttery.com/"
+website: https://www.haircuttery.com/

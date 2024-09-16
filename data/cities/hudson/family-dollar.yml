@@ -1,11 +1,11 @@
 id: 204526254
-type: way
+type: node
 latitude: 42.7732
 longitude: -71.44519
 postcode: "03051"
 city: Hudson
-street: "Derry Street"
-housenumber: 76
+street: Derry Street
+housenumber: "76"
 phone: ""
 opening_hours: ""
-website: "https://www.familydollar.com/"
+website: https://www.familydollar.com/

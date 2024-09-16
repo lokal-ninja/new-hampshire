@@ -1,11 +1,11 @@
 id: 166044738
-type: way
+type: node
 latitude: 42.93629
 longitude: -71.52713
 postcode: "03110"
 city: Bedford
-street: "Wallace Road"
-housenumber: 258
+street: Wallace Road
+housenumber: "258"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-258+wallace+rd-bedford-nh-03110/id=9320"
+website: https://www.walgreens.com/locator/walgreens-258+wallace+rd-bedford-nh-03110/id=9320

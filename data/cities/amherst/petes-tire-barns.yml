@@ -1,11 +1,11 @@
 id: 224192216
-type: way
+type: node
 latitude: 42.81278
 longitude: -71.59256
 postcode: "03031"
 city: Amherst
-street: "State Route 101A"
-housenumber: 54
+street: State Route 101A
+housenumber: "54"
 phone: ""
 opening_hours: ""
-website: "https://www.petestire.com/"
+website: https://www.petestire.com/

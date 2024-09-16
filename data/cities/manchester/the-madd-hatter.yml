@@ -1,11 +1,11 @@
 id: 1049553792
-type: way
+type: node
 latitude: 42.98124
 longitude: -71.44374
 postcode: "03103"
 city: Manchester
-street: "Valley Street"
-housenumber: 753
+street: Valley Street
+housenumber: "753"
 phone: ""
 opening_hours: ""
 website: ""

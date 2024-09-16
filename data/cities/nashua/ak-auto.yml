@@ -1,11 +1,11 @@
 id: 226506137
-type: way
+type: node
 latitude: 42.76304
 longitude: -71.45237
 postcode: "03060"
 city: Nashua
-street: "Union Street"
-housenumber: 9
-phone: "+1-603-233-4160"
+street: Union Street
+housenumber: "9"
+phone: +1-603-233-4160
 opening_hours: ""
 website: ""

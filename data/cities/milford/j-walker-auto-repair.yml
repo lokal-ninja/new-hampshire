@@ -1,11 +1,11 @@
 id: 69963302
-type: way
+type: node
 latitude: 42.8324
 longitude: -71.64919
 postcode: "03055"
 city: Milford
-street: "South St"
-housenumber: 177
+street: South St
+housenumber: "177"
 phone: ""
 opening_hours: ""
 website: ""

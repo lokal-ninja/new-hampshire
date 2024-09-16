@@ -1,11 +1,11 @@
 id: 395153695
-type: way
+type: node
 latitude: 44.30791
 longitude: -71.75436
 postcode: "03561"
 city: Littleton
-street: "Union Street"
-housenumber: 456
+street: Union Street
+housenumber: "456"
 phone: ""
 opening_hours: ""
 website: ""

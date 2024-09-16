@@ -1,11 +1,11 @@
 id: 173756615
-type: way
+type: node
 latitude: 42.8969
 longitude: -71.32971
 postcode: "03038"
 city: Derry
-street: "Manchester Road"
-housenumber: 11
+street: Manchester Road
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "http://gelousnails.weebly.com/"
+website: http://gelousnails.weebly.com/

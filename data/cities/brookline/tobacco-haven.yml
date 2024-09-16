@@ -1,11 +1,11 @@
 id: 176090519
-type: way
+type: node
 latitude: 42.71411
 longitude: -71.66409
 postcode: "03033"
 city: Brookline
-street: "Route 13"
-housenumber: 44
+street: Route 13
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "https://www.tobaccohavennh.com/"
+website: https://www.tobaccohavennh.com/

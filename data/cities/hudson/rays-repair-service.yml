@@ -1,11 +1,11 @@
 id: 130622387
-type: way
+type: node
 latitude: 42.71355
 longitude: -71.39664
 postcode: "03051"
 city: Hudson
-street: "Gowing Road"
-housenumber: 12
+street: Gowing Road
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

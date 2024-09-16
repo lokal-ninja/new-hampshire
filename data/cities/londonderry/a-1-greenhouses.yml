@@ -1,11 +1,11 @@
 id: 68270589
-type: way
+type: node
 latitude: 42.85878
 longitude: -71.38146
 postcode: "03053"
 city: Londonderry
-street: "Pillsbury Road"
-housenumber: 162
+street: Pillsbury Road
+housenumber: "162"
 phone: ""
 opening_hours: ""
 website: ""

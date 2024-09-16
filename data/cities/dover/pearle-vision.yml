@@ -1,11 +1,11 @@
 id: 245015181
-type: way
+type: node
 latitude: 43.21554
 longitude: -70.87869
 postcode: "03820"
 city: Dover
-street: "Central Avenue"
-housenumber: 827
+street: Central Avenue
+housenumber: "827"
 phone: ""
 opening_hours: ""
-website: "https://www.pearlevision.com/"
+website: https://www.pearlevision.com/

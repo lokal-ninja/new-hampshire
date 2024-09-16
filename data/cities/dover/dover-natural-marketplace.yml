@@ -1,11 +1,11 @@
 id: 245015119
-type: way
+type: node
 latitude: 43.20073
 longitude: -70.87699
 postcode: "03820"
 city: Dover
-street: "Chestnut Street"
-housenumber: 7
+street: Chestnut Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

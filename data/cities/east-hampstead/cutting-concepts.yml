@@ -1,11 +1,11 @@
 id: 296385004
-type: way
+type: node
 latitude: 42.89131
 longitude: -71.14215
 postcode: "03826"
 city: East Hampstead
-street: "Sandown Road"
-housenumber: 285
-phone: "+1-603-329-0221"
+street: Sandown Road
+housenumber: "285"
+phone: +1-603-329-0221
 opening_hours: ""
-website: "https://www.cuttingconceptshampstead.com/"
+website: https://www.cuttingconceptshampstead.com/

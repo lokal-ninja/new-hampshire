@@ -1,11 +1,11 @@
 id: 171978261
-type: way
+type: node
 latitude: 42.90146
 longitude: -71.33517
 postcode: "03038"
 city: Derry
-street: "Manchester Road"
-housenumber: 35
+street: Manchester Road
+housenumber: "35"
 phone: ""
 opening_hours: ""
-website: "https://www.gamestop.com/store/us/nh/derry/5429/derry-meadows-gamestop"
+website: https://www.gamestop.com/store/us/nh/derry/5429/derry-meadows-gamestop

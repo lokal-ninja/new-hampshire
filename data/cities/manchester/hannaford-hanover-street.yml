@@ -1,11 +1,11 @@
 id: 1078535810
-type: way
+type: node
 latitude: 42.98539
 longitude: -71.42803
 postcode: "03104"
 city: Manchester
-street: "Hanover Street"
-housenumber: 859
-phone: "+1 603-624-4442"
-opening_hours: "Su-Sa 06:00-22:00"
-website: "https://stores.hannaford.com/nh/manchester/8178"
+street: Hanover Street
+housenumber: "859"
+phone: +1 603-624-4442
+opening_hours: Su-Sa 06:00-22:00
+website: https://stores.hannaford.com/nh/manchester/8178

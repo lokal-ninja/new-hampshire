@@ -1,11 +1,11 @@
 id: 278979652
-type: way
+type: node
 latitude: 42.9474
 longitude: -71.05757
 postcode: "03848"
 city: Kingston
-street: "Church Street"
-housenumber: 53
+street: Church Street
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

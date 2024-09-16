@@ -1,11 +1,11 @@
 id: 230522160
-type: way
+type: node
 latitude: 42.95514
 longitude: -71.43279
 postcode: "03103"
 city: Manchester
-street: "South Willow Street"
-housenumber: 1500
+street: South Willow Street
+housenumber: "1500"
 phone: ""
 opening_hours: ""
-website: "https://www.hollisterco.com/"
+website: https://www.hollisterco.com/

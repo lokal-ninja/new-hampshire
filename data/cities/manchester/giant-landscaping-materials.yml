@@ -1,11 +1,11 @@
 id: 207800826
-type: way
+type: node
 latitude: 42.98705
 longitude: -71.41856
 postcode: "03104"
 city: Manchester
-street: "Hanover Street"
-housenumber: 1071
-phone: "+1-603-625-0094"
+street: Hanover Street
+housenumber: "1071"
+phone: +1-603-625-0094
 opening_hours: ""
-website: "https://www.giantlandscaping.net/"
+website: https://www.giantlandscaping.net/

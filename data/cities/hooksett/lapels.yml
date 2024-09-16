@@ -1,11 +1,11 @@
 id: 236156365
-type: way
+type: node
 latitude: 43.05089
 longitude: -71.43904
 postcode: "03106"
 city: Hooksett
-street: "Hooksett Road"
-housenumber: 1292
+street: Hooksett Road
+housenumber: "1292"
 phone: ""
 opening_hours: ""
-website: "https://mylapels.com/"
+website: https://mylapels.com/

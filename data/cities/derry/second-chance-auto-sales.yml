@@ -1,11 +1,11 @@
 id: 36170430
-type: way
+type: node
 latitude: 42.89859
 longitude: -71.33635
 postcode: "03038"
 city: Derry
-street: "Manchester Road"
-housenumber: 38
-phone: "+1-603-965-4472"
+street: Manchester Road
+housenumber: "38"
+phone: +1-603-965-4472
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 296728184
-type: way
+type: node
 latitude: 42.89129
 longitude: -71.13905
 postcode: "03826"
 city: East Hampstead
-street: "Colby Corner"
-housenumber: 43
+street: Colby Corner
+housenumber: "43"
 phone: ""
 opening_hours: ""
-website: "http://www.theartfuleye.net/"
+website: http://www.theartfuleye.net/

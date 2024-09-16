@@ -1,11 +1,11 @@
 id: 51464469
-type: way
+type: node
 latitude: 42.91583
 longitude: -71.32972
 postcode: "03038"
 city: Derry
-street: "Route 28 Bypass"
-housenumber: 115
+street: Route 28 Bypass
+housenumber: "115"
 phone: ""
 opening_hours: ""
-website: "https://www.chesterarmsllc.com/"
+website: https://www.chesterarmsllc.com/

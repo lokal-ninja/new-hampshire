@@ -1,11 +1,11 @@
 id: 241059855
-type: way
+type: node
 latitude: 42.80415
 longitude: -71.54512
 postcode: "03054"
 city: Merrimack
-street: "Milford Road"
-housenumber: 704
+street: Milford Road
+housenumber: "704"
 phone: ""
 opening_hours: ""
-website: "https://energiasalon.com/"
+website: https://energiasalon.com/

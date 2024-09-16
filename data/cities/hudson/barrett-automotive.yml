@@ -1,11 +1,11 @@
 id: 135662948
-type: way
+type: node
 latitude: 42.76988
 longitude: -71.42224
 postcode: "03051"
 city: Hudson
-street: "Lakeside Drive"
-housenumber: 5
+street: Lakeside Drive
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

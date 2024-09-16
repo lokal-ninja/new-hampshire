@@ -1,11 +1,11 @@
 id: 1013366122
-type: way
+type: node
 latitude: 43.00327
 longitude: -71.45525
 postcode: "03104"
 city: Manchester
-street: "Sagamore Street"
-housenumber: 176
+street: Sagamore Street
+housenumber: "176"
 phone: ""
 opening_hours: ""
 website: ""

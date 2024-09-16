@@ -4,8 +4,8 @@ latitude: 43.0773
 longitude: -70.75733
 postcode: "03801"
 city: Portsmouth
-street: "Market Street"
-housenumber: 5
+street: Market Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

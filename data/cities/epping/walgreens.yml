@@ -1,11 +1,11 @@
 id: 106992977
-type: way
+type: node
 latitude: 43.03103
 longitude: -71.07396
 postcode: "03042"
 city: Epping
-street: "Main Street"
-housenumber: 12
+street: Main Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

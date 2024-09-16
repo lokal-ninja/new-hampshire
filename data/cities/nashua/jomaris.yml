@@ -1,11 +1,11 @@
 id: 158307353
-type: way
+type: node
 latitude: 42.74092
 longitude: -71.49548
 postcode: "03062"
 city: Nashua
-street: "Northeastern Boulevard"
-housenumber: 133
+street: Northeastern Boulevard
+housenumber: "133"
 phone: ""
 opening_hours: ""
 website: ""

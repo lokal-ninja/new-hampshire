@@ -1,11 +1,11 @@
 id: 132395349
-type: way
+type: node
 latitude: 42.83283
 longitude: -71.49065
 postcode: "03054"
 city: Merrimack
-street: "Daniel Webster Highway"
-housenumber: 257
+street: Daniel Webster Highway
+housenumber: "257"
 phone: ""
 opening_hours: ""
-website: "http://www.fallonsfurniturenh.com/"
+website: http://www.fallonsfurniturenh.com/

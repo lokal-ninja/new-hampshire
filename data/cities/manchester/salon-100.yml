@@ -1,11 +1,11 @@
 id: 819088625
-type: way
+type: node
 latitude: 42.97694
 longitude: -71.4754
 postcode: "03102"
 city: Manchester
-street: "Mc Neil Street"
-housenumber: 100
-phone: "+1-603-622-2476"
+street: Mc Neil Street
+housenumber: "100"
+phone: +1-603-622-2476
 opening_hours: ""
 website: ""

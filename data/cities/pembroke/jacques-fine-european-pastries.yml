@@ -4,8 +4,8 @@ latitude: 43.13119
 longitude: -71.4529
 postcode: "03275"
 city: Pembroke
-street: "Main Street"
-housenumber: 128
+street: Main Street
+housenumber: "128"
 phone: ""
-opening_hours: "Tu-Fr 09:00-17:00; Sa 09:00-14:00"
+opening_hours: Tu-Fr 09:00-17:00; Sa 09:00-14:00
 website: ""

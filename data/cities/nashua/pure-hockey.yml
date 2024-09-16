@@ -1,11 +1,11 @@
 id: 178842456
-type: way
+type: node
 latitude: 42.74217
 longitude: -71.49359
 postcode: "03062"
 city: Nashua
-street: "Main Dunstable Road"
-housenumber: 248
+street: Main Dunstable Road
+housenumber: "248"
 phone: ""
 opening_hours: ""
-website: "http://www.purehockey.com/"
+website: http://www.purehockey.com/

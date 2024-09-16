@@ -4,8 +4,8 @@ latitude: 42.87946
 longitude: -71.3299
 postcode: "03038"
 city: Derry
-street: "West Broadway"
-housenumber: 39
-phone: "+1-603-434-8866"
-opening_hours: "Mo,Sa 09:00-16:00; Tu-Fr 09:00-19:00"
-website: "https://mgccderrynh.org/"
+street: West Broadway
+housenumber: "39"
+phone: +1-603-434-8866
+opening_hours: Mo,Sa 09:00-16:00; Tu-Fr 09:00-19:00
+website: https://mgccderrynh.org/

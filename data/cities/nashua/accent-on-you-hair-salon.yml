@@ -1,11 +1,11 @@
 id: 77872678
-type: way
+type: node
 latitude: 42.74404
 longitude: -71.45921
 postcode: "03060"
 city: Nashua
-street: "Main Street"
-housenumber: 381
+street: Main Street
+housenumber: "381"
 phone: ""
 opening_hours: ""
-website: "http://www.accentonyounh.com/"
+website: http://www.accentonyounh.com/

@@ -1,11 +1,11 @@
 id: 220175082
-type: way
+type: node
 latitude: 42.95823
 longitude: -71.43723
 postcode: "03103"
 city: Manchester
-street: "South Willow Street"
-housenumber: 1279
+street: South Willow Street
+housenumber: "1279"
 phone: ""
 opening_hours: ""
-website: "https://www.tattooangus.com/"
+website: https://www.tattooangus.com/

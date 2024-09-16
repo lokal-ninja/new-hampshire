@@ -1,11 +1,11 @@
 id: 848947080
-type: way
+type: node
 latitude: 42.96976
 longitude: -71.48045
 postcode: "03102"
 city: Manchester
-street: "Second Street"
-housenumber: 865
+street: Second Street
+housenumber: "865"
 phone: ""
 opening_hours: ""
 website: ""

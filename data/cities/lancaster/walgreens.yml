@@ -1,11 +1,11 @@
 id: 135836591
-type: way
+type: node
 latitude: 44.4942
 longitude: -71.57233
 postcode: "03584"
 city: Lancaster
-street: "Main Street"
-housenumber: 177
+street: Main Street
+housenumber: "177"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-177+main+st-lancaster-nh-03584/id=17167"
+website: https://www.walgreens.com/locator/walgreens-177+main+st-lancaster-nh-03584/id=17167

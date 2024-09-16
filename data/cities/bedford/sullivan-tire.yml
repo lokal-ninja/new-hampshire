@@ -1,11 +1,11 @@
 id: 165216588
-type: way
+type: node
 latitude: 42.92173
 longitude: -71.45881
 postcode: "03110"
 city: Bedford
-street: "Technology Drive"
-housenumber: 72
+street: Technology Drive
+housenumber: "72"
 phone: ""
 opening_hours: ""
-website: "https://www.sullivantire.com/"
+website: https://www.sullivantire.com/

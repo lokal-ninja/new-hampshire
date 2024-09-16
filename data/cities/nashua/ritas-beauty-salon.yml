@@ -1,11 +1,11 @@
 id: 160181929
-type: way
+type: node
 latitude: 42.75085
 longitude: -71.46307
 postcode: "03060"
 city: Nashua
-street: "Brook Street"
-housenumber: 7
+street: Brook Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

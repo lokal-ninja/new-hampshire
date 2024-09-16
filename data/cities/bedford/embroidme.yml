@@ -1,11 +1,11 @@
 id: 265358706
-type: way
+type: node
 latitude: 42.91998
 longitude: -71.46109
 postcode: "03110"
 city: Bedford
-street: "South River Road"
-housenumber: 410
+street: South River Road
+housenumber: "410"
 phone: ""
 opening_hours: ""
-website: "http://embroidme-bedford.com/"
+website: http://embroidme-bedford.com/

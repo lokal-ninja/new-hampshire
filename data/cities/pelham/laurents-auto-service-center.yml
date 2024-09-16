@@ -1,11 +1,11 @@
 id: 148166488
-type: way
+type: node
 latitude: 42.73033
 longitude: -71.32197
 postcode: "03076"
 city: Pelham
-street: "Old Bridge Street"
-housenumber: 67
+street: Old Bridge Street
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

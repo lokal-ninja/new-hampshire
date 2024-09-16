@@ -1,11 +1,11 @@
 id: 238943592
-type: way
+type: node
 latitude: 43.01875
 longitude: -71.40257
 postcode: "03106"
 city: Hooksett
-street: "Londonderry Turnpike"
-housenumber: 65
+street: Londonderry Turnpike
+housenumber: "65"
 phone: ""
 opening_hours: ""
-website: "http://www.reflextuning.com/"
+website: http://www.reflextuning.com/

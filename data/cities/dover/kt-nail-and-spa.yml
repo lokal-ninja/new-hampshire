@@ -1,11 +1,11 @@
 id: 245015178
-type: way
+type: node
 latitude: 43.21847
 longitude: -70.8807
 postcode: "03820"
 city: Dover
-street: "Central Avenue"
-housenumber: 861
+street: Central Avenue
+housenumber: "861"
 phone: ""
 opening_hours: ""
-website: "https://www.olympiasports.net/"
+website: https://www.olympiasports.net/

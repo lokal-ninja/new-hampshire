@@ -1,11 +1,11 @@
 id: 169787919
-type: way
+type: node
 latitude: 42.76498
 longitude: -71.46538
 postcode: "03064"
 city: Nashua
-street: "Railroad Square"
-housenumber: 17
+street: Railroad Square
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

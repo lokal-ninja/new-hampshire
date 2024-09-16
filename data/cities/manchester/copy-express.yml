@@ -1,11 +1,11 @@
 id: 1022357019
-type: way
+type: node
 latitude: 42.99147
 longitude: -71.46289
 postcode: "03101"
 city: Manchester
-street: "Elm Street"
-housenumber: 923
+street: Elm Street
+housenumber: "923"
 phone: ""
 opening_hours: ""
-website: "http://www.copyexpress.com/"
+website: http://www.copyexpress.com/

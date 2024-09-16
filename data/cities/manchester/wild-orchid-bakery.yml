@@ -4,8 +4,8 @@ latitude: 42.98998
 longitude: -71.4633
 postcode: "03101"
 city: Manchester
-street: "Elm Street"
-housenumber: 836
+street: Elm Street
+housenumber: "836"
 phone: "+16037248807"
 opening_hours: ""
-website: "https://www.wildorchidbakery.com/"
+website: https://www.wildorchidbakery.com/

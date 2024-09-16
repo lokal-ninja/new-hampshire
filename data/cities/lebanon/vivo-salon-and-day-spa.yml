@@ -1,11 +1,11 @@
 id: 934511879
-type: way
+type: node
 latitude: 43.63823
 longitude: -72.26335
 postcode: "03766"
 city: Lebanon
-street: "Mechanic Street"
-housenumber: 119
-phone: "+1-603-448-5888"
-opening_hours: "Tu-Th 09:00-20:00; Fr 09:00-17:00; Sa 09:00-16:00"
-website: "http://www.vivosalonanddayspa.com/"
+street: Mechanic Street
+housenumber: "119"
+phone: +1-603-448-5888
+opening_hours: Tu-Th 09:00-20:00; Fr 09:00-17:00; Sa 09:00-16:00
+website: http://www.vivosalonanddayspa.com/

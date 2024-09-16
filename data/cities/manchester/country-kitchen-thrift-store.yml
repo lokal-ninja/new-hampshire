@@ -1,11 +1,11 @@
 id: 207690418
-type: way
+type: node
 latitude: 42.97305
 longitude: -71.40441
 postcode: "03109"
 city: Manchester
-street: "Pepsi Road"
-housenumber: 199
+street: Pepsi Road
+housenumber: "199"
 phone: ""
 opening_hours: ""
-website: "http://www.countrykitchenbread.com/"
+website: http://www.countrykitchenbread.com/

@@ -1,11 +1,11 @@
 id: 532808358
-type: way
+type: node
 latitude: 43.0414
 longitude: -70.82088
 postcode: "03840"
 city: Greenland
-street: "March Farm Way"
-housenumber: 8
-phone: "+1 603-334-9645"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: March Farm Way
+housenumber: "8"
+phone: +1 603-334-9645
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

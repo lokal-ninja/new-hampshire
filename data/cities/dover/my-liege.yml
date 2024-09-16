@@ -1,11 +1,11 @@
 id: 244649834
-type: way
+type: node
 latitude: 43.16185
 longitude: -70.89508
 postcode: "03820"
 city: Dover
-street: "Durham Road"
-housenumber: 301
+street: Durham Road
+housenumber: "301"
 phone: ""
 opening_hours: ""
-website: "https://www.themetrospa.com/"
+website: https://www.themetrospa.com/

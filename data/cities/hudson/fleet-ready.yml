@@ -1,11 +1,11 @@
 id: 106860641
-type: way
+type: node
 latitude: 42.82261
 longitude: -71.41637
 postcode: "03051"
 city: Hudson
-street: "West Road"
-housenumber: 20
+street: West Road
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "http://www.fleetready.com/"
+website: http://www.fleetready.com/

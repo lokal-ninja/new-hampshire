@@ -4,8 +4,8 @@ latitude: 43.07672
 longitude: -70.75256
 postcode: "03801"
 city: Portsmouth
-street: "Marcy Street"
-housenumber: 60
+street: Marcy Street
+housenumber: "60"
 phone: ""
 opening_hours: ""
-website: "https://www.gundalow.org"
+website: https://www.gundalow.org

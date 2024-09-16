@@ -1,11 +1,11 @@
 id: 53256590
-type: way
+type: node
 latitude: 42.7107
 longitude: -71.44327
 postcode: "03060"
 city: Nashua
-street: "Daniel Webster Highway"
-housenumber: 235
-phone: "+1-603-888-0533"
-opening_hours: "Mo-Th 09:00-21:00; Fr,Sa 09:00-23:00; Su 10:00-21:00"
-website: "https://www.barnesandnoble.com/"
+street: Daniel Webster Highway
+housenumber: "235"
+phone: +1-603-888-0533
+opening_hours: Mo-Th 09:00-21:00; Fr,Sa 09:00-23:00; Su 10:00-21:00
+website: https://www.barnesandnoble.com/

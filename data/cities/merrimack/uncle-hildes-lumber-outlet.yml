@@ -1,11 +1,11 @@
 id: 93647247
-type: way
+type: node
 latitude: 42.83755
 longitude: -71.49027
 postcode: "03054"
 city: Merrimack
-street: "Daniel Webster Highway"
-housenumber: 293
+street: Daniel Webster Highway
+housenumber: "293"
 phone: ""
 opening_hours: ""
-website: "https://www.unclehildes.com/"
+website: https://www.unclehildes.com/

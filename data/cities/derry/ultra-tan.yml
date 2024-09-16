@@ -1,11 +1,11 @@
 id: 170685675
-type: way
+type: node
 latitude: 42.89288
 longitude: -71.32385
 postcode: "03038"
 city: Derry
-street: "Crystal Avenue"
-housenumber: 55
-phone: "+1-603-537-0800"
+street: Crystal Avenue
+housenumber: "55"
+phone: +1-603-537-0800
 opening_hours: ""
-website: "https://ultratanderry.com/"
+website: https://ultratanderry.com/

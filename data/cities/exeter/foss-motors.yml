@@ -1,11 +1,11 @@
 id: 362331402
-type: way
+type: node
 latitude: 42.98904
 longitude: -70.93203
 postcode: "03833"
 city: Exeter
-street: "Portsmouth Avenue"
-housenumber: 133
-phone: "+1-844-532-7406"
+street: Portsmouth Avenue
+housenumber: "133"
+phone: +1-844-532-7406
 opening_hours: ""
-website: "https://www.fosscars.com/"
+website: https://www.fosscars.com/

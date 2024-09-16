@@ -1,11 +1,11 @@
 id: 871748183
-type: way
+type: node
 latitude: 43.63828
 longitude: -72.27666
 postcode: "03766"
 city: Lebanon
-street: "Mechanic Street"
-housenumber: 262
-phone: "+1-603-442-6491"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "http://www.ultimatebathstore.com/locations/LebanonNH"
+street: Mechanic Street
+housenumber: "262"
+phone: +1-603-442-6491
+opening_hours: Mo-Fr 09:00-17:00
+website: http://www.ultimatebathstore.com/locations/LebanonNH

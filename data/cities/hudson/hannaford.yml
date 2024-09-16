@@ -1,11 +1,11 @@
 id: 202727660
-type: way
+type: node
 latitude: 42.7751
 longitude: -71.4429
 postcode: "03051"
 city: Hudson
-street: "Derry Street"
-housenumber: 77
-phone: "+1 603-883-6112"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://stores.hannaford.com/nh/hudson/8183"
+street: Derry Street
+housenumber: "77"
+phone: +1 603-883-6112
+opening_hours: Mo-Su 07:00-22:00
+website: https://stores.hannaford.com/nh/hudson/8183

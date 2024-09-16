@@ -1,11 +1,11 @@
 id: 297221917
-type: way
+type: node
 latitude: 42.93031
 longitude: -71.18767
 postcode: "03873"
 city: Sandown
-street: "Main Street"
-housenumber: 343
+street: Main Street
+housenumber: "343"
 phone: ""
 opening_hours: ""
-website: "https://www.macaroons.com/"
+website: https://www.macaroons.com/

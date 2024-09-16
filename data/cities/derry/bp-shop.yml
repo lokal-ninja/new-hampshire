@@ -1,11 +1,11 @@
 id: 37522927
-type: way
+type: node
 latitude: 42.89168
 longitude: -71.31229
 postcode: "03038"
 city: Derry
-street: "East Broadway"
-housenumber: 133
+street: East Broadway
+housenumber: "133"
 phone: ""
 opening_hours: ""
 website: ""

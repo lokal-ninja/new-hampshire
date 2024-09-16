@@ -1,11 +1,11 @@
 id: 179913148
-type: way
+type: node
 latitude: 42.76188
 longitude: -71.46634
 postcode: "03060"
 city: Nashua
-street: "Main Street"
-housenumber: 119
-phone: "+1-603-881-7703"
+street: Main Street
+housenumber: "119"
+phone: +1-603-881-7703
 opening_hours: ""
-website: "https://www.castros.com/"
+website: https://www.castros.com/

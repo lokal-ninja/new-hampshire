@@ -1,11 +1,11 @@
 id: 176728131
-type: way
+type: node
 latitude: 42.84595
 longitude: -71.36022
 postcode: "03053"
 city: Londonderry
-street: "Nashua Road"
-housenumber: 123
+street: Nashua Road
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

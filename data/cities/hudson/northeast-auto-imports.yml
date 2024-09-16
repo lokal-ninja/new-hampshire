@@ -1,11 +1,11 @@
 id: 69338549
-type: way
+type: node
 latitude: 42.76888
 longitude: -71.42679
 postcode: "03051"
 city: Hudson
-street: "Ferry Street"
-housenumber: 120
-phone: "+1 603 801 2922"
-opening_hours: "Mo-Fr 08:30-17:30"
-website: "https://northeastautoimports.com/"
+street: Ferry Street
+housenumber: "120"
+phone: +1 603 801 2922
+opening_hours: Mo-Fr 08:30-17:30
+website: https://northeastautoimports.com/

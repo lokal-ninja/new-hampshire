@@ -1,11 +1,11 @@
 id: 166046142
-type: way
+type: node
 latitude: 42.89331
 longitude: -71.326
 postcode: "03038"
 city: Derry
-street: "Crystal Avenue"
-housenumber: 61
-phone: "+1-603-425-2262"
-opening_hours: "Mo-Fr 10:00-19:30; Sa 08:00-18:00"
-website: "https://www.advancedhairderry.com/"
+street: Crystal Avenue
+housenumber: "61"
+phone: +1-603-425-2262
+opening_hours: Mo-Fr 10:00-19:30; Sa 08:00-18:00
+website: https://www.advancedhairderry.com/

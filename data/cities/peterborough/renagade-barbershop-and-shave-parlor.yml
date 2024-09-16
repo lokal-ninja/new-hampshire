@@ -1,11 +1,11 @@
 id: 1193859500
-type: way
+type: node
 latitude: 42.86954
 longitude: -71.95281
 postcode: "03458"
 city: Peterborough
-street: "Grove Street"
-housenumber: 105
+street: Grove Street
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

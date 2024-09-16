@@ -1,11 +1,11 @@
 id: 54057595
-type: way
+type: node
 latitude: 42.75831
 longitude: -71.43328
 postcode: "03051"
 city: Hudson
-street: "Winn Ave"
-housenumber: 9
+street: Winn Ave
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

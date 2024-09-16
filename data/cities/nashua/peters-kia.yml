@@ -1,11 +1,11 @@
 id: 226332281
-type: way
+type: node
 latitude: 42.77998
 longitude: -71.49975
 postcode: "03063"
 city: Nashua
-street: "Amherst Street"
-housenumber: 290
+street: Amherst Street
+housenumber: "290"
 phone: ""
 opening_hours: ""
-website: "http://www.peterskia.com/"
+website: http://www.peterskia.com/

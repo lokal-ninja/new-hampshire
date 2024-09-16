@@ -1,11 +1,11 @@
 id: 1047584912
-type: way
+type: node
 latitude: 42.97064
 longitude: -71.45407
 postcode: "03103"
 city: Manchester
-street: "South Maple Street"
-housenumber: 93
+street: South Maple Street
+housenumber: "93"
 phone: ""
 opening_hours: ""
-website: "https://www.savers.com/"
+website: https://www.savers.com/

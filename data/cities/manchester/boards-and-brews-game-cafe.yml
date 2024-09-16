@@ -1,11 +1,11 @@
 id: 1022357017
-type: way
+type: node
 latitude: 42.99152
 longitude: -71.46289
 postcode: "03101"
 city: Manchester
-street: "Elm Street"
-housenumber: 941
-phone: "+1-603-232-5184"
+street: Elm Street
+housenumber: "941"
+phone: +1-603-232-5184
 opening_hours: ""
-website: "https://www.boardsandbrewsnh.com/"
+website: https://www.boardsandbrewsnh.com/

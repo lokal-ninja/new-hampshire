@@ -1,11 +1,11 @@
 id: 75607313
-type: way
+type: node
 latitude: 42.9577
 longitude: -71.48164
 postcode: "03110"
 city: Bedford
-street: "Kilton Road"
-housenumber: 7
-phone: "+1 603-625-5431"
-opening_hours: "Su 07:00-22:00; Mo-Sa 07:00-22:00"
-website: "https://stores.hannaford.com/nh/bedford/8436"
+street: Kilton Road
+housenumber: "7"
+phone: +1 603-625-5431
+opening_hours: Su 07:00-22:00; Mo-Sa 07:00-22:00
+website: https://stores.hannaford.com/nh/bedford/8436

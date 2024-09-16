@@ -1,11 +1,11 @@
 id: 322940037
-type: way
+type: node
 latitude: 42.82221
 longitude: -71.62234
 postcode: "03055"
 city: Milford
-street: "Nashua Street"
-housenumber: 601
-phone: "+1-603-672-0488"
-opening_hours: "Mo-Sa 08:00-21:00; Su 08:00-20:00"
-website: "https://www.oceanstatejoblot.com/"
+street: Nashua Street
+housenumber: "601"
+phone: +1-603-672-0488
+opening_hours: Mo-Sa 08:00-21:00; Su 08:00-20:00
+website: https://www.oceanstatejoblot.com/

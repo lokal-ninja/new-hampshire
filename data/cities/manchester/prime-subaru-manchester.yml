@@ -1,11 +1,11 @@
 id: 835274052
-type: way
+type: node
 latitude: 42.97038
 longitude: -71.47745
 postcode: "03102"
 city: Manchester
-street: "Second Street"
-housenumber: 764
-phone: "+1-603-795-0377"
+street: Second Street
+housenumber: "764"
+phone: +1-603-795-0377
 opening_hours: ""
-website: "https://www.primesubarumanchester.com/"
+website: https://www.primesubarumanchester.com/

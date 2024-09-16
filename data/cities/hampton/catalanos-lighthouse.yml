@@ -1,11 +1,11 @@
 id: 999296307
-type: way
+type: node
 latitude: 42.94166
 longitude: -70.79551
 postcode: "03842"
 city: Hampton
-street: "High Street"
-housenumber: 560
-phone: "+1-603-601-7512"
+street: High Street
+housenumber: "560"
+phone: +1-603-601-7512
 opening_hours: ""
 website: ""

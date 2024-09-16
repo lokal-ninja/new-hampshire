@@ -1,11 +1,11 @@
 id: 971472719
-type: way
+type: node
 latitude: 43.63789
 longitude: -72.21565
 postcode: "03766"
 city: Lebanon
-street: "Riverside Drive"
-housenumber: 39
-phone: "+1-603-448-4205"
+street: Riverside Drive
+housenumber: "39"
+phone: +1-603-448-4205
 opening_hours: ""
-website: "https://forwardsgarage.org"
+website: https://forwardsgarage.org

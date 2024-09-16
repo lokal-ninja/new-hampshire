@@ -1,11 +1,11 @@
 id: 226332280
-type: way
+type: node
 latitude: 42.77891
 longitude: -71.49928
 postcode: "03063"
 city: Nashua
-street: "Amherst Street"
-housenumber: 280
+street: Amherst Street
+housenumber: "280"
 phone: ""
 opening_hours: ""
-website: "https://www.petersnissan.com/"
+website: https://www.petersnissan.com/

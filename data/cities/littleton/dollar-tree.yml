@@ -1,11 +1,11 @@
 id: 936479553
-type: way
+type: node
 latitude: 44.30757
 longitude: -71.80366
 postcode: "03561"
 city: Littleton
-street: "Meadow Street"
-housenumber: 556
-phone: "+1-603-575-0000"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/nh/littleton/3083/"
+street: Meadow Street
+housenumber: "556"
+phone: +1-603-575-0000
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/nh/littleton/3083/

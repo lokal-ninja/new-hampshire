@@ -1,11 +1,11 @@
 id: 230522132
-type: way
+type: node
 latitude: 42.95469
 longitude: -71.43234
 postcode: "03103"
 city: Manchester
-street: "South Willow Street"
-housenumber: 1500
+street: South Willow Street
+housenumber: "1500"
 phone: ""
 opening_hours: ""
-website: "https://www.charlotterusse.com/"
+website: https://www.charlotterusse.com/

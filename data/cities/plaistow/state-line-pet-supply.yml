@@ -1,11 +1,11 @@
 id: 369026228
-type: way
+type: node
 latitude: 42.84624
 longitude: -71.10542
 postcode: "03865"
 city: Plaistow
-street: "Plaistow Road"
-housenumber: 137
-phone: "+1-603-382-6873"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-18:00"
-website: "https://www.statelinepetsupply.com/"
+street: Plaistow Road
+housenumber: "137"
+phone: +1-603-382-6873
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-18:00
+website: https://www.statelinepetsupply.com/

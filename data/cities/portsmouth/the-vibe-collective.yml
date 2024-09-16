@@ -4,8 +4,8 @@ latitude: 43.07594
 longitude: -70.76055
 postcode: ""
 city: Portsmouth
-street: "Congress Street"
-housenumber: 153
+street: Congress Street
+housenumber: "153"
 phone: ""
 opening_hours: ""
-website: "https://visitthevibe.com/"
+website: https://visitthevibe.com/

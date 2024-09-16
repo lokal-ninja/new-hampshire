@@ -1,11 +1,11 @@
 id: 92974557
-type: way
+type: node
 latitude: 42.81847
 longitude: -71.34862
 postcode: "03053"
 city: Londonderry
-street: "Chase Road"
-housenumber: 56
+street: Chase Road
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

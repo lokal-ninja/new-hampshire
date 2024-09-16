@@ -1,11 +1,11 @@
 id: 87793865
-type: way
+type: node
 latitude: 42.88129
 longitude: -71.3824
 postcode: "03053"
 city: Londonderry
-street: "Shasta Drive"
-housenumber: 72
+street: Shasta Drive
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 982124973
-type: way
+type: node
 latitude: 42.75236
 longitude: -71.48311
 postcode: "03060"
 city: Nashua
-street: "West Hollis Street"
-housenumber: 217
-phone: "+1 603 577 0048"
+street: West Hollis Street
+housenumber: "217"
+phone: +1 603 577 0048
 opening_hours: ""
-website: "https://www.fuzionfitstyle.com/"
+website: https://www.fuzionfitstyle.com/

@@ -1,11 +1,11 @@
 id: 224224601
-type: way
+type: node
 latitude: 42.81015
 longitude: -71.57322
 postcode: "03031"
 city: Amherst
-street: "Paul's Way"
-housenumber: 2
-phone: "+1-603-718-8556"
-opening_hours: "Mo-Fr 10:00-19:00"
-website: "www.creativevibesnh.com"
+street: Paul's Way
+housenumber: "2"
+phone: +1-603-718-8556
+opening_hours: Mo-Fr 10:00-19:00
+website: www.creativevibesnh.com

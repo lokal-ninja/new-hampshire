@@ -1,11 +1,11 @@
 id: 296986207
-type: way
+type: node
 latitude: 42.8928
 longitude: -71.1443
 postcode: "03826"
 city: East Hampstead
-street: "Sandown Road"
-housenumber: 320
+street: Sandown Road
+housenumber: "320"
 phone: ""
 opening_hours: ""
-website: "https://www.cvexotics.com/"
+website: https://www.cvexotics.com/

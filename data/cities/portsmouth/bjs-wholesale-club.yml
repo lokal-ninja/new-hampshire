@@ -1,11 +1,11 @@
 id: 85246750
-type: way
+type: node
 latitude: 43.09069
 longitude: -70.78916
 postcode: "03801"
 city: Portsmouth
-street: "Woodbury Avenue"
-housenumber: 1801
+street: Woodbury Avenue
+housenumber: "1801"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 08:00-19:00"
-website: "https://www.bjs.com/"
+opening_hours: Mo-Sa 08:00-21:00; Su 08:00-19:00
+website: https://www.bjs.com/

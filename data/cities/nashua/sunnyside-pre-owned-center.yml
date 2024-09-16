@@ -1,11 +1,11 @@
 id: 115436943
-type: way
+type: node
 latitude: 42.79175
 longitude: -71.52233
 postcode: "03063"
 city: Nashua
-street: "Amherst Street"
-housenumber: 488
-phone: "603-816-1399"
+street: Amherst Street
+housenumber: "488"
+phone: 603-816-1399
 opening_hours: ""
-website: "https://www.sunnysideacura.com/pre-owned-center/"
+website: https://www.sunnysideacura.com/pre-owned-center/

@@ -1,11 +1,11 @@
 id: 53332380
-type: way
+type: node
 latitude: 42.71332
 longitude: -71.44084
 postcode: "03060"
 city: Nashua
-street: "Daniel Webster Highway"
-housenumber: 220
-phone: "+1 603-891-4900"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-20:00"
-website: "https://stores.bestbuy.com/nh/nashua/220-daniel-webster-hwy-534.html"
+street: Daniel Webster Highway
+housenumber: "220"
+phone: +1 603-891-4900
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-20:00
+website: https://stores.bestbuy.com/nh/nashua/220-daniel-webster-hwy-534.html

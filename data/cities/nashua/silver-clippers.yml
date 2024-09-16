@@ -1,11 +1,11 @@
 id: 226332286
-type: way
+type: node
 latitude: 42.77002
 longitude: -71.47996
 postcode: "03064"
 city: Nashua
-street: "Broad Street"
-housenumber: 9
-phone: "+1-603-886-1974"
+street: Broad Street
+housenumber: "9"
+phone: +1-603-886-1974
 opening_hours: ""
-website: "http://silverclippers.com/"
+website: http://silverclippers.com/

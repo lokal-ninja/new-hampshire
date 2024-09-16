@@ -1,11 +1,11 @@
 id: 633278636
-type: way
+type: node
 latitude: 42.81302
 longitude: -72.53123
 postcode: "03451"
 city: Hinsdale
-street: "Brattleboro Road"
-housenumber: 724
-phone: "+1 603-336-5538"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.walmart.com/store/1907/hinsdale-nh/whats-new"
+street: Brattleboro Road
+housenumber: "724"
+phone: +1 603-336-5538
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.walmart.com/store/1907/hinsdale-nh/whats-new

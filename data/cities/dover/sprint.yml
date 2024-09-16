@@ -1,11 +1,11 @@
 id: 218494256
-type: way
+type: node
 latitude: 43.22144
 longitude: -70.88828
 postcode: "03820"
 city: Dover
-street: "Webb Place"
-housenumber: 13
+street: Webb Place
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.sprint.com/"
+website: https://www.sprint.com/

@@ -1,11 +1,11 @@
 id: 271954990
-type: way
+type: node
 latitude: 42.95387
 longitude: -71.25978
 postcode: "03036"
 city: Chester
-street: "Derry Road"
-housenumber: 58
+street: Derry Road
+housenumber: "58"
 phone: ""
 opening_hours: ""
-website: "https://www.aknittersgarden.net/"
+website: https://www.aknittersgarden.net/

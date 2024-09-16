@@ -1,11 +1,11 @@
 id: 246519864
-type: way
+type: node
 latitude: 42.807
 longitude: -71.54457
 postcode: "03054"
 city: Merrimack
-street: "Naticook Road"
-housenumber: 228
+street: Naticook Road
+housenumber: "228"
 phone: ""
 opening_hours: ""
-website: "https://www.innovationsnh.com/"
+website: https://www.innovationsnh.com/

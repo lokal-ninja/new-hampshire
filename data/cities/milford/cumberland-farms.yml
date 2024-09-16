@@ -1,11 +1,11 @@
 id: 676338962
-type: way
+type: node
 latitude: 42.82328
 longitude: -71.62356
 postcode: "03055"
 city: Milford
-street: "Nashua Street"
-housenumber: 583
-phone: "+1-603-249-3064"
-opening_hours: "24/7"
+street: Nashua Street
+housenumber: "583"
+phone: +1-603-249-3064
+opening_hours: 24/7
 website: ""

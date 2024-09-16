@@ -1,11 +1,11 @@
 id: 131232187
-type: way
+type: node
 latitude: 42.77336
 longitude: -71.31669
 postcode: "03087"
 city: Windham
-street: "Lowell Road"
-housenumber: 120
+street: Lowell Road
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

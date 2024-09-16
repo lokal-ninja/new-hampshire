@@ -1,11 +1,11 @@
 id: 85931769
-type: way
+type: node
 latitude: 42.95633
 longitude: -71.43991
 postcode: "03103"
 city: Manchester
-street: "Gold Street"
-housenumber: 915
+street: Gold Street
+housenumber: "915"
 phone: ""
 opening_hours: ""
-website: "http://www.fiatusaofmanchester.com/"
+website: http://www.fiatusaofmanchester.com/

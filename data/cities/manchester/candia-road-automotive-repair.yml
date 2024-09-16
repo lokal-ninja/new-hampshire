@@ -1,11 +1,11 @@
 id: 171924159
-type: way
+type: node
 latitude: 42.98104
 longitude: -71.4264
 postcode: "03109"
 city: Manchester
-street: "Candia Road"
-housenumber: 220
+street: Candia Road
+housenumber: "220"
 phone: ""
 opening_hours: ""
 website: ""

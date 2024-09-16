@@ -1,11 +1,11 @@
 id: 368953025
-type: way
+type: node
 latitude: 42.94393
 longitude: -70.83553
 postcode: "03842"
 city: Hampton
-street: "Lafayette Road"
-housenumber: 567
+street: Lafayette Road
+housenumber: "567"
 phone: ""
 opening_hours: ""
 website: ""

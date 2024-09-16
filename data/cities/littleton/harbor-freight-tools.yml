@@ -1,11 +1,11 @@
 id: 394759074
-type: way
+type: node
 latitude: 44.30986
 longitude: -71.78768
 postcode: "03561"
 city: Littleton
-street: "Meadow Street"
+street: Meadow Street
 housenumber: 160-170
-phone: "+1 603-444-0193"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/160-meadow-street-littleton-03561?number=778"
+phone: +1 603-444-0193
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/160-meadow-street-littleton-03561?number=778

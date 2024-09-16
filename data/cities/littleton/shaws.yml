@@ -1,11 +1,11 @@
 id: 357297593
-type: way
+type: node
 latitude: 44.30281
 longitude: -71.80219
 postcode: "03561"
 city: Littleton
-street: "Meadow Street"
-housenumber: 625
-phone: "+1-603-444-1017"
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-21:00"
-website: "https://local.shaws.com/nh/littleton/625-meadow-st.html"
+street: Meadow Street
+housenumber: "625"
+phone: +1-603-444-1017
+opening_hours: Mo-Sa 07:00-22:00; Su 07:00-21:00
+website: https://local.shaws.com/nh/littleton/625-meadow-st.html

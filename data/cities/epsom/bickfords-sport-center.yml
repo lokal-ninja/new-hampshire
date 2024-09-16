@@ -4,8 +4,8 @@ latitude: 43.22371
 longitude: -71.3385
 postcode: "03234"
 city: Epsom
-street: "Dover Road"
-housenumber: 1664
+street: Dover Road
+housenumber: "1664"
 phone: ""
 opening_hours: ""
-website: "https://www.bickfordssportcenter.com/"
+website: https://www.bickfordssportcenter.com/

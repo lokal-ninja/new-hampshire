@@ -1,11 +1,11 @@
 id: 220574346
-type: way
+type: node
 latitude: 42.96266
 longitude: -71.44423
 postcode: "03103"
 city: Manchester
-street: "Cahill Avenue"
-housenumber: 100
+street: Cahill Avenue
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "http://woodfloorsbyjbw.com/"
+website: http://woodfloorsbyjbw.com/

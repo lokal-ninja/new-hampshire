@@ -1,11 +1,11 @@
 id: 1022688064
-type: way
+type: node
 latitude: 42.99012
 longitude: -71.46155
 postcode: "03101"
 city: Manchester
-street: "Manchester Street"
-housenumber: 71
+street: Manchester Street
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

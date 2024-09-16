@@ -1,11 +1,11 @@
 id: 241059897
-type: way
+type: node
 latitude: 42.80908
 longitude: -71.5741
 postcode: "03031"
 city: Amherst
-street: "State Route 101A"
-housenumber: 107
+street: State Route 101A
+housenumber: "107"
 phone: ""
 opening_hours: ""
-website: "https://www.monro.com/"
+website: https://www.monro.com/

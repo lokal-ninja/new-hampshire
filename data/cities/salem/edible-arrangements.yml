@@ -1,11 +1,11 @@
 id: 174594697
-type: way
+type: node
 latitude: 42.79213
 longitude: -71.23392
 postcode: "03079"
 city: Salem
-street: "North Broadway"
-housenumber: 236
-phone: "+1-603-894-0288"
-opening_hours: "Mo-Sa 09:00-17:00; Su 09:00-14:00"
-website: "https://www.ediblearrangements.com/stores/236-n-brdway-salem-nh-03079"
+street: North Broadway
+housenumber: "236"
+phone: +1-603-894-0288
+opening_hours: Mo-Sa 09:00-17:00; Su 09:00-14:00
+website: https://www.ediblearrangements.com/stores/236-n-brdway-salem-nh-03079

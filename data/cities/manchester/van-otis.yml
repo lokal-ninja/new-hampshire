@@ -4,8 +4,8 @@ latitude: 42.98308
 longitude: -71.46282
 postcode: "03101"
 city: Manchester
-street: "Elm Street"
-housenumber: 341
+street: Elm Street
+housenumber: "341"
 phone: ""
 opening_hours: ""
-website: "http://www.vanotischocolates.com/"
+website: http://www.vanotischocolates.com/

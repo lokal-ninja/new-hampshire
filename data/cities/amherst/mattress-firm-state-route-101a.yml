@@ -1,11 +1,11 @@
 id: 241059925
-type: way
+type: node
 latitude: 42.80631
 longitude: -71.57036
 postcode: "03031"
 city: Amherst
-street: "State Route 101A"
-housenumber: 123
+street: State Route 101A
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

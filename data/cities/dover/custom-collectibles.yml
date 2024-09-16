@@ -1,11 +1,11 @@
 id: 245015126
-type: way
+type: node
 latitude: 43.19475
 longitude: -70.87519
 postcode: "03820"
 city: Dover
-street: "Washington Street"
-housenumber: 90
+street: Washington Street
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

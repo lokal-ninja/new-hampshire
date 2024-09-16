@@ -1,11 +1,11 @@
 id: 737011690
-type: way
+type: node
 latitude: 43.44591
 longitude: -71.61896
 postcode: "03276"
 city: Tilton
-street: "West Main Street"
-housenumber: 630
-phone: "+1 603-286-7800"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: West Main Street
+housenumber: "630"
+phone: +1 603-286-7800
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

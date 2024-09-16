@@ -1,11 +1,11 @@
 id: 55552607
-type: way
+type: node
 latitude: 42.72854
 longitude: -71.44717
 postcode: "03060"
 city: Nashua
-street: "Daniel Webster Highway"
-housenumber: 112
+street: Daniel Webster Highway
+housenumber: "112"
 phone: ""
 opening_hours: ""
-website: "http://www.globalflavorsnashua.com/"
+website: http://www.globalflavorsnashua.com/

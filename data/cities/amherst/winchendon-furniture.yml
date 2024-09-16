@@ -1,11 +1,11 @@
 id: 241060002
-type: way
+type: node
 latitude: 42.80653
 longitude: -71.56516
 postcode: "03031"
 city: Amherst
-street: "State Route 101A"
-housenumber: 130
+street: State Route 101A
+housenumber: "130"
 phone: ""
 opening_hours: ""
-website: "https://www.winchendonfurniture.com/"
+website: https://www.winchendonfurniture.com/

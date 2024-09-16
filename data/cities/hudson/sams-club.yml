@@ -1,11 +1,11 @@
 id: 51713927
-type: way
+type: node
 latitude: 42.72586
 longitude: -71.42731
 postcode: "03051"
 city: Hudson
-street: "Walmart Boulevard"
-housenumber: 7
-phone: "+1 603-882-4600"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://samsclub.com"
+street: Walmart Boulevard
+housenumber: "7"
+phone: +1 603-882-4600
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://samsclub.com

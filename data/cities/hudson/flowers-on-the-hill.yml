@@ -1,11 +1,11 @@
 id: 32246705
-type: way
+type: node
 latitude: 42.81381
 longitude: -71.42242
 postcode: "03051"
 city: Hudson
-street: "Derry Road"
-housenumber: 290
+street: Derry Road
+housenumber: "290"
 phone: ""
 opening_hours: ""
-website: "https://www.flowersonthehill.net/"
+website: https://www.flowersonthehill.net/

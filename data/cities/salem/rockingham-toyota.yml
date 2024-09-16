@@ -1,11 +1,11 @@
 id: 217101268
-type: way
+type: node
 latitude: 42.7926
 longitude: -71.19463
 postcode: "03079"
 city: Salem
-street: "Main Street"
-housenumber: 354
+street: Main Street
+housenumber: "354"
 phone: ""
 opening_hours: ""
-website: "https://www.rockinghamtoyota.com/"
+website: https://www.rockinghamtoyota.com/

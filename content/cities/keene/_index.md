@@ -1,6 +1,6 @@
 ---
 title: Keene
 url: /keene/
-latitude: 42.924
-longitude: -72.287
+latitude: 42.932
+longitude: -72.297
 ---

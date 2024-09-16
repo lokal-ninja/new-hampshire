@@ -1,11 +1,11 @@
 id: 227188597
-type: way
+type: node
 latitude: 43.15373
 longitude: -71.0077
 postcode: "03861"
 city: Lee
-street: "Calef Highway"
-housenumber: 54
-phone: "+1-603-868-3030"
-opening_hours: "Mo-Sa 07:00-21:00, Su 7:00-19:00"
+street: Calef Highway
+housenumber: "54"
+phone: +1-603-868-3030
+opening_hours: Mo-Sa 07:00-21:00, Su 7:00-19:00
 website: ""

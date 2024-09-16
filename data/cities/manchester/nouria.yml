@@ -1,11 +1,11 @@
 id: 85030558
-type: way
+type: node
 latitude: 42.93857
 longitude: -71.42721
 postcode: "03103"
 city: Manchester
-street: "Harvey Road"
-housenumber: 510
+street: Harvey Road
+housenumber: "510"
 phone: ""
 opening_hours: ""
 website: ""

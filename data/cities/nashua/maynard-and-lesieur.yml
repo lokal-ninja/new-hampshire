@@ -1,11 +1,11 @@
 id: 180771913
-type: way
+type: node
 latitude: 42.75764
 longitude: -71.46564
 postcode: "03060"
 city: Nashua
-street: "West Hollis Street"
-housenumber: 31
+street: West Hollis Street
+housenumber: "31"
 phone: ""
 opening_hours: ""
-website: "https://www.tiresupermarket.com/"
+website: https://www.tiresupermarket.com/

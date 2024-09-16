@@ -1,11 +1,11 @@
 id: 293967610
-type: way
+type: node
 latitude: 43.72107
 longitude: -71.43355
 postcode: "03254"
 city: Moultonborough
-street: "Whittier Highway"
-housenumber: 349
+street: Whittier Highway
+housenumber: "349"
 phone: ""
 opening_hours: ""
 website: ""

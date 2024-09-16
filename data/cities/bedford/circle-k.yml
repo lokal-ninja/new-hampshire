@@ -1,11 +1,11 @@
 id: 265358829
-type: way
+type: node
 latitude: 42.92955
 longitude: -71.46053
 postcode: "03110"
 city: Bedford
-street: "Technology Drive"
-housenumber: 4
+street: Technology Drive
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

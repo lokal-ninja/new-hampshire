@@ -1,11 +1,14 @@
 id: 146810287
-type: way
+type: node
 latitude: 42.70382
 longitude: -71.44331
 postcode: "03060"
 city: Nashua
-street: "Daniel Webster Highway"
-housenumber: 295
-phone: "+1-603-891-8300"
-opening_hours: "Mo 12:00-19:00; Th-Fr 12:00-20:00; Sa 10:00-20:00; Su 12:00-17:00; Jan-Mar Sa 12:00-20:00; Jan 01 off; easter off; Jul 04 off; Sep Mo[1] off; Oct 31 16:00-24:00 off; Nov Th[4] off; Dec 24 09:00-16:00; Dec 25 off; Dec 31 15:00-24:00 off"
-website: "http://www.xfirepaintball.com/"
+street: Daniel Webster Highway
+housenumber: "295"
+phone: +1-603-891-8300
+opening_hours: Mo 12:00-19:00; Th-Fr 12:00-20:00; Sa 10:00-20:00; Su 12:00-17:00;
+    Jan-Mar Sa 12:00-20:00; Jan 01 off; easter off; Jul 04 off; Sep Mo[1] off; Oct
+    31 16:00-24:00 off; Nov Th[4] off; Dec 24 09:00-16:00; Dec 25 off; Dec 31 15:00-24:00
+    off
+website: http://www.xfirepaintball.com/

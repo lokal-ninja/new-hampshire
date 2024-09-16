@@ -1,11 +1,11 @@
 id: 224224586
-type: way
+type: node
 latitude: 42.80724
 longitude: -71.56691
 postcode: "03031"
 city: Amherst
-street: "State Route 101A"
-housenumber: 124
-phone: "+1-603-598-6328"
-opening_hours: "09:00-19:00"
-website: "https://www.theflyingbutcher.com/"
+street: State Route 101A
+housenumber: "124"
+phone: +1-603-598-6328
+opening_hours: 09:00-19:00
+website: https://www.theflyingbutcher.com/

@@ -1,11 +1,11 @@
 id: 180192731
-type: way
+type: node
 latitude: 42.75648
 longitude: -71.46958
 postcode: "03060"
 city: Nashua
-street: "West Hollis Street"
-housenumber: 55
-phone: "+1-603-889-9861"
+street: West Hollis Street
+housenumber: "55"
+phone: +1-603-889-9861
 opening_hours: ""
 website: ""

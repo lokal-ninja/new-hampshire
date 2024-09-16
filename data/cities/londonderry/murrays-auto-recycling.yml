@@ -1,11 +1,11 @@
 id: 138344082
-type: way
+type: node
 latitude: 42.9057
 longitude: -71.40619
 postcode: "03053"
 city: Londonderry
-street: "Hall Road"
-housenumber: 55
+street: Hall Road
+housenumber: "55"
 phone: ""
 opening_hours: ""
-website: "http://www.murraysautorecycling.com/"
+website: http://www.murraysautorecycling.com/

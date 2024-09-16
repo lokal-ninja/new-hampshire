@@ -1,11 +1,11 @@
 id: 90091871
-type: way
+type: node
 latitude: 42.91722
 longitude: -71.36805
 postcode: "03053"
 city: Londonderry
-street: "Auburn Road"
-housenumber: 5
+street: Auburn Road
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 925789137
-type: way
+type: node
 latitude: 43.5154
 longitude: -71.49458
 postcode: "03220"
 city: Belmont
-street: "Old State Road"
-housenumber: 12
-phone: "+1 603-524-4832"
-opening_hours: "10:00-17:00"
-website: "https://stores.joann.com/nh/belmont/830/"
+street: Old State Road
+housenumber: "12"
+phone: +1 603-524-4832
+opening_hours: 10:00-17:00
+website: https://stores.joann.com/nh/belmont/830/

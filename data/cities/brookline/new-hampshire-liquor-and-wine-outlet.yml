@@ -1,11 +1,11 @@
 id: 176090517
-type: way
+type: node
 latitude: 42.71404
 longitude: -71.66472
 postcode: "03033"
 city: Brookline
-street: "Route 13"
-housenumber: 44
+street: Route 13
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "https://www.liquorandwineoutlets.com/"
+website: https://www.liquorandwineoutlets.com/

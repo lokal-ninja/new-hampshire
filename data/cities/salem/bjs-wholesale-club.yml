@@ -1,11 +1,11 @@
 id: 37416671
-type: way
+type: node
 latitude: 42.76631
 longitude: -71.21496
 postcode: "03079"
 city: Salem
-street: "Cluff Rd"
-housenumber: 70
+street: Cluff Rd
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

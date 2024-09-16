@@ -1,11 +1,11 @@
 id: 159097652
-type: way
+type: node
 latitude: 43.21716
 longitude: -71.48267
 postcode: "03301"
 city: Concord
-street: "Sheep Davis Road"
-housenumber: 258
+street: Sheep Davis Road
+housenumber: "258"
 phone: ""
 opening_hours: ""
-website: "https://osbornesagway.com/"
+website: https://osbornesagway.com/

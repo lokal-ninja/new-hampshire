@@ -1,11 +1,11 @@
 id: 466057598
-type: way
+type: node
 latitude: 43.69916
 longitude: -71.64365
 postcode: "03217"
 city: Ashland
-street: "West Street"
-housenumber: 19
-phone: "+1-603-968-7810"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/ashland/19-west-st/M7218"
+street: West Street
+housenumber: "19"
+phone: +1-603-968-7810
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/ashland/19-west-st/M7218

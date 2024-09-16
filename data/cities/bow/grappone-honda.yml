@@ -1,11 +1,11 @@
 id: 406163286
-type: way
+type: node
 latitude: 43.17503
 longitude: -71.52863
 postcode: "03304"
 city: Bow
-street: "South Main Street"
-housenumber: 519
+street: South Main Street
+housenumber: "519"
 phone: ""
 opening_hours: ""
-website: "https://www.grapponehonda.com/"
+website: https://www.grapponehonda.com/

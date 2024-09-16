@@ -1,11 +1,11 @@
 id: 699241405
-type: way
+type: node
 latitude: 44.41582
 longitude: -71.19506
 postcode: "03581"
 city: Gorham
-street: "Main Street"
-housenumber: 491
-phone: "+1 603-752-5300"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Main Street
+housenumber: "491"
+phone: +1 603-752-5300
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

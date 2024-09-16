@@ -1,11 +1,11 @@
 id: 1046217371
-type: way
+type: node
 latitude: 42.98497
 longitude: -71.4625
 postcode: "03103"
 city: Manchester
-street: "Auburn Street"
-housenumber: 31
-phone: "+1-603-647-1650"
+street: Auburn Street
+housenumber: "31"
+phone: +1-603-647-1650
 opening_hours: ""
 website: ""

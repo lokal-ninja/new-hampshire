@@ -1,11 +1,11 @@
 id: 34580518
-type: way
+type: node
 latitude: 42.88815
 longitude: -71.3265
 postcode: "03038"
 city: Derry
-street: "Crystal Avenue"
-housenumber: 37
+street: Crystal Avenue
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

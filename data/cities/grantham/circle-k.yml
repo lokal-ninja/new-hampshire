@@ -1,11 +1,11 @@
 id: 835087603
-type: way
+type: node
 latitude: 43.49735
 longitude: -72.13535
 postcode: "03753"
 city: Grantham
-street: "Sawyer Brook Plaza"
-housenumber: 84
-phone: "+1-603-863-5142"
-opening_hours: "05:00-22:00; Fr,Sa 05:00-23:00"
-website: "https://www.circlek.com"
+street: Sawyer Brook Plaza
+housenumber: "84"
+phone: +1-603-863-5142
+opening_hours: 05:00-22:00; Fr,Sa 05:00-23:00
+website: https://www.circlek.com

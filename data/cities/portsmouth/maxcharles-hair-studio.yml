@@ -1,11 +1,11 @@
 id: 360216263
-type: way
+type: node
 latitude: 43.07695
 longitude: -70.75944
 postcode: "03801"
 city: Portsmouth
-street: "Fleet Street"
-housenumber: 168
-phone: "+1-603-373-0699"
-opening_hours: "Tu-Fr 10:00-20:00; Sa 09:30-16:00; Su,Mo closed"
-website: "https://www.maxcharlessalon.com/"
+street: Fleet Street
+housenumber: "168"
+phone: +1-603-373-0699
+opening_hours: Tu-Fr 10:00-20:00; Sa 09:30-16:00; Su,Mo closed
+website: https://www.maxcharlessalon.com/

@@ -1,11 +1,11 @@
 id: 69963317
-type: way
+type: node
 latitude: 42.8324
 longitude: -71.6474
 postcode: "03055"
 city: Milford
-street: "Prospect St"
-housenumber: 6
+street: Prospect St
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

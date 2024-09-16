@@ -1,11 +1,11 @@
 id: 226938748
-type: way
+type: node
 latitude: 42.88826
 longitude: -71.4751
 postcode: "03054"
 city: Merrimack
-street: "Daniel Webster Highway"
-housenumber: 634
+street: Daniel Webster Highway
+housenumber: "634"
 phone: ""
 opening_hours: ""
-website: "https://www.drapoelsalon.com/"
+website: https://www.drapoelsalon.com/

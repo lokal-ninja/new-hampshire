@@ -1,11 +1,11 @@
 id: 230522224
-type: way
+type: node
 latitude: 42.95505
 longitude: -71.43146
 postcode: "03103"
 city: Manchester
-street: "South Willow Street"
-housenumber: 1500
-phone: "+1 603-623-9147"
-opening_hours: "Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/manchester-nh-450"
+street: South Willow Street
+housenumber: "1500"
+phone: +1 603-623-9147
+opening_hours: Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/manchester-nh-450

@@ -1,11 +1,11 @@
 id: 722262655
-type: way
+type: node
 latitude: 43.76866
 longitude: -71.73806
 postcode: "03264"
 city: Plymouth
-street: "Boulder Point Drive"
-housenumber: 85
-phone: "+1 603-536-5009"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Boulder Point Drive
+housenumber: "85"
+phone: +1 603-536-5009
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

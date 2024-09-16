@@ -1,11 +1,11 @@
 id: 28734587
-type: way
+type: node
 latitude: 42.90082
 longitude: -71.31923
 postcode: "03038"
 city: Derry
-street: "North Main Street"
-housenumber: 50
-phone: "+1-603-434-1546"
-opening_hours: "Mo-Fr 07:30-17:00;Sa 07:30-12:00"
-website: "https://www.betley.com/"
+street: North Main Street
+housenumber: "50"
+phone: +1-603-434-1546
+opening_hours: Mo-Fr 07:30-17:00;Sa 07:30-12:00
+website: https://www.betley.com/

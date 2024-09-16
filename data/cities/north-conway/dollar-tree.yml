@@ -1,11 +1,11 @@
 id: 329394113
-type: way
+type: node
 latitude: 44.03382
 longitude: -71.1217
 postcode: "03860"
 city: North Conway
-street: "White Mountain Highway"
-housenumber: 1976
+street: White Mountain Highway
+housenumber: "1976"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/nh/north-conway/3824/"
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/nh/north-conway/3824/

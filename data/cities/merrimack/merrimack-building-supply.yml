@@ -1,11 +1,11 @@
 id: 93647105
-type: way
+type: node
 latitude: 42.83388
 longitude: -71.49279
 postcode: "03054"
 city: Merrimack
-street: "Daniel Webster Highway"
-housenumber: 260
+street: Daniel Webster Highway
+housenumber: "260"
 phone: ""
 opening_hours: ""
-website: "https://www.merrimackbuildingsupply.com/"
+website: https://www.merrimackbuildingsupply.com/

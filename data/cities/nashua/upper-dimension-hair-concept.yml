@@ -1,11 +1,11 @@
 id: 229627955
-type: way
+type: node
 latitude: 42.76958
 longitude: -71.48473
 postcode: "03064"
 city: Nashua
-street: "Broad Street"
-housenumber: 28
+street: Broad Street
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

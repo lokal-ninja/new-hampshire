@@ -1,11 +1,11 @@
 id: 116519329
-type: way
+type: node
 latitude: 42.73195
 longitude: -71.47165
 postcode: "03062"
 city: Nashua
-street: "Harris Road"
-housenumber: 7
+street: Harris Road
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

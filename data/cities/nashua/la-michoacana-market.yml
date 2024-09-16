@@ -1,11 +1,11 @@
 id: 279277506
-type: way
+type: node
 latitude: 42.75363
 longitude: -71.46989
 postcode: "03060"
 city: Nashua
-street: "Pine Street"
-housenumber: 112
+street: Pine Street
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

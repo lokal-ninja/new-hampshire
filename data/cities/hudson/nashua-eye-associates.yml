@@ -1,11 +1,11 @@
 id: 201853054
-type: way
+type: node
 latitude: 42.75923
 longitude: -71.43072
 postcode: "03051"
 city: Hudson
-street: "Lowell Road"
-housenumber: 30
+street: Lowell Road
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://www.nashuaeye.com/"
+website: https://www.nashuaeye.com/

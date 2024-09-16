@@ -1,11 +1,11 @@
 id: 226907310
-type: way
+type: node
 latitude: 43.03228
 longitude: -71.07333
 postcode: "03042"
 city: Epping
-street: "Calef Highway"
-housenumber: 96
+street: Calef Highway
+housenumber: "96"
 phone: ""
 opening_hours: ""
 website: ""

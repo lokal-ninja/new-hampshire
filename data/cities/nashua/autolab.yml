@@ -1,11 +1,11 @@
 id: 169336855
-type: way
+type: node
 latitude: 42.76685
 longitude: -71.45864
 postcode: "03064"
 city: Nashua
-street: "Chandler Street"
-housenumber: 72
+street: Chandler Street
+housenumber: "72"
 phone: ""
 opening_hours: ""
-website: "http://www.autolabnashua.com/"
+website: http://www.autolabnashua.com/

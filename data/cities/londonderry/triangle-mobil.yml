@@ -1,11 +1,11 @@
 id: 99219778
-type: way
+type: node
 latitude: 42.9136
 longitude: -71.39428
 postcode: "03053"
 city: Londonderry
-street: "Rockingham Road"
-housenumber: 231
+street: Rockingham Road
+housenumber: "231"
 phone: ""
 opening_hours: ""
 website: ""

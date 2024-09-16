@@ -1,11 +1,11 @@
 id: 296385021
-type: way
+type: node
 latitude: 42.88727
 longitude: -71.14937
 postcode: "03841"
 city: Hampstead
-street: "Emerson Avenue"
-housenumber: 416
+street: Emerson Avenue
+housenumber: "416"
 phone: ""
 opening_hours: ""
-website: "https://www.xtramart.com/"
+website: https://www.xtramart.com/

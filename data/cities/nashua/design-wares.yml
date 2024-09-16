@@ -4,8 +4,8 @@ latitude: 42.75974
 longitude: -71.4645
 postcode: "03060"
 city: Nashua
-street: "Main Street"
-housenumber: 206
-phone: "+1-603-882-5535"
-opening_hours: "Tu-Sa 10:00-17:30"
-website: "https://www.designwares.com/"
+street: Main Street
+housenumber: "206"
+phone: +1-603-882-5535
+opening_hours: Tu-Sa 10:00-17:30
+website: https://www.designwares.com/

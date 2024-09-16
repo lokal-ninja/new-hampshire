@@ -1,11 +1,11 @@
 id: 208938234
-type: way
+type: node
 latitude: 42.75413
 longitude: -71.46112
 postcode: "03060"
 city: Nashua
-street: "East Otterson Street"
-housenumber: 7
-phone: "+1-603-598-2700"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.broadsidecollision.com/"
+street: East Otterson Street
+housenumber: "7"
+phone: +1-603-598-2700
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.broadsidecollision.com/

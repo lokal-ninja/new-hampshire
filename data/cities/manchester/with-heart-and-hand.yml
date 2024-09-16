@@ -4,8 +4,8 @@ latitude: 42.98997
 longitude: -71.46283
 postcode: "03101"
 city: Manchester
-street: "Elm Street"
-housenumber: 823
+street: Elm Street
+housenumber: "823"
 phone: ""
 opening_hours: ""
-website: "http://www.withheartandhand.com/"
+website: http://www.withheartandhand.com/

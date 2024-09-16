@@ -1,11 +1,11 @@
 id: 92620633
-type: way
+type: node
 latitude: 42.95816
 longitude: -71.43574
 postcode: "03103"
 city: Manchester
-street: "South Willow Street"
-housenumber: 1400
+street: South Willow Street
+housenumber: "1400"
 phone: ""
 opening_hours: ""
-website: "https://www.libertyinternationaltrucks.com/"
+website: https://www.libertyinternationaltrucks.com/

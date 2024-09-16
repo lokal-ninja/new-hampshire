@@ -1,11 +1,11 @@
 id: 963007026
-type: way
+type: node
 latitude: 42.76921
 longitude: -71.22448
 postcode: "03079"
 city: Salem
-street: "South Village Drive"
-housenumber: 2
+street: South Village Drive
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

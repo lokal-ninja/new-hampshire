@@ -1,11 +1,11 @@
 id: 1169010227
-type: way
+type: node
 latitude: 43.52632
 longitude: -71.86235
 postcode: "03230"
 city: Danbury
-street: "US Route 4"
-housenumber: 705
-phone: "+1-603-768-3100"
-opening_hours: "Mo-Sa 06:00-20:00; Su 07:00-19:00"
-website: "https://danburycountrystore.com/"
+street: US Route 4
+housenumber: "705"
+phone: +1-603-768-3100
+opening_hours: Mo-Sa 06:00-20:00; Su 07:00-19:00
+website: https://danburycountrystore.com/

@@ -1,11 +1,11 @@
 id: 433836679
-type: way
+type: node
 latitude: 43.64555
 longitude: -72.25348
 postcode: "03766"
 city: Lebanon
-street: "Hanover Street"
-housenumber: 87
-phone: "+1-603-448-6400"
-opening_hours: "Mo-Th,Sa 07:00-19:00; Fr 07:00-20:00; Su 09:00-17:00"
-website: "https://www.uhaul.com/Locations/Truck-Rentals-near-Lebanon-NH-03766/790064/"
+street: Hanover Street
+housenumber: "87"
+phone: +1-603-448-6400
+opening_hours: Mo-Th,Sa 07:00-19:00; Fr 07:00-20:00; Su 09:00-17:00
+website: https://www.uhaul.com/Locations/Truck-Rentals-near-Lebanon-NH-03766/790064/

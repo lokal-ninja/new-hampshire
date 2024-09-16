@@ -1,11 +1,11 @@
 id: 265134431
-type: way
+type: node
 latitude: 42.70807
 longitude: -71.46768
 postcode: "03062"
 city: Nashua
-street: "East Dunstable Road"
-housenumber: 383
+street: East Dunstable Road
+housenumber: "383"
 phone: ""
 opening_hours: ""
-website: "http://www.davesqualitydrycleaning.com/"
+website: http://www.davesqualitydrycleaning.com/

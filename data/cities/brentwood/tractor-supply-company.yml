@@ -1,11 +1,11 @@
 id: 371276528
-type: way
+type: node
 latitude: 43.01502
 longitude: -71.07365
 postcode: "03833"
 city: Brentwood
-street: "Route 125"
-housenumber: 437
-phone: "+1 603-679-3270"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Route 125
+housenumber: "437"
+phone: +1 603-679-3270
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

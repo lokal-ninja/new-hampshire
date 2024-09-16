@@ -1,11 +1,11 @@
 id: 38132974
-type: way
+type: node
 latitude: 42.87716
 longitude: -71.30525
 postcode: "03038"
 city: Derry
-street: "Rockingham Road"
-housenumber: 109
+street: Rockingham Road
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

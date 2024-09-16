@@ -1,11 +1,11 @@
 id: 1016613805
-type: way
+type: node
 latitude: 42.99376
 longitude: -71.4625
 postcode: "03101"
 city: Manchester
-street: "Elm Street"
-housenumber: 1093
+street: Elm Street
+housenumber: "1093"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.evisioneyecare.com/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.evisioneyecare.com/

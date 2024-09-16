@@ -1,11 +1,11 @@
 id: 296698177
-type: way
+type: node
 latitude: 42.83309
 longitude: -71.25683
 postcode: "03087"
 city: Windham
-street: "Rockingham Road"
-housenumber: 119
-phone: "+1-603-898-4028"
+street: Rockingham Road
+housenumber: "119"
+phone: +1-603-898-4028
 opening_hours: ""
-website: "http://www.pooltablessalem.com/"
+website: http://www.pooltablessalem.com/

@@ -1,11 +1,11 @@
 id: 1024249990
-type: way
+type: node
 latitude: 42.99067
 longitude: -71.45524
 postcode: "03104"
 city: Manchester
-street: "Hanover Street"
-housenumber: 283
+street: Hanover Street
+housenumber: "283"
 phone: ""
 opening_hours: ""
-website: "https://www.dignitymemorial.com/"
+website: https://www.dignitymemorial.com/

@@ -1,11 +1,11 @@
 id: 794188974
-type: way
+type: node
 latitude: 42.97871
 longitude: -70.96149
 postcode: "03833"
 city: Exeter
-street: "Front Street"
-housenumber: 158
-phone: "+1-603-580-4178"
+street: Front Street
+housenumber: "158"
+phone: +1-603-580-4178
 opening_hours: ""
 website: ""

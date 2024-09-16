@@ -1,11 +1,11 @@
 id: 32404707
-type: way
+type: node
 latitude: 42.87879
 longitude: -71.32975
 postcode: "03038"
 city: Derry
-street: "West Broadway"
-housenumber: 62
-phone: "+1-603-437-3967"
+street: West Broadway
+housenumber: "62"
+phone: +1-603-437-3967
 opening_hours: ""
-website: "https://ettoresalononline.com/"
+website: https://ettoresalononline.com/

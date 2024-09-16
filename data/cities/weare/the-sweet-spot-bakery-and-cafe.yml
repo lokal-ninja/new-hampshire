@@ -1,11 +1,11 @@
 id: 1118454651
-type: way
+type: node
 latitude: 43.03144
 longitude: -71.65146
 postcode: "03281"
 city: Weare
-street: "Riverdale Road"
-housenumber: 353
-phone: "+1-603-529-6667"
-opening_hours: "We 07:00-14:00,Th-Fr 7:00-17:30,Su 08:00-12:00"
+street: Riverdale Road
+housenumber: "353"
+phone: +1-603-529-6667
+opening_hours: We 07:00-14:00,Th-Fr 7:00-17:30,Su 08:00-12:00
 website: ""

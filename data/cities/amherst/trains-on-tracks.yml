@@ -1,11 +1,11 @@
 id: 241059974
-type: way
+type: node
 latitude: 42.81194
 longitude: -71.58352
 postcode: "03031"
 city: Amherst
-street: "State Route 101A"
-housenumber: 76
+street: State Route 101A
+housenumber: "76"
 phone: ""
 opening_hours: ""
-website: "https://www.trainsontracks.com/"
+website: https://www.trainsontracks.com/

@@ -1,11 +1,11 @@
 id: 760555897
-type: way
+type: node
 latitude: 43.07011
 longitude: -70.94017
 postcode: "03857"
 city: Newmarket
-street: "Exeter Road"
-housenumber: 78
-phone: "+1-603-659-5182"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/newmarket/78-exeter-rd/m7228"
+street: Exeter Road
+housenumber: "78"
+phone: +1-603-659-5182
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/newmarket/78-exeter-rd/m7228

@@ -1,11 +1,11 @@
 id: 670466507
-type: way
+type: node
 latitude: 43.03703
 longitude: -70.94069
 postcode: "03857"
 city: Newfields
-street: "Main Street"
-housenumber: 66
-phone: "+1-603-773-5656"
-opening_hours: "Mo-Su 06:00-22:00"
+street: Main Street
+housenumber: "66"
+phone: +1-603-773-5656
+opening_hours: Mo-Su 06:00-22:00
 website: ""

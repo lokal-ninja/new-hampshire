@@ -1,11 +1,11 @@
 id: 42692832
-type: way
+type: node
 latitude: 42.7029
 longitude: -71.4434
 postcode: "03060"
 city: Nashua
-street: "Daniel Webster Highway"
-housenumber: 311
-phone: "+1 603-888-3640"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/nashua-nh-307.html"
+street: Daniel Webster Highway
+housenumber: "311"
+phone: +1 603-888-3640
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/nashua-nh-307.html

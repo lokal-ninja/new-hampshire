@@ -1,11 +1,11 @@
 id: 85931721
-type: way
+type: node
 latitude: 42.96237
 longitude: -71.44365
 postcode: "03103"
 city: Manchester
-street: "March Avenue"
-housenumber: 89
+street: March Avenue
+housenumber: "89"
 phone: ""
 opening_hours: ""
-website: "https://www.townfairtire.com/"
+website: https://www.townfairtire.com/

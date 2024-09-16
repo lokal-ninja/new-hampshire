@@ -1,11 +1,11 @@
 id: 31362121
-type: way
+type: node
 latitude: 42.86283
 longitude: -71.3545
 postcode: "03053"
 city: Londonderry
-street: "Orchard View Drive"
-housenumber: 4
+street: Orchard View Drive
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://local.shaws.com/nh/londonderry/1-orchard-view-dr.html"
+website: https://local.shaws.com/nh/londonderry/1-orchard-view-dr.html

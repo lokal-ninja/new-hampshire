@@ -4,8 +4,8 @@ latitude: 42.75982
 longitude: -71.47279
 postcode: "03060"
 city: Nashua
-street: "Pine Street"
-housenumber: 10
+street: Pine Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.justlights.com/"
+website: https://www.justlights.com/

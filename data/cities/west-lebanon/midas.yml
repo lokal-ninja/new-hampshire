@@ -1,11 +1,11 @@
 id: 265248179
-type: way
+type: node
 latitude: 43.63061
 longitude: -72.31847
 postcode: "03784"
 city: West Lebanon
-street: "Airport Road"
-housenumber: 5
-phone: "+1-603-755-6251"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 07:30-13:00"
-website: "https://www.midas.com/westlebanon/store.aspx?shopnum=4955&dmanum=136003"
+street: Airport Road
+housenumber: "5"
+phone: +1-603-755-6251
+opening_hours: Mo-Fr 07:30-17:30; Sa 07:30-13:00
+website: https://www.midas.com/westlebanon/store.aspx?shopnum=4955&dmanum=136003

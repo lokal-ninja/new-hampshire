@@ -1,11 +1,11 @@
 id: 230522208
-type: way
+type: node
 latitude: 42.95579
 longitude: -71.4327
 postcode: "03103"
 city: Manchester
-street: "South Willow Street"
-housenumber: 1500
+street: South Willow Street
+housenumber: "1500"
 phone: ""
 opening_hours: ""
-website: "https://www.sprint.com/"
+website: https://www.sprint.com/

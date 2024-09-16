@@ -1,11 +1,11 @@
 id: 37522953
-type: way
+type: node
 latitude: 42.89368
 longitude: -71.31351
 postcode: "03038"
 city: Derry
-street: "North Main Street"
-housenumber: 14
+street: North Main Street
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

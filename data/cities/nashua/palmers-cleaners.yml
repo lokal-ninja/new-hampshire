@@ -1,11 +1,11 @@
 id: 204875437
-type: way
+type: node
 latitude: 42.75274
 longitude: -71.46139
 postcode: "03060"
 city: Nashua
-street: "Main Street"
-housenumber: 300
-phone: "+1-603-889-7922"
-opening_hours: "Mo-Fr 07:00-20:00; Sa,Su 07:00-19:00"
-website: "http://www.palmerscleaners.com/"
+street: Main Street
+housenumber: "300"
+phone: +1-603-889-7922
+opening_hours: Mo-Fr 07:00-20:00; Sa,Su 07:00-19:00
+website: http://www.palmerscleaners.com/

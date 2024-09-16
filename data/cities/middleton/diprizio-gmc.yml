@@ -1,11 +1,11 @@
 id: 1168372785
-type: way
+type: node
 latitude: 43.46938
 longitude: -71.06098
 postcode: "03887"
 city: Middleton
-street: "Kings Highway"
-housenumber: 10
+street: Kings Highway
+housenumber: "10"
 phone: "+16034734034"
-opening_hours: "Mo-Fr 07:00-17:00"
+opening_hours: Mo-Fr 07:00-17:00
 website: ""

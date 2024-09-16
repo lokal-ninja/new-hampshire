@@ -1,11 +1,11 @@
 id: 1013395300
-type: way
+type: node
 latitude: 43.01147
 longitude: -71.45357
 postcode: "03104"
 city: Manchester
-street: "Hooksett Road"
-housenumber: 275
+street: Hooksett Road
+housenumber: "275"
 phone: ""
 opening_hours: ""
 website: ""

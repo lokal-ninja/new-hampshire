@@ -1,11 +1,11 @@
 id: 363410484
-type: way
+type: node
 latitude: 42.96662
 longitude: -70.83508
 postcode: ""
 city: North Hampton
-street: "Lafayette Road"
-housenumber: 35
-phone: "+1-603-379-2345"
-opening_hours: "Mo-Su 10:00-17:00"
-website: "https://mill77.com"
+street: Lafayette Road
+housenumber: "35"
+phone: +1-603-379-2345
+opening_hours: Mo-Su 10:00-17:00
+website: https://mill77.com

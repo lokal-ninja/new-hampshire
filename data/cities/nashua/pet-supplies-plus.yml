@@ -1,11 +1,11 @@
 id: 573784834
-type: way
+type: node
 latitude: 42.77757
 longitude: -71.49854
 postcode: "03063"
 city: Nashua
-street: "Amherst Street"
-housenumber: 270
-phone: "+1-603-281-5354"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://www.petsuppliesplus.com/"
+street: Amherst Street
+housenumber: "270"
+phone: +1-603-281-5354
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://www.petsuppliesplus.com/

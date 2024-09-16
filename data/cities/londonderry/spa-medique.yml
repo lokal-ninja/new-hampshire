@@ -1,11 +1,11 @@
 id: 173322698
-type: way
+type: node
 latitude: 42.86648
 longitude: -71.34959
 postcode: "03053"
 city: Londonderry
-street: "Nashua Road"
-housenumber: 44
+street: Nashua Road
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "https://www.spamedique.com/"
+website: https://www.spamedique.com/

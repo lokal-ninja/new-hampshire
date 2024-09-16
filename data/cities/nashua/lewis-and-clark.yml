@@ -1,11 +1,11 @@
 id: 189474963
-type: way
+type: node
 latitude: 42.75171
 longitude: -71.4451
 postcode: "03060"
 city: Nashua
-street: "Burke Street"
-housenumber: 131
+street: Burke Street
+housenumber: "131"
 phone: ""
 opening_hours: ""
-website: "https://www.lewis-clark.com/"
+website: https://www.lewis-clark.com/

@@ -1,11 +1,11 @@
 id: 1024343364
-type: way
+type: node
 latitude: 42.98761
 longitude: -71.45884
 postcode: "03103"
 city: Manchester
-street: "Lake Avenue"
-housenumber: 160
-phone: "+1-603-935-9870"
+street: Lake Avenue
+housenumber: "160"
+phone: +1-603-935-9870
 opening_hours: ""
-website: "http://www.colontireandalignment.net/"
+website: http://www.colontireandalignment.net/

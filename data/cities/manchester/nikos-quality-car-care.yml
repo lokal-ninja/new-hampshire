@@ -1,11 +1,11 @@
 id: 1047501236
-type: way
+type: node
 latitude: 42.97677
 longitude: -71.45399
 postcode: "03103"
 city: Manchester
-street: "Maple Street"
-housenumber: 188
-phone: "+1-603-232-6805"
+street: Maple Street
+housenumber: "188"
+phone: +1-603-232-6805
 opening_hours: ""
-website: "http://www.nikoscarcare.com/"
+website: http://www.nikoscarcare.com/

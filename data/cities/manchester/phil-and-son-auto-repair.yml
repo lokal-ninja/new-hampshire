@@ -1,11 +1,11 @@
 id: 819887309
-type: way
+type: node
 latitude: 42.97833
 longitude: -71.47801
 postcode: "03102"
 city: Manchester
-street: "Milford Street"
-housenumber: 16
-phone: "+1-603-669-6827"
-opening_hours: "Mo-Fr 07:30-18:00"
+street: Milford Street
+housenumber: "16"
+phone: +1-603-669-6827
+opening_hours: Mo-Fr 07:30-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 363410477
-type: way
+type: node
 latitude: 42.9653
 longitude: -70.83189
 postcode: "03862"
 city: North Hampton
-street: "Lafayette Road"
-housenumber: 35
-phone: "+1-603-964-1526"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/North-Hampton/NH/North-Hampton/03862/3405"
+street: Lafayette Road
+housenumber: "35"
+phone: +1-603-964-1526
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/North-Hampton/NH/North-Hampton/03862/3405

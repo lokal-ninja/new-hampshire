@@ -1,11 +1,11 @@
 id: 431798748
-type: way
+type: node
 latitude: 42.80529
 longitude: -71.56684
 postcode: "03031"
 city: Amherst
-street: "State Route 101A"
-housenumber: 131
-phone: "+1-603-554-8288"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://goodwillnne.org/"
+street: State Route 101A
+housenumber: "131"
+phone: +1-603-554-8288
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://goodwillnne.org/

@@ -4,8 +4,8 @@ latitude: 42.97383
 longitude: -71.47642
 postcode: "03102"
 city: Manchester
-street: "Second Street"
-housenumber: 591
-phone: "+1-603-222-1659"
+street: Second Street
+housenumber: "591"
+phone: +1-603-222-1659
 opening_hours: ""
-website: "https://stoveshoppe.com/"
+website: https://stoveshoppe.com/

@@ -1,11 +1,11 @@
 id: 51803670
-type: way
-latitude: 42.94017
-longitude: -71.34605
+type: node
+latitude: 42.94009
+longitude: -71.34627
 postcode: "03038"
 city: Derry
-street: "Route 28 Bypass"
-housenumber: 192
+street: Route 28 Bypass
+housenumber: "192"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 180643890
-type: way
+type: node
 latitude: 42.76061
 longitude: -71.46566
 postcode: "03060"
 city: Nashua
-street: "Main Street"
-housenumber: 169
-phone: "+1-603-882-3281"
-opening_hours: "Tu-Fr 10:00-18:00; Th 10:00-20:00; Sa 10:00-17:00"
-website: "http://www.scontsas.com/"
+street: Main Street
+housenumber: "169"
+phone: +1-603-882-3281
+opening_hours: Tu-Fr 10:00-18:00; Th 10:00-20:00; Sa 10:00-17:00
+website: http://www.scontsas.com/

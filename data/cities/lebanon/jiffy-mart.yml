@@ -1,11 +1,11 @@
 id: 714012014
-type: way
+type: node
 latitude: 43.64602
 longitude: -72.25406
 postcode: "03766"
 city: Lebanon
-street: "Hanover Street"
-housenumber: 96
-phone: "+1-603-448-3075"
-opening_hours: "Mo-Su 05:00-23:00"
+street: Hanover Street
+housenumber: "96"
+phone: +1-603-448-3075
+opening_hours: Mo-Su 05:00-23:00
 website: ""

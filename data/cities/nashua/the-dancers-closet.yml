@@ -1,11 +1,11 @@
 id: 159370443
-type: way
+type: node
 latitude: 42.72871
 longitude: -71.44729
 postcode: "03060"
 city: Nashua
-street: "Daniel Webster Highway"
-housenumber: 112
+street: Daniel Webster Highway
+housenumber: "112"
 phone: ""
 opening_hours: ""
-website: "https://www.thedancerscloset.net/"
+website: https://www.thedancerscloset.net/

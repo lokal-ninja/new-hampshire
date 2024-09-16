@@ -1,11 +1,11 @@
 id: 296704190
-type: way
+type: node
 latitude: 42.85553
 longitude: -71.1904
 postcode: "03811"
 city: Atkinson
-street: "Kipkam Road"
-housenumber: 1
+street: Kipkam Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.freshwaterfarms.net/"
+website: http://www.freshwaterfarms.net/

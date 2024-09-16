@@ -1,11 +1,11 @@
 id: 34685182
-type: way
+type: node
 latitude: 42.87621
 longitude: -71.3382
 postcode: "03053"
 city: Londonderry
-street: "Hillside Avenue"
-housenumber: 111
+street: Hillside Avenue
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

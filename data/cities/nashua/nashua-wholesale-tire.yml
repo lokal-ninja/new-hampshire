@@ -1,11 +1,11 @@
 id: 204677723
-type: way
+type: node
 latitude: 42.76115
 longitude: -71.45724
 postcode: "03060"
 city: Nashua
-street: "Temple Street"
-housenumber: 103
-phone: "+1-603-882-2545"
+street: Temple Street
+housenumber: "103"
+phone: +1-603-882-2545
 opening_hours: ""
-website: "http://www.lowlowtireprices.com/"
+website: http://www.lowlowtireprices.com/

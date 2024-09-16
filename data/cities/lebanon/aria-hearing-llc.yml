@@ -1,11 +1,11 @@
 id: 1293570154
-type: way
+type: node
 latitude: 43.64171
 longitude: -72.25411
 postcode: "03766"
 city: Lebanon
-street: "Mascoma Street"
-housenumber: 18
-phone: "+1-603-727-9210"
+street: Mascoma Street
+housenumber: "18"
+phone: +1-603-727-9210
 opening_hours: ""
-website: "http://www.ariahearing.com/"
+website: http://www.ariahearing.com/

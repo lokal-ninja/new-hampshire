@@ -1,11 +1,11 @@
 id: 158304240
-type: way
+type: node
 latitude: 42.88179
 longitude: -71.32543
 postcode: "03038"
 city: Derry
-street: "East Broadway"
-housenumber: 22
-phone: "+1-603-434-4600"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-13:00"
-website: "http://www.wisteriaflowershoppe.com/"
+street: East Broadway
+housenumber: "22"
+phone: +1-603-434-4600
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-13:00
+website: http://www.wisteriaflowershoppe.com/

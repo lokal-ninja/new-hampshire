@@ -1,11 +1,11 @@
 id: 85725184
-type: way
+type: node
 latitude: 42.7585
 longitude: -71.39775
 postcode: "03051"
 city: Hudson
-street: "Bush Hill Road"
-housenumber: 52
+street: Bush Hill Road
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

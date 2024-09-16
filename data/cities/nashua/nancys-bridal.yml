@@ -1,11 +1,11 @@
 id: 209128516
-type: way
+type: node
 latitude: 42.75595
 longitude: -71.4641
 postcode: "03060"
 city: Nashua
-street: "Kinsley Street"
-housenumber: 6
-phone: "+1-603-598-3500"
-opening_hours: "Mo-Fr 10:00-18:00;Sa 10:00-15:00"
+street: Kinsley Street
+housenumber: "6"
+phone: +1-603-598-3500
+opening_hours: Mo-Fr 10:00-18:00;Sa 10:00-15:00
 website: ""

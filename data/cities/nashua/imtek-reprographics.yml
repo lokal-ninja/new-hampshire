@@ -1,11 +1,11 @@
 id: 226332285
-type: way
+type: node
 latitude: 42.77499
 longitude: -71.48852
 postcode: "03064"
 city: Nashua
-street: "Amherst Street"
-housenumber: 175
+street: Amherst Street
+housenumber: "175"
 phone: ""
 opening_hours: ""
-website: "http://www.imtekrepro.com/"
+website: http://www.imtekrepro.com/

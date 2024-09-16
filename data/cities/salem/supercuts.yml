@@ -4,8 +4,8 @@ latitude: 42.77048
 longitude: -71.22027
 postcode: "03079"
 city: Salem
-street: "South Broadway"
-housenumber: 125
-phone: "+1-603-894-5442"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 09:00-15:00"
-website: "https://www.supercuts.com/locations/nh/salem/salem-park-plaza-haircuts-8687.html"
+street: South Broadway
+housenumber: "125"
+phone: +1-603-894-5442
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 09:00-15:00
+website: https://www.supercuts.com/locations/nh/salem/salem-park-plaza-haircuts-8687.html

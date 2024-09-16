@@ -1,11 +1,11 @@
 id: 51365890
-type: way
+type: node
 latitude: 42.91149
 longitude: -71.33626
 postcode: "03038"
 city: Derry
-street: "Scobie Pond Road"
-housenumber: 66
+street: Scobie Pond Road
+housenumber: "66"
 phone: ""
 opening_hours: ""
-website: "https://www.spacetownautobody.com/"
+website: https://www.spacetownautobody.com/

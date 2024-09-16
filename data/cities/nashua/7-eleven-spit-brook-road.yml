@@ -1,11 +1,11 @@
 id: 53256589
-type: way
+type: node
 latitude: 42.70968
 longitude: -71.4438
 postcode: "03060"
 city: Nashua
-street: "Spit Brook Road"
-housenumber: 19
-phone: "+1 603-888-6497"
+street: Spit Brook Road
+housenumber: "19"
+phone: +1 603-888-6497
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/nh/nashua/7-spit-brook-rd-16199"
+website: https://www.7-eleven.com/locations/nh/nashua/7-spit-brook-rd-16199

@@ -1,11 +1,11 @@
 id: 39403112
-type: way
+type: node
 latitude: 42.86659
 longitude: -71.34528
 postcode: "03053"
 city: Londonderry
-street: "Hampton Drive"
-housenumber: 3
+street: Hampton Drive
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

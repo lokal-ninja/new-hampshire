@@ -1,11 +1,11 @@
 id: 226506204
-type: way
+type: node
 latitude: 42.76325
 longitude: -71.45182
 postcode: "03060"
 city: Nashua
-street: "Bridge Street"
-housenumber: 31
+street: Bridge Street
+housenumber: "31"
 phone: ""
 opening_hours: ""
-website: "http://www.nashualaundry.com/"
+website: http://www.nashualaundry.com/

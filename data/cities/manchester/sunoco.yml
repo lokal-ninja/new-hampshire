@@ -1,11 +1,11 @@
 id: 92620614
-type: way
+type: node
 latitude: 42.9589
 longitude: -71.4372
 postcode: "03103"
 city: Manchester
-street: "South Willow Street"
-housenumber: 1265
+street: South Willow Street
+housenumber: "1265"
 phone: ""
 opening_hours: ""
 website: ""

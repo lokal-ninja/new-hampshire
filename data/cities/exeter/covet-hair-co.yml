@@ -4,8 +4,8 @@ latitude: 42.98898
 longitude: -70.96764
 postcode: "03833"
 city: Exeter
-street: "Epping Road"
-housenumber: 104
-phone: "+1-603-706-7181"
-opening_hours: "Tu 10:00-20:00; We 10:00-14:00; Th 10:00-16:30; Fr 10:00-14:00"
+street: Epping Road
+housenumber: "104"
+phone: +1-603-706-7181
+opening_hours: Tu 10:00-20:00; We 10:00-14:00; Th 10:00-16:30; Fr 10:00-14:00
 website: ""

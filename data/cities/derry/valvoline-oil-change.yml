@@ -1,11 +1,11 @@
 id: 34580519
-type: way
+type: node
 latitude: 42.8884
 longitude: -71.32736
 postcode: "03038"
 city: Derry
-street: "Crystal Avenue"
-housenumber: 50
+street: Crystal Avenue
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/nh/derry/oil-change-ab1115.html"
+website: https://store.vioc.com/nh/derry/oil-change-ab1115.html

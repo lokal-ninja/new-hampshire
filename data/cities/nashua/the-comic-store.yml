@@ -1,11 +1,11 @@
 id: 254454119
-type: way
+type: node
 latitude: 42.74018
 longitude: -71.49343
 postcode: "03062"
 city: Nashua
-street: "Northeastern Boulevard"
-housenumber: 115
+street: Northeastern Boulevard
+housenumber: "115"
 phone: ""
 opening_hours: ""
-website: "http://thecomicstore.blogspot.com/"
+website: http://thecomicstore.blogspot.com/

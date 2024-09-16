@@ -1,11 +1,11 @@
 id: 52734149
-type: way
+type: node
 latitude: 42.7036
 longitude: -71.43932
 postcode: "03060"
 city: Nashua
-street: "Daniel Webster Highway"
-housenumber: 296
-phone: "+1-603-891-1686"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-19:00; Su 11:00-17:00"
-website: "https://www.att.com/"
+street: Daniel Webster Highway
+housenumber: "296"
+phone: +1-603-891-1686
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-19:00; Su 11:00-17:00
+website: https://www.att.com/

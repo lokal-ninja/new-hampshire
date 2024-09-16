@@ -1,11 +1,11 @@
 id: 269757852
-type: way
+type: node
 latitude: 42.75391
 longitude: -71.47
 postcode: "03060"
 city: Nashua
-street: "Kinsley Street"
-housenumber: 60
+street: Kinsley Street
+housenumber: "60"
 phone: ""
 opening_hours: ""
-website: "https://www.boostmobile.com/"
+website: https://www.boostmobile.com/

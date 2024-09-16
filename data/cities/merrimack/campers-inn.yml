@@ -1,11 +1,11 @@
 id: 84000738
-type: way
+type: node
 latitude: 42.81428
 longitude: -71.49617
 postcode: "03054"
 city: Merrimack
-street: "Robert Milligan Pkwy"
-housenumber: 35
+street: Robert Milligan Pkwy
+housenumber: "35"
 phone: ""
 opening_hours: ""
-website: "https://www.campersinn.com/"
+website: https://www.campersinn.com/

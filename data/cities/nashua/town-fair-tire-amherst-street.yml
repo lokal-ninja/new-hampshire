@@ -1,11 +1,11 @@
 id: 202230674
-type: way
+type: node
 latitude: 42.80125
 longitude: -71.53663
 postcode: "03063"
 city: Nashua
-street: "Amherst Street"
-housenumber: 605
+street: Amherst Street
+housenumber: "605"
 phone: ""
 opening_hours: ""
-website: "http://www.townfair.com/"
+website: http://www.townfair.com/

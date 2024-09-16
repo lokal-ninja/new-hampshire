@@ -1,11 +1,11 @@
 id: 716907811
-type: way
+type: node
 latitude: 43.63831
 longitude: -72.26421
 postcode: "03766"
 city: Lebanon
-street: "Mechanic Street"
-housenumber: 119
-phone: "+1-603-443-9900"
-opening_hours: "Mo-Su 05:30-23:00"
+street: Mechanic Street
+housenumber: "119"
+phone: +1-603-443-9900
+opening_hours: Mo-Su 05:30-23:00
 website: ""

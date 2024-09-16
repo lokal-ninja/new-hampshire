@@ -1,11 +1,11 @@
 id: 154082569
-type: way
+type: node
 latitude: 42.73627
 longitude: -71.46693
 postcode: "03060"
 city: Nashua
-street: "East Dunstable Road"
-housenumber: 43
+street: East Dunstable Road
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

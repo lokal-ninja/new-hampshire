@@ -1,11 +1,11 @@
 id: 159265405
-type: way
+type: node
 latitude: 42.70855
 longitude: -71.43847
 postcode: "03060"
 city: Nashua
-street: "Daniel Webster Highway"
-housenumber: 258
-phone: "+1-603-891-5777"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00"
+street: Daniel Webster Highway
+housenumber: "258"
+phone: +1-603-891-5777
+opening_hours: Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 204682546
-type: way
+type: node
 latitude: 42.76072
 longitude: -71.46373
 postcode: "03060"
 city: Nashua
-street: "Spring Street"
-housenumber: 15
+street: Spring Street
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

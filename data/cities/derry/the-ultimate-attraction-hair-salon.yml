@@ -1,11 +1,11 @@
 id: 39014701
-type: way
+type: node
 latitude: 42.89445
 longitude: -71.29568
 postcode: "03038"
 city: Derry
-street: "East Derry Road"
-housenumber: 46
+street: East Derry Road
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

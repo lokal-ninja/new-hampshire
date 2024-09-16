@@ -1,11 +1,11 @@
 id: 78286656
-type: way
+type: node
 latitude: 42.95065
 longitude: -71.44126
 postcode: "03103"
 city: Manchester
-street: "Keller Street"
-housenumber: 200
+street: Keller Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
-website: "https://www.autofairhonda.com/"
+website: https://www.autofairhonda.com/

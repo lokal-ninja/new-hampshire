@@ -1,11 +1,11 @@
 id: 55552622
-type: way
+type: node
 latitude: 42.72665
 longitude: -71.44575
 postcode: "03060"
 city: Nashua
-street: "Daniel Webster Highway"
-housenumber: 140
-phone: "+1-603-891-3511"
-opening_hours: "Mo-Th 08:30-21:00; Fr 08:30-19:30; Sa 08:30-18:00; Su 08:00-18:00"
-website: "https://www.nashuahyundai.com/"
+street: Daniel Webster Highway
+housenumber: "140"
+phone: +1-603-891-3511
+opening_hours: Mo-Th 08:30-21:00; Fr 08:30-19:30; Sa 08:30-18:00; Su 08:00-18:00
+website: https://www.nashuahyundai.com/

@@ -4,8 +4,8 @@ latitude: 43.70141
 longitude: -72.28957
 postcode: "03755"
 city: Hanover
-street: "South Main Street"
-housenumber: 37
-phone: "+1-603-277-9732"
-opening_hours: "Mo-Su 10:00-17:00"
-website: "https://www.farmhousepottery.com/"
+street: South Main Street
+housenumber: "37"
+phone: +1-603-277-9732
+opening_hours: Mo-Su 10:00-17:00
+website: https://www.farmhousepottery.com/

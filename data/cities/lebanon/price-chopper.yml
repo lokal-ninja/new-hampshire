@@ -1,11 +1,11 @@
 id: 255569659
-type: way
+type: node
 latitude: 43.63732
 longitude: -72.2883
 postcode: "03766"
 city: Lebanon
-street: "Miracle Mile"
-housenumber: 370
-phone: "+1-603-448-3970"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://stores.pricechopper.com/ll/US/NH/Lebanon/370-Miracle-Mile-Road"
+street: Miracle Mile
+housenumber: "370"
+phone: +1-603-448-3970
+opening_hours: Mo-Su 07:00-23:00
+website: https://stores.pricechopper.com/ll/US/NH/Lebanon/370-Miracle-Mile-Road

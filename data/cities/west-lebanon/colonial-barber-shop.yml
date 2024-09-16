@@ -4,8 +4,8 @@ latitude: 43.6346
 longitude: -72.3158
 postcode: "03784"
 city: West Lebanon
-street: "Glen Road"
-housenumber: 1
-phone: "+1-603-298-5171"
-opening_hours: "Tu, Th 08:00-17:00; We 07:00-17:00; Fr 08:00-16:00; Sa 08:00-12:00"
-website: "http://www.colonial-barber-shop.com/"
+street: Glen Road
+housenumber: "1"
+phone: +1-603-298-5171
+opening_hours: Tu, Th 08:00-17:00; We 07:00-17:00; Fr 08:00-16:00; Sa 08:00-12:00
+website: http://www.colonial-barber-shop.com/

@@ -1,11 +1,11 @@
 id: 240587712
-type: way
+type: node
 latitude: 42.7937
 longitude: -71.52547
 postcode: "03063"
 city: Nashua
-street: "Amherst Street"
-housenumber: 512
+street: Amherst Street
+housenumber: "512"
 phone: ""
 opening_hours: ""
-website: "https://www.yankeecustomtruck.com/"
+website: https://www.yankeecustomtruck.com/

@@ -1,11 +1,11 @@
 id: 202230663
-type: way
+type: node
 latitude: 42.7873
 longitude: -71.51255
 postcode: "03063"
 city: Nashua
-street: "Amherst Street"
-housenumber: 421
+street: Amherst Street
+housenumber: "421"
 phone: ""
 opening_hours: ""
-website: "https://www.rjsmotorsport.com/"
+website: https://www.rjsmotorsport.com/

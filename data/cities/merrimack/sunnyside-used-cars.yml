@@ -1,11 +1,11 @@
 id: 84000744
-type: way
+type: node
 latitude: 42.80994
 longitude: -71.48372
 postcode: "03054"
 city: Merrimack
-street: "Daniel Webster Highway"
-housenumber: 115
+street: Daniel Webster Highway
+housenumber: "115"
 phone: ""
 opening_hours: ""
-website: "http://sunnysideusedcars.com/"
+website: http://sunnysideusedcars.com/

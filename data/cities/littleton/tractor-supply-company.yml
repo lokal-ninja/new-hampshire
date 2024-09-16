@@ -1,11 +1,11 @@
 id: 357297604
-type: way
+type: node
 latitude: 44.30424
 longitude: -71.80307
 postcode: "03561"
 city: Littleton
-street: "Meadow Street"
-housenumber: 685
-phone: "+1 603-536-5009"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Meadow Street
+housenumber: "685"
+phone: +1 603-536-5009
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

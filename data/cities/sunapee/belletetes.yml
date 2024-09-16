@@ -1,11 +1,11 @@
 id: 697273088
-type: way
+type: node
 latitude: 43.39139
 longitude: -72.08961
 postcode: "03782"
 city: Sunapee
-street: "Sargent Road"
-housenumber: 21
+street: Sargent Road
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

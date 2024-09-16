@@ -1,11 +1,11 @@
 id: 241059743
-type: way
+type: node
 latitude: 42.80466
 longitude: -71.56387
 postcode: "03031"
 city: Amherst
-street: "State Route 101A"
-housenumber: 141
+street: State Route 101A
+housenumber: "141"
 phone: ""
 opening_hours: ""
-website: "http://www.designerconsignerstore.com/"
+website: http://www.designerconsignerstore.com/

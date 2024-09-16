@@ -1,11 +1,11 @@
 id: 160544403
-type: way
+type: node
 latitude: 42.71216
 longitude: -71.4462
 postcode: "03060"
 city: Nashua
-street: "Daniel Webster Highway"
-housenumber: 213
-phone: "+1-603-897-1001"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://www.thepaperstore.com/"
+street: Daniel Webster Highway
+housenumber: "213"
+phone: +1-603-897-1001
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://www.thepaperstore.com/

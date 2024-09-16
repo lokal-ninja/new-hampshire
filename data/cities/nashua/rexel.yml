@@ -1,11 +1,11 @@
 id: 246746836
-type: way
+type: node
 latitude: 42.74226
 longitude: -71.49307
 postcode: "03062"
 city: Nashua
-street: "Progress Avenue"
-housenumber: 3
+street: Progress Avenue
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.rexelusa.com/"
+website: https://www.rexelusa.com/

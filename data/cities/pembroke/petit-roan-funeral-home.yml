@@ -1,11 +1,11 @@
 id: 616811781
-type: way
+type: node
 latitude: 43.13181
 longitude: -71.45215
 postcode: "03275"
 city: Pembroke
-street: "Main Street"
-housenumber: 167
+street: Main Street
+housenumber: "167"
 phone: ""
 opening_hours: ""
-website: "https://www.petitroan.com/"
+website: https://www.petitroan.com/

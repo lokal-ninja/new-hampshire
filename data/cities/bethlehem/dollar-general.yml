@@ -1,11 +1,11 @@
 id: 722088007
-type: way
+type: node
 latitude: 44.27984
 longitude: -71.72028
 postcode: "03574"
 city: Bethlehem
-street: "Main Street"
-housenumber: 1264
+street: Main Street
+housenumber: "1264"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/nh/bethlehem/18150"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/nh/bethlehem/18150

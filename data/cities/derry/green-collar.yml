@@ -1,11 +1,11 @@
 id: 172332379
-type: way
+type: node
 latitude: 42.89482
 longitude: -71.32954
 postcode: "03038"
 city: Derry
-street: "Manchester Road"
+street: Manchester Road
 housenumber: 10D
-phone: "+1-603-437-7746"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "http://greencollar.comcastbiz.net/"
+phone: +1-603-437-7746
+opening_hours: Mo-Su 07:00-21:00
+website: http://greencollar.comcastbiz.net/

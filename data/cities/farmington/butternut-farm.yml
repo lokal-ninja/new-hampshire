@@ -1,11 +1,11 @@
 id: 1054317762
-type: way
+type: node
 latitude: 43.32381
 longitude: -71.06796
 postcode: "03835"
 city: Farmington
-street: "Meaderboro Road"
-housenumber: 195
+street: Meaderboro Road
+housenumber: "195"
 phone: "+16033354705"
 opening_hours: ""
-website: "https://www.butternutfarm.net/"
+website: https://www.butternutfarm.net/

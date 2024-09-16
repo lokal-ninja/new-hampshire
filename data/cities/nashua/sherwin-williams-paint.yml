@@ -1,11 +1,11 @@
 id: 53786132
-type: way
+type: node
 latitude: 42.71841
 longitude: -71.44212
 postcode: "03060"
 city: Nashua
-street: "Daniel Webster Highway"
-housenumber: 176
+street: Daniel Webster Highway
+housenumber: "176"
 phone: ""
 opening_hours: ""
 website: ""

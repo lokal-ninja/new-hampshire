@@ -1,11 +1,11 @@
 id: 444868171
-type: way
+type: node
 latitude: 43.17668
 longitude: -71.52947
 postcode: "03301"
 city: Concord
-street: "South Main Street"
-housenumber: 417
-phone: "+1 603-369-6619"
+street: South Main Street
+housenumber: "417"
+phone: +1 603-369-6619
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/nh/concord/417-s-main-st-39884"
+website: https://www.7-eleven.com/locations/nh/concord/417-s-main-st-39884

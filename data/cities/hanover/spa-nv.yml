@@ -4,8 +4,8 @@ latitude: 43.70049
 longitude: -72.28866
 postcode: "03755"
 city: Hanover
-street: "Lebanon Street"
-housenumber: 3
-phone: "+1-603-306-6384"
-opening_hours: "Tu-Fr 10:00-17:00; Sa 10:00-15:00"
-website: "https://www.spanvhanover.com/"
+street: Lebanon Street
+housenumber: "3"
+phone: +1-603-306-6384
+opening_hours: Tu-Fr 10:00-17:00; Sa 10:00-15:00
+website: https://www.spanvhanover.com/

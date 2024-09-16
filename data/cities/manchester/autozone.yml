@@ -1,11 +1,11 @@
 id: 85931677
-type: way
+type: node
 latitude: 42.9625
 longitude: -71.4428
 postcode: "03103"
 city: Manchester
-street: "South Willow Street"
-housenumber: 921
-phone: "+1 603 668 7200"
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-19:00"
-website: "https://www.autozone.com/locations/nh/manchester/921-s-willow-st.html"
+street: South Willow Street
+housenumber: "921"
+phone: +1 603 668 7200
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-19:00
+website: https://www.autozone.com/locations/nh/manchester/921-s-willow-st.html

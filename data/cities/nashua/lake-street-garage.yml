@@ -1,11 +1,11 @@
 id: 204761870
-type: way
+type: node
 latitude: 42.74912
 longitude: -71.46859
 postcode: "03060"
 city: Nashua
-street: "Lake Street"
-housenumber: 75
+street: Lake Street
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

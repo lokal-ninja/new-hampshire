@@ -1,11 +1,11 @@
 id: 245015163
-type: way
+type: node
 latitude: 43.1976
 longitude: -70.87246
 postcode: "03820"
 city: Dover
-street: "Main Street"
-housenumber: 77
+street: Main Street
+housenumber: "77"
 phone: ""
 opening_hours: ""
-website: "https://janetosmarket.com/"
+website: https://janetosmarket.com/

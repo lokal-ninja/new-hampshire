@@ -4,8 +4,8 @@ latitude: 43.37733
 longitude: -72.13888
 postcode: "03754"
 city: Guild
-street: "Hale Street"
-housenumber: 16
-phone: "+1-800 846-3677"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://dorrmillstore.com/index.php"
+street: Hale Street
+housenumber: "16"
+phone: +1-800 846-3677
+opening_hours: Mo-Sa 09:00-17:00
+website: https://dorrmillstore.com/index.php

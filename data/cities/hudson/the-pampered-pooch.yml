@@ -1,11 +1,11 @@
 id: 128870374
-type: way
+type: node
 latitude: 42.70442
 longitude: -71.39188
 postcode: "03051"
 city: Hudson
-street: "Dracut Road"
-housenumber: 114
+street: Dracut Road
+housenumber: "114"
 phone: ""
 opening_hours: ""
 website: ""

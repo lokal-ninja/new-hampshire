@@ -1,11 +1,11 @@
 id: 67770891
-type: way
+type: node
 latitude: 42.82353
 longitude: -71.40936
 postcode: "03051"
 city: Hudson
-street: "Tracy Lane"
-housenumber: 2
+street: Tracy Lane
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://bobcatnh.com/"
+website: https://bobcatnh.com/

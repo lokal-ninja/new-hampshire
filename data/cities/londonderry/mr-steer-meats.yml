@@ -1,11 +1,11 @@
 id: 70503282
-type: way
+type: node
 latitude: 42.8508
 longitude: -71.35912
 postcode: "03053"
 city: Londonderry
-street: "Buttrick Road"
-housenumber: 27
+street: Buttrick Road
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

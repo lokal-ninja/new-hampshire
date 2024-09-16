@@ -1,11 +1,11 @@
 id: 79872645
-type: way
+type: node
 latitude: 42.76788
 longitude: -71.41393
 postcode: "03051"
 city: Hudson
-street: "Central Street"
-housenumber: 195
+street: Central Street
+housenumber: "195"
 phone: ""
 opening_hours: ""
-website: "http://www.gkautoexport.com/"
+website: http://www.gkautoexport.com/

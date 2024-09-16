@@ -1,11 +1,11 @@
 id: 172360163
-type: way
+type: node
 latitude: 42.89642
 longitude: -71.33202
 postcode: "03038"
 city: Derry
-street: "Manchester Road"
-housenumber: 22
-phone: "+1-603-965-3054"
+street: Manchester Road
+housenumber: "22"
+phone: +1-603-965-3054
 opening_hours: ""
-website: "http://www.monarchtechsolutions.com/"
+website: http://www.monarchtechsolutions.com/

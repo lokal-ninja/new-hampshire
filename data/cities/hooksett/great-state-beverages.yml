@@ -1,11 +1,11 @@
 id: 73754703
-type: way
+type: node
 latitude: 43.04926
 longitude: -71.45618
 postcode: "03106"
 city: Hooksett
-street: "Quality Drive"
-housenumber: 1000
+street: Quality Drive
+housenumber: "1000"
 phone: ""
 opening_hours: ""
 website: ""

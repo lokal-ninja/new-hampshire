@@ -1,11 +1,11 @@
 id: 180146870
-type: way
+type: node
 latitude: 42.94479
 longitude: -71.4759
 postcode: "03110"
 city: Bedford
-street: "South River Road"
-housenumber: 189
+street: South River Road
+housenumber: "189"
 phone: ""
 opening_hours: ""
-website: "https://www.whitewillowsalon.com/"
+website: https://www.whitewillowsalon.com/

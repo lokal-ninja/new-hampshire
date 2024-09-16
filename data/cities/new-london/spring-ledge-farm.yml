@@ -1,11 +1,11 @@
 id: 372781412
-type: way
+type: node
 latitude: 43.42033
 longitude: -71.9915
 postcode: "03257"
 city: New London
-street: "Main Street"
-housenumber: 37
-phone: "+1 603 526 6253"
+street: Main Street
+housenumber: "37"
+phone: +1 603 526 6253
 opening_hours: ""
-website: "https://www.springledgefarm.com/"
+website: https://www.springledgefarm.com/

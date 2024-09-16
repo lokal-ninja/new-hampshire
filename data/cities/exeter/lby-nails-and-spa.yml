@@ -1,11 +1,11 @@
 id: 1240049058
-type: way
+type: node
 latitude: 42.98519
 longitude: -70.93651
 postcode: "03833"
 city: Exeter
-street: "Portsmouth Avenue"
-housenumber: 75
+street: Portsmouth Avenue
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

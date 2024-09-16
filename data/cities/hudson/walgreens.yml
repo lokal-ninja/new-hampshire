@@ -1,11 +1,11 @@
 id: 68281522
-type: way
+type: node
 latitude: 42.77574
 longitude: -71.44543
 postcode: "03051"
 city: Hudson
-street: "Derry Street"
-housenumber: 90
+street: Derry Street
+housenumber: "90"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-90+derry+st-hudson-nh-03051/id=11554"
+website: https://www.walgreens.com/locator/walgreens-90+derry+st-hudson-nh-03051/id=11554

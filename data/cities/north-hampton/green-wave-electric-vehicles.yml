@@ -1,11 +1,11 @@
 id: 899213961
-type: way
+type: node
 latitude: 42.96394
 longitude: -70.83394
 postcode: ""
 city: North Hampton
-street: "Lafayette Road"
-housenumber: 25
+street: Lafayette Road
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "https://greenwaveev.com/"
+website: https://greenwaveev.com/

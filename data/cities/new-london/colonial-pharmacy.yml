@@ -4,8 +4,8 @@ latitude: 43.42208
 longitude: -71.99539
 postcode: "03257"
 city: New London
-street: "Newport Road"
-housenumber: 82
-phone: "+1 (603) 526-2233"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 08:00-17:00"
-website: "https://www.colonialpharmacy.com/"
+street: Newport Road
+housenumber: "82"
+phone: +1 (603) 526-2233
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 08:00-17:00
+website: https://www.colonialpharmacy.com/

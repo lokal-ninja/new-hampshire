@@ -1,11 +1,11 @@
 id: 166089812
-type: way
+type: node
 latitude: 44.02397
 longitude: -71.1166
 postcode: "03860"
 city: North Conway
-street: "White Mountain Road"
-housenumber: 1623
+street: White Mountain Road
+housenumber: "1623"
 phone: ""
 opening_hours: ""
 website: ""

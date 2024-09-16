@@ -4,8 +4,8 @@ latitude: 42.98769
 longitude: -71.46285
 postcode: "03101"
 city: Manchester
-street: "Elm Street"
-housenumber: 669
+street: Elm Street
+housenumber: "669"
 phone: ""
 opening_hours: ""
 website: ""

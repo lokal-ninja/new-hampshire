@@ -4,8 +4,8 @@ latitude: 43.12445
 longitude: -71.96919
 postcode: ""
 city: Hillsborough, NH 03244
-street: "Hall Road"
-housenumber: 24
+street: Hall Road
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://www.peterwhitecycles.com/"
+website: https://www.peterwhitecycles.com/

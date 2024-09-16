@@ -1,11 +1,11 @@
 id: 128744534
-type: way
+type: node
 latitude: 42.96259
 longitude: -71.45528
 postcode: "03103"
 city: Manchester
-street: "South Beech Street"
-housenumber: 580
+street: South Beech Street
+housenumber: "580"
 phone: ""
 opening_hours: ""
 website: ""

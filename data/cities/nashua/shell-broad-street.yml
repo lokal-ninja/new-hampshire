@@ -1,11 +1,11 @@
 id: 260165820
-type: way
+type: node
 latitude: 42.7676
 longitude: -71.49579
 postcode: "03063"
 city: Nashua
-street: "Broad Street"
-housenumber: 160
-phone: "+1-603-595-8300"
+street: Broad Street
+housenumber: "160"
+phone: +1-603-595-8300
 opening_hours: ""
-website: "https://www.shell.us/"
+website: https://www.shell.us/

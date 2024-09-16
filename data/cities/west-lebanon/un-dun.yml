@@ -1,11 +1,11 @@
 id: 785390537
-type: way
+type: node
 latitude: 43.64488
 longitude: -72.30989
 postcode: "03784"
 city: West Lebanon
-street: "Main Street"
-housenumber: 1
-phone: "+1-603-298-7028"
+street: Main Street
+housenumber: "1"
+phone: +1-603-298-7028
 opening_hours: ""
 website: ""

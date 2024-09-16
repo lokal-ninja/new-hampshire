@@ -1,11 +1,11 @@
 id: 203685637
-type: way
+type: node
 latitude: 42.95289
 longitude: -71.41496
 postcode: "03109"
 city: Manchester
-street: "South Mammoth Road"
-housenumber: 656
+street: South Mammoth Road
+housenumber: "656"
 phone: ""
 opening_hours: ""
-website: "https://demersgardencenter.com/"
+website: https://demersgardencenter.com/

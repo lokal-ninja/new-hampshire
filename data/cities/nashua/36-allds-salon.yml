@@ -1,11 +1,11 @@
 id: 75606473
-type: way
+type: node
 latitude: 42.75049
 longitude: -71.45563
 postcode: "03060"
 city: Nashua
-street: "Allds Street"
-housenumber: 36
-phone: "+1-603-305-9947"
-opening_hours: "Sa 11:00-14:00"
+street: Allds Street
+housenumber: "36"
+phone: +1-603-305-9947
+opening_hours: Sa 11:00-14:00
 website: ""

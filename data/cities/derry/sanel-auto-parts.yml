@@ -1,11 +1,11 @@
 id: 33869486
-type: way
+type: node
 latitude: 42.87779
 longitude: -71.32651
 postcode: "03038"
 city: Derry
-street: "South Avenue"
-housenumber: 29
+street: South Avenue
+housenumber: "29"
 phone: ""
 opening_hours: ""
-website: "https://www.partsplus.com/"
+website: https://www.partsplus.com/

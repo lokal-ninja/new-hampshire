@@ -1,11 +1,11 @@
 id: 297135943
-type: way
+type: node
 latitude: 42.92145
 longitude: -71.17178
 postcode: "03873"
 city: Sandown
-street: "Main Street"
-housenumber: 219
-phone: "+1-603-887-0911"
+street: Main Street
+housenumber: "219"
+phone: +1-603-887-0911
 opening_hours: ""
-website: "https://chestnuthillautoservice.com/"
+website: https://chestnuthillautoservice.com/

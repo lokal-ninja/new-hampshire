@@ -1,11 +1,11 @@
 id: 149828049
-type: way
+type: node
 latitude: 42.7619
 longitude: -71.44703
 postcode: "03060"
 city: Nashua
-street: "East Hollis Street"
-housenumber: 161
+street: East Hollis Street
+housenumber: "161"
 phone: ""
 opening_hours: ""
-website: "https://www.millyardautollc.com/"
+website: https://www.millyardautollc.com/

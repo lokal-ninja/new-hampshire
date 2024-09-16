@@ -1,11 +1,11 @@
 id: 220124357
-type: way
+type: node
 latitude: 42.96162
 longitude: -71.44111
 postcode: "03103"
 city: Manchester
-street: "March Avenue"
-housenumber: 30
+street: March Avenue
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://www.dots.com/"
+website: https://www.dots.com/

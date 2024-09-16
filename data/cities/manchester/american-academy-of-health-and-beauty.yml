@@ -4,8 +4,8 @@ latitude: 42.9675
 longitude: -71.48065
 postcode: "03102"
 city: Manchester
-street: "Second Street"
-housenumber: 981
-phone: "+1-603-625-6100"
+street: Second Street
+housenumber: "981"
+phone: +1-603-625-6100
 opening_hours: ""
-website: "https://www.myaahb.com/"
+website: https://www.myaahb.com/

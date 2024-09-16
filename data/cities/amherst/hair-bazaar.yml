@@ -1,11 +1,11 @@
 id: 224054794
-type: way
+type: node
 latitude: 42.81763
 longitude: -71.60122
 postcode: "03031"
 city: Amherst
-street: "State Route 101A"
-housenumber: 28
+street: State Route 101A
+housenumber: "28"
 phone: ""
 opening_hours: ""
-website: "http://hairbazaar.co/"
+website: http://hairbazaar.co/

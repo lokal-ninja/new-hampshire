@@ -1,11 +1,11 @@
 id: 759662209
-type: way
+type: node
 latitude: 44.03146
 longitude: -71.69059
 postcode: "03262"
 city: North Woodstock
-street: "Lost River Road"
-housenumber: 70
+street: Lost River Road
+housenumber: "70"
 phone: ""
 opening_hours: ""
-website: "http://lincolnwoodstocknhproduce.com/"
+website: http://lincolnwoodstocknhproduce.com/

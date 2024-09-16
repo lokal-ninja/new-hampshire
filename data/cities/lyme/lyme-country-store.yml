@@ -1,11 +1,11 @@
 id: 1187854123
-type: way
+type: node
 latitude: 43.81106
 longitude: -72.15667
 postcode: "03768"
 city: Lyme
-street: "Main Street"
-housenumber: 
+street: Main Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

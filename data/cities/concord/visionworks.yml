@@ -4,8 +4,8 @@ latitude: 43.22514
 longitude: -71.48907
 postcode: "03301"
 city: Concord
-street: "Loudon Road"
-housenumber: 273
-phone: "+1-603-224-0418"
-opening_hours: "Mo-Sa 11:00-18:00"
-website: "http://visionworks.com"
+street: Loudon Road
+housenumber: "273"
+phone: +1-603-224-0418
+opening_hours: Mo-Sa 11:00-18:00
+website: http://visionworks.com

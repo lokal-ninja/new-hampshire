@@ -1,11 +1,11 @@
 id: 1047133278
-type: way
+type: node
 latitude: 42.97405
 longitude: -71.46605
 postcode: "03101"
 city: Manchester
-street: "Queen City Avenue"
-housenumber: 117
+street: Queen City Avenue
+housenumber: "117"
 phone: ""
 opening_hours: ""
 website: ""

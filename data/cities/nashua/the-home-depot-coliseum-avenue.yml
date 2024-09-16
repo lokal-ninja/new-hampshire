@@ -1,11 +1,11 @@
 id: 116979317
-type: way
+type: node
 latitude: 42.76238
 longitude: -71.49545
 postcode: "03063"
 city: Nashua
-street: "Coliseum Avenue"
-housenumber: 12
-phone: "+1 603-879-9666"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-19:00"
-website: "https://www.homedepot.com/l/north-nashua/nh/nashua/03063/3484"
+street: Coliseum Avenue
+housenumber: "12"
+phone: +1 603-879-9666
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-19:00
+website: https://www.homedepot.com/l/north-nashua/nh/nashua/03063/3484

@@ -1,11 +1,11 @@
 id: 1034016390
-type: way
+type: node
 latitude: 43.11211
 longitude: -70.81986
 postcode: "03801"
 city: Newington
-street: "Spaulding Turnpike"
-housenumber: 1147
+street: Spaulding Turnpike
+housenumber: "1147"
 phone: ""
 opening_hours: ""
 website: ""

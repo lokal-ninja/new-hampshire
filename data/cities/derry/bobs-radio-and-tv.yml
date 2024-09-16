@@ -1,11 +1,11 @@
 id: 33869504
-type: way
+type: node
 latitude: 42.87685
 longitude: -71.32788
 postcode: "03038"
 city: Derry
-street: "South Avenue"
-housenumber: 30
+street: South Avenue
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.70183
 longitude: -72.28955
 postcode: "03755"
 city: Hanover
-street: "South Main Street"
-housenumber: 21
-phone: "+1-800-634-2667"
-opening_hours: "Mo-Sa 09:30-17:30; Su 09:30-16:00"
-website: "https://www.dartmouthcoop.com/"
+street: South Main Street
+housenumber: "21"
+phone: +1-800-634-2667
+opening_hours: Mo-Sa 09:30-17:30; Su 09:30-16:00
+website: https://www.dartmouthcoop.com/

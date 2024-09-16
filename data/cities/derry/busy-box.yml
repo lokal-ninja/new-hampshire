@@ -1,11 +1,11 @@
 id: 170294446
-type: way
+type: node
 latitude: 42.88042
 longitude: -71.32663
 postcode: "03038"
 city: Derry
-street: "West Broadway"
-housenumber: 6
-phone: "+1-603-552-3811"
-opening_hours: "Mo-Sa 10:00-22:00"
-website: "https://busy-box.com/"
+street: West Broadway
+housenumber: "6"
+phone: +1-603-552-3811
+opening_hours: Mo-Sa 10:00-22:00
+website: https://busy-box.com/

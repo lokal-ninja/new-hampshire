@@ -1,11 +1,11 @@
 id: 870425283
-type: way
+type: node
 latitude: 43.76034
 longitude: -71.68717
 postcode: "03264"
 city: Plymouth
-street: "Main Street"
-housenumber: 151
-phone: "+1-603-536-1625"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-15:00"
-website: "https://www.plymouthfurnitureco.com/"
+street: Main Street
+housenumber: "151"
+phone: +1-603-536-1625
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-15:00
+website: https://www.plymouthfurnitureco.com/

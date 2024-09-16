@@ -1,11 +1,11 @@
 id: 162043261
-type: way
+type: node
 latitude: 42.7699
 longitude: -71.48006
 postcode: "03064"
 city: Nashua
-street: "Broad Street"
-housenumber: 11
-phone: "+1-603-889-8144"
+street: Broad Street
+housenumber: "11"
+phone: +1-603-889-8144
 opening_hours: ""
-website: "http://www.northernforeign.com/"
+website: http://www.northernforeign.com/

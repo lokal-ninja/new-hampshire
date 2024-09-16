@@ -1,11 +1,11 @@
 id: 431798746
-type: way
+type: node
 latitude: 42.78125
 longitude: -71.50009
 postcode: "03063"
 city: Nashua
-street: "Amherst Street"
-housenumber: 317
-phone: "+1-603-883-5060"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 10:00-17:00"
-website: "https://www.batteriesplus.com/"
+street: Amherst Street
+housenumber: "317"
+phone: +1-603-883-5060
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 10:00-17:00
+website: https://www.batteriesplus.com/

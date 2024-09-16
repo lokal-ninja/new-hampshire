@@ -1,11 +1,11 @@
 id: 201853037
-type: way
+type: node
 latitude: 42.75904
 longitude: -71.43069
 postcode: "03051"
 city: Hudson
-street: "Lowell Road"
-housenumber: 30
+street: Lowell Road
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "http://www.caribe-tan.com/"
+website: http://www.caribe-tan.com/

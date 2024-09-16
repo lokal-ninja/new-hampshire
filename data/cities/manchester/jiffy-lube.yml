@@ -1,11 +1,11 @@
 id: 221152003
-type: way
+type: node
 latitude: 42.9694
 longitude: -71.45383
 postcode: "03103"
 city: Manchester
-street: "South Willow Street"
-housenumber: 283
+street: South Willow Street
+housenumber: "283"
 phone: ""
 opening_hours: ""
-website: "https://www.jiffylube.com/"
+website: https://www.jiffylube.com/

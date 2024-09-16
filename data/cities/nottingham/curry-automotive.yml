@@ -1,11 +1,11 @@
 id: 494915330
-type: way
+type: node
 latitude: 43.11383
 longitude: -71.09879
 postcode: "03290"
 city: Nottingham
-street: "Stage Road"
-housenumber: 118
+street: Stage Road
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 202230687
-type: way
+type: node
 latitude: 42.78868
 longitude: -71.51417
 postcode: "03063"
 city: Nashua
-street: "Amherst Street"
-housenumber: 433
+street: Amherst Street
+housenumber: "433"
 phone: ""
-opening_hours: "Mo-Th 11:00-21:00; Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://thebeerstorenh.com/"
+opening_hours: Mo-Th 11:00-21:00; Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00
+website: https://thebeerstorenh.com/

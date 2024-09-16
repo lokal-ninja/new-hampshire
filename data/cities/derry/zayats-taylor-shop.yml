@@ -1,11 +1,11 @@
 id: 32404709
-type: way
+type: node
 latitude: 42.87922
 longitude: -71.329
 postcode: "03038"
 city: Derry
-street: "West Broadway"
-housenumber: 48
-phone: "+1-603-965-1099"
+street: West Broadway
+housenumber: "48"
+phone: +1-603-965-1099
 opening_hours: ""
 website: ""

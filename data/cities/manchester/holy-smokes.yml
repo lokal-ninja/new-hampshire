@@ -1,11 +1,11 @@
 id: 150812669
-type: way
+type: node
 latitude: 42.96923
 longitude: -71.45345
 postcode: "03103"
 city: Manchester
-street: "South Willow Street"
-housenumber: 297
+street: South Willow Street
+housenumber: "297"
 phone: ""
 opening_hours: ""
-website: "https://holysmokescigars.com/"
+website: https://holysmokescigars.com/

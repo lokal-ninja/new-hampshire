@@ -1,11 +1,11 @@
 id: 170685661
-type: way
+type: node
 latitude: 42.89037
 longitude: -71.32456
 postcode: "03038"
 city: Derry
-street: "Crystal Avenue"
-housenumber: 55
+street: Crystal Avenue
+housenumber: "55"
 phone: ""
 opening_hours: ""
-website: "https://www.visionsource-emeryeyecenter.com/"
+website: https://www.visionsource-emeryeyecenter.com/

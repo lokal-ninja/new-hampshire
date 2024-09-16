@@ -1,11 +1,11 @@
 id: 135937793
-type: way
+type: node
 latitude: 42.76373
 longitude: -71.49864
 postcode: "03063"
 city: Nashua
-street: "Coliseum Avenue"
-housenumber: 25
+street: Coliseum Avenue
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "https://www.liquorandwineoutlets.com/"
+website: https://www.liquorandwineoutlets.com/

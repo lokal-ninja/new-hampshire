@@ -1,11 +1,11 @@
 id: 228386801
-type: way
+type: node
 latitude: 43.56604
 longitude: -71.4399
 postcode: "03249"
 city: Gilford
-street: "Lake Shore Road"
-housenumber: 1458
+street: Lake Shore Road
+housenumber: "1458"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/nh/gilford/4176/"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/nh/gilford/4176/

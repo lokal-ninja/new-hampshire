@@ -1,11 +1,11 @@
 id: 1161455994
-type: way
+type: node
 latitude: 43.41339
 longitude: -71.9179
 postcode: "03257"
 city: Wilmot
-street: "Deerwood Drive"
-housenumber: 3
-phone: "+1-603-727-4367"
-opening_hours: "Sa-Su closed; Mo-Fr 08:00-17:00"
-website: "https://walkerautomotiveinc.com/"
+street: Deerwood Drive
+housenumber: "3"
+phone: +1-603-727-4367
+opening_hours: Sa-Su closed; Mo-Fr 08:00-17:00
+website: https://walkerautomotiveinc.com/

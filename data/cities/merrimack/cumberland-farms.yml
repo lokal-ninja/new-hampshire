@@ -1,11 +1,11 @@
 id: 93629163
-type: way
+type: node
 latitude: 42.83834
 longitude: -71.49658
 postcode: "03054"
 city: Merrimack
-street: "Continental Boulevard"
-housenumber: 1
+street: Continental Boulevard
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

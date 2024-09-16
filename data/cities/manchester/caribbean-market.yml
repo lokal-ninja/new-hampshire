@@ -1,11 +1,11 @@
 id: 1024343410
-type: way
+type: node
 latitude: 42.98751
 longitude: -71.45334
 postcode: "03103"
 city: Manchester
-street: "Lake Avenue"
-housenumber: 302
+street: Lake Avenue
+housenumber: "302"
 phone: ""
 opening_hours: ""
 website: ""

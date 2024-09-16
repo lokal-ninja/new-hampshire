@@ -1,11 +1,11 @@
 id: 84078814
-type: way
+type: node
 latitude: 42.97547
 longitude: -71.46327
 postcode: "03101"
 city: Manchester
-street: "Elm Street"
-housenumber: 46
+street: Elm Street
+housenumber: "46"
 phone: ""
 opening_hours: ""
-website: "https://www.chalifours.com/"
+website: https://www.chalifours.com/

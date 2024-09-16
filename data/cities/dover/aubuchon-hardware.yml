@@ -1,11 +1,11 @@
 id: 195507304
-type: way
+type: node
 latitude: 43.19499
 longitude: -70.8759
 postcode: "03820"
 city: Dover
-street: "Washington Street"
-housenumber: 125
+street: Washington Street
+housenumber: "125"
 phone: ""
 opening_hours: ""
-website: "https://www.aubuchon.com/178"
+website: https://www.aubuchon.com/178

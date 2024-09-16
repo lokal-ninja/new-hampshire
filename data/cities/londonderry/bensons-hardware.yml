@@ -1,11 +1,11 @@
 id: 31999096
-type: way
+type: node
 latitude: 42.86055
 longitude: -71.35553
 postcode: "03053"
 city: Londonderry
-street: "Orchard View Drive"
-housenumber: 20
-phone: "+1-603-432-9863"
-opening_hours: "Mo-Fr 07:30-18:00;Sa 07:30-17:00;Su 09:00-14:00"
+street: Orchard View Drive
+housenumber: "20"
+phone: +1-603-432-9863
+opening_hours: Mo-Fr 07:30-18:00;Sa 07:30-17:00;Su 09:00-14:00
 website: ""

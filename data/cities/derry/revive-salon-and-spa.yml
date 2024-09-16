@@ -1,11 +1,12 @@
 id: 32404718
-type: way
+type: node
 latitude: 42.8806
 longitude: -71.32589
 postcode: "03038"
 city: Derry
-street: "East Broadway"
+street: East Broadway
 housenumber: 1 1/2
-phone: "+1-603-425-2484"
-opening_hours: "Tu 12:00-20:00; We 09:30-20:00; Th 09:00-20:00; Fr 09:00-19:00; Sa 08:00-15:00"
-website: "https://www.revivesalonspanh.com/"
+phone: +1-603-425-2484
+opening_hours: Tu 12:00-20:00; We 09:30-20:00; Th 09:00-20:00; Fr 09:00-19:00; Sa
+    08:00-15:00
+website: https://www.revivesalonspanh.com/

@@ -1,11 +1,11 @@
 id: 422173936
-type: way
+type: node
 latitude: 42.92618
 longitude: -72.30433
 postcode: "03431"
 city: Keene
-street: "Ash Brook Court"
-housenumber: 6
-phone: "+1-603-352-1568"
+street: Ash Brook Court
+housenumber: "6"
+phone: +1-603-352-1568
 opening_hours: ""
 website: ""

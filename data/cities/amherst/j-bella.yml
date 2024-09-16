@@ -1,11 +1,11 @@
 id: 241059873
-type: way
+type: node
 latitude: 42.8118
 longitude: -71.58363
 postcode: "03031"
 city: Amherst
-street: "State Route 101A"
-housenumber: 76
+street: State Route 101A
+housenumber: "76"
 phone: ""
 opening_hours: ""
-website: "https://www.jbellasalon.com/"
+website: https://www.jbellasalon.com/

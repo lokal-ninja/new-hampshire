@@ -1,11 +1,11 @@
 id: 180345104
-type: way
+type: node
 latitude: 42.76139
 longitude: -71.46644
 postcode: "03060"
 city: Nashua
-street: "Factory Street"
-housenumber: 15
+street: Factory Street
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:00"
-website: "https://www.theprintfactorynh.com/"
+opening_hours: Mo-Fr 08:30-17:00
+website: https://www.theprintfactorynh.com/

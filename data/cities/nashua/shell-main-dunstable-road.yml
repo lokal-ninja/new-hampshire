@@ -1,11 +1,11 @@
 id: 158307360
-type: way
+type: node
 latitude: 42.74042
 longitude: -71.49603
 postcode: "03062"
 city: Nashua
-street: "Main Dunstable Road"
-housenumber: 270
-phone: "+1-603-889-4877"
-opening_hours: "24/7"
-website: "https://www.shell.com/"
+street: Main Dunstable Road
+housenumber: "270"
+phone: +1-603-889-4877
+opening_hours: 24/7
+website: https://www.shell.com/

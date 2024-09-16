@@ -1,11 +1,11 @@
 id: 151669662
-type: way
+type: node
 latitude: 42.73021
 longitude: -71.44052
 postcode: "03060"
 city: Nashua
-street: "June Street"
-housenumber: 20
+street: June Street
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.nashuahairsalon.com/"
+website: https://www.nashuahairsalon.com/

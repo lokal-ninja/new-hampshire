@@ -1,11 +1,11 @@
 id: 274466643
-type: way
+type: node
 latitude: 42.97764
 longitude: -71.1205
 postcode: "03044"
 city: Fremont
-street: "Danville Road"
-housenumber: 6
+street: Danville Road
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

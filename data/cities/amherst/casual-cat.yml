@@ -1,11 +1,11 @@
 id: 241059735
-type: way
+type: node
 latitude: 42.80483
 longitude: -71.56425
 postcode: "03031"
 city: Amherst
-street: "State Route 101A"
-housenumber: 141
+street: State Route 101A
+housenumber: "141"
 phone: ""
 opening_hours: ""
-website: "https://www.casualcat.com/"
+website: https://www.casualcat.com/

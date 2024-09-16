@@ -1,11 +1,11 @@
 id: 226332244
-type: way
+type: node
 latitude: 42.77387
 longitude: -71.48748
 postcode: "03064"
 city: Nashua
-street: "Amherst Street"
-housenumber: 158
+street: Amherst Street
+housenumber: "158"
 phone: ""
 opening_hours: ""
-website: "http://www.aceprintingcompany.com/"
+website: http://www.aceprintingcompany.com/

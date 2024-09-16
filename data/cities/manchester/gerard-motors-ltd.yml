@@ -1,11 +1,11 @@
 id: 802152708
-type: way
+type: node
 latitude: 42.98136
 longitude: -71.47608
 postcode: "03102"
 city: Manchester
-street: "South Main Street"
-housenumber: 149
-phone: "+1-603-623-3700"
+street: South Main Street
+housenumber: "149"
+phone: +1-603-623-3700
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1020420386
-type: way
+type: node
 latitude: 43.07299
 longitude: -70.75049
 postcode: "03801"
 city: Portsmouth
-street: "Marcy Street"
-housenumber: 367
-phone: "+1 603 436 4568"
+street: Marcy Street
+housenumber: "367"
+phone: +1 603 436 4568
 opening_hours: ""
-website: "http://www.sandersfish.com/"
+website: http://www.sandersfish.com/

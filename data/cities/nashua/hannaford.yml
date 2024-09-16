@@ -1,11 +1,11 @@
 id: 116979246
-type: way
+type: node
 latitude: 42.76044
 longitude: -71.49952
 postcode: "03063"
 city: Nashua
-street: "Coliseum Avenue"
-housenumber: 175
-phone: "+1 603-889-3700"
-opening_hours: "06:00-23:00"
-website: "https://stores.hannaford.com/nh/nashua/8186"
+street: Coliseum Avenue
+housenumber: "175"
+phone: +1 603-889-3700
+opening_hours: 06:00-23:00
+website: https://stores.hannaford.com/nh/nashua/8186

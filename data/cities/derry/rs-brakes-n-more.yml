@@ -1,11 +1,11 @@
 id: 51365815
-type: way
+type: node
 latitude: 42.90568
 longitude: -71.33735
 postcode: "03038"
 city: Derry
-street: "Scobie Pond Road"
-housenumber: 36
-phone: "+1-603-421-2505"
-opening_hours: "Mo-Fr 08:00-18:00"
+street: Scobie Pond Road
+housenumber: "36"
+phone: +1-603-421-2505
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

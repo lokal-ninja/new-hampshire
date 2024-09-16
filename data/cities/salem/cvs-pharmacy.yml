@@ -1,11 +1,11 @@
 id: 162321502
-type: way
+type: node
 latitude: 42.74287
 longitude: -71.20021
 postcode: "03079"
 city: Salem
-street: "South Broadway"
-housenumber: 512
+street: South Broadway
+housenumber: "512"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/salem-nh-pharmacies/512-south-broadway-salem-nh-03079/storeid=1004"
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/salem-nh-pharmacies/512-south-broadway-salem-nh-03079/storeid=1004

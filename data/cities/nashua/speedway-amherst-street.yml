@@ -1,11 +1,11 @@
 id: 241059768
-type: way
+type: node
 latitude: 42.79662
 longitude: -71.52858
 postcode: "03063"
 city: Nashua
-street: "Amherst Street"
-housenumber: 543
-phone: "+1-603-886-7397"
+street: Amherst Street
+housenumber: "543"
+phone: +1-603-886-7397
 opening_hours: ""
-website: "https://www.speedway.com/"
+website: https://www.speedway.com/

@@ -1,11 +1,11 @@
 id: 161930780
-type: way
+type: node
 latitude: 42.71076
 longitude: -71.4441
 postcode: "03060"
 city: Nashua
-street: "Spit Brook Road"
-housenumber: 8
-phone: "+1-603-888-0311"
+street: Spit Brook Road
+housenumber: "8"
+phone: +1-603-888-0311
 opening_hours: ""
-website: "https://www.haircuttery.com/"
+website: https://www.haircuttery.com/

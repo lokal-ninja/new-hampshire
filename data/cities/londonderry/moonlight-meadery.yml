@@ -1,11 +1,11 @@
 id: 176596036
-type: way
+type: node
 latitude: 42.87697
 longitude: -71.34214
 postcode: "03053"
 city: Londonderry
-street: "Londonderry Road"
-housenumber: 23
+street: Londonderry Road
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "https://www.moonlightmeadery.com/"
+website: https://www.moonlightmeadery.com/

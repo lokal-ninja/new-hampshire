@@ -1,11 +1,11 @@
 id: 99129771
-type: way
+type: node
 latitude: 42.79098
 longitude: -71.36186
 postcode: "03087"
 city: Windham
-street: "Bridle Bridge Road"
-housenumber: 16
+street: Bridle Bridge Road
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 338529199
-type: way
+type: node
 latitude: 42.95425
 longitude: -71.44923
 postcode: "03103"
 city: Manchester
-street: "Mack Avenue"
-housenumber: 81
+street: Mack Avenue
+housenumber: "81"
 phone: ""
 opening_hours: ""
 website: ""

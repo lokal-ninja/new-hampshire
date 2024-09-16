@@ -1,11 +1,11 @@
 id: 162321503
-type: way
+type: node
 latitude: 42.74333
 longitude: -71.1987
 postcode: "03079"
 city: Salem
-street: "South Broadway"
-housenumber: 517
+street: South Broadway
+housenumber: "517"
 phone: ""
 opening_hours: ""
 website: ""

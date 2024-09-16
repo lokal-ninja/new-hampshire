@@ -1,11 +1,11 @@
 id: 129898084
-type: way
+type: node
 latitude: 42.7171
 longitude: -71.41675
 postcode: "03051"
 city: Hudson
-street: "Stuart Street"
-housenumber: 2
+street: Stuart Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://tymemachineauto.net/"
+website: https://tymemachineauto.net/

@@ -1,11 +1,11 @@
 id: 52734154
-type: way
+type: node
 latitude: 42.70588
 longitude: -71.43881
 postcode: "03060"
 city: Nashua
-street: "Daniel Webster Highway"
-housenumber: 288
-phone: "+1 626-443-2100"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/El-Monte/CA/El-Monte/91731/6673"
+street: Daniel Webster Highway
+housenumber: "288"
+phone: +1 626-443-2100
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/El-Monte/CA/El-Monte/91731/6673

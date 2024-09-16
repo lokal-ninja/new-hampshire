@@ -1,11 +1,11 @@
 id: 1022328957
-type: way
+type: node
 latitude: 42.99175
 longitude: -71.46094
 postcode: "03101"
 city: Manchester
-street: "Amherst Street"
-housenumber: 83
-phone: "+1-603-621-7070"
+street: Amherst Street
+housenumber: "83"
+phone: +1-603-621-7070
 opening_hours: ""
-website: "http://www.olgastailorshop.com/"
+website: http://www.olgastailorshop.com/

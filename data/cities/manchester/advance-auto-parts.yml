@@ -1,11 +1,11 @@
 id: 1047240225
-type: way
+type: node
 latitude: 42.98105
 longitude: -71.45895
 postcode: "03103"
 city: Manchester
-street: "Pine Street"
-housenumber: 107
+street: Pine Street
+housenumber: "107"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/nh/manchester/107-pine-st"
+website: https://stores.advanceautoparts.com/nh/manchester/107-pine-st

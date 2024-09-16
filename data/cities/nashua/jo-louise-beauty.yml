@@ -1,11 +1,11 @@
 id: 179913157
-type: way
+type: node
 latitude: 42.7617
 longitude: -71.4655
 postcode: "03060"
 city: Nashua
-street: "Main Street"
-housenumber: 144
+street: Main Street
+housenumber: "144"
 phone: ""
 opening_hours: ""
-website: "https://www.jolouisebeauty.com/"
+website: https://www.jolouisebeauty.com/

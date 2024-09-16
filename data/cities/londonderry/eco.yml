@@ -1,11 +1,11 @@
 id: 39420873
-type: way
+type: node
 latitude: 42.86751
 longitude: -71.34463
 postcode: "03053"
 city: Londonderry
-street: "Nashua Road"
-housenumber: 25
+street: Nashua Road
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "http://www.theecosalon.com/"
+website: http://www.theecosalon.com/

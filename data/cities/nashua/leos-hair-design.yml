@@ -1,11 +1,11 @@
 id: 180643882
-type: way
+type: node
 latitude: 42.75823
 longitude: -71.46623
 postcode: "03060"
 city: Nashua
-street: "Elm Street"
-housenumber: 27
+street: Elm Street
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "http://leoshairdesign.com/"
+website: http://leoshairdesign.com/

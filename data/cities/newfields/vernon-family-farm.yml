@@ -1,11 +1,11 @@
 id: 791163170
-type: way
+type: node
 latitude: 43.03844
 longitude: -70.99521
 postcode: "03856"
 city: Newfields
-street: "Piscassic Road"
-housenumber: 301
+street: Piscassic Road
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

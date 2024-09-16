@@ -1,11 +1,11 @@
 id: 976844264
-type: way
+type: node
 latitude: 42.73095
 longitude: -71.42596
 postcode: "03051"
 city: Hudson
-street: "Flagstone Drive"
-housenumber: 6
+street: Flagstone Drive
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

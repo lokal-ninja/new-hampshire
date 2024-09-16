@@ -1,11 +1,11 @@
 id: 244779011
-type: way
+type: node
 latitude: 42.79523
 longitude: -71.52876
 postcode: "03063"
 city: Nashua
-street: "Amherst Street"
-housenumber: 522
+street: Amherst Street
+housenumber: "522"
 phone: ""
 opening_hours: ""
-website: "https://www.woodburysupply.com/"
+website: https://www.woodburysupply.com/

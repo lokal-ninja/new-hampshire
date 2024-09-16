@@ -1,11 +1,11 @@
 id: 733959792
-type: way
+type: node
 latitude: 43.10625
 longitude: -71.45008
 postcode: "03106"
 city: Hooksett
-street: "Hooksett Road"
-housenumber: 1822
-phone: "+1-603-485-5131"
-opening_hours: "Mo-Sa 08:30-17:00"
-website: "https://www.greensmarine.net/"
+street: Hooksett Road
+housenumber: "1822"
+phone: +1-603-485-5131
+opening_hours: Mo-Sa 08:30-17:00
+website: https://www.greensmarine.net/

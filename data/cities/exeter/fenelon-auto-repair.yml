@@ -1,11 +1,11 @@
 id: 686222748
-type: way
+type: node
 latitude: 42.98119
 longitude: -70.94205
 postcode: "03833"
 city: Exeter
-street: "Portsmouth Avenue"
-housenumber: 2
-phone: "+1-603-772-6818"
+street: Portsmouth Avenue
+housenumber: "2"
+phone: +1-603-772-6818
 opening_hours: ""
 website: ""

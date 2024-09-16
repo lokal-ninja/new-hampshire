@@ -1,11 +1,11 @@
 id: 90091596
-type: way
+type: node
 latitude: 42.90828
 longitude: -71.36222
 postcode: "03053"
 city: Londonderry
-street: "Melody Lane"
-housenumber: 6
+street: Melody Lane
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

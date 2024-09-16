@@ -1,11 +1,11 @@
 id: 75962785
-type: way
+type: node
 latitude: 42.9611
 longitude: -71.44164
 postcode: "03103"
 city: Manchester
-street: "March Avenue"
-housenumber: 66
+street: March Avenue
+housenumber: "66"
 phone: ""
 opening_hours: ""
-website: "https://www.daysjewelers.com/"
+website: https://www.daysjewelers.com/

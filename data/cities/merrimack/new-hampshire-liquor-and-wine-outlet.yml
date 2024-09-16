@@ -1,11 +1,11 @@
 id: 235770567
-type: way
+type: node
 latitude: 42.83757
 longitude: -71.49737
 postcode: "03054"
 city: Merrimack
-street: "Dobson Way"
-housenumber: 6
+street: Dobson Way
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.liquorandwineoutlets.com/"
+website: https://www.liquorandwineoutlets.com/

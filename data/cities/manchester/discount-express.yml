@@ -1,11 +1,11 @@
 id: 1027408475
-type: way
+type: node
 latitude: 42.99411
 longitude: -71.45316
 postcode: "03104"
 city: Manchester
-street: "Nashua Street"
-housenumber: 29
+street: Nashua Street
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

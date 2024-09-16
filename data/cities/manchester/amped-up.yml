@@ -4,8 +4,8 @@ latitude: 42.99148
 longitude: -71.46077
 postcode: "03101"
 city: Manchester
-street: "Chestnut Street"
-housenumber: 420
+street: Chestnut Street
+housenumber: "420"
 phone: ""
 opening_hours: ""
 website: ""

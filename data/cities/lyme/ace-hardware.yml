@@ -4,8 +4,8 @@ latitude: 43.81148
 longitude: -72.15811
 postcode: "03768"
 city: Lyme
-street: "Main Street"
-housenumber: 5
-phone: "+1 603-795-2220"
-opening_hours: "Mo-Fr 08:00-17:00; Sa-Su 08:00-16:00"
-website: "https://www.acehardware.com/store-details/15857"
+street: Main Street
+housenumber: "5"
+phone: +1 603-795-2220
+opening_hours: Mo-Fr 08:00-17:00; Sa-Su 08:00-16:00
+website: https://www.acehardware.com/store-details/15857

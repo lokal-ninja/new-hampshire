@@ -1,11 +1,11 @@
 id: 204761862
-type: way
+type: node
 latitude: 42.74782
 longitude: -71.47147
 postcode: "03060"
 city: Nashua
-street: "Lake Street"
-housenumber: 98
-phone: "+1-603-883-7261"
+street: Lake Street
+housenumber: "98"
+phone: +1-603-883-7261
 opening_hours: ""
-website: "http://www.decellesautoclinic.net/"
+website: http://www.decellesautoclinic.net/

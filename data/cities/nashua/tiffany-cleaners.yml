@@ -1,11 +1,11 @@
 id: 241059972
-type: way
+type: node
 latitude: 42.80266
 longitude: -71.54257
 postcode: "03063"
 city: Nashua
-street: "Amherst Street"
-housenumber: 650
+street: Amherst Street
+housenumber: "650"
 phone: ""
 opening_hours: ""
 website: ""

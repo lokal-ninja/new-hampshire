@@ -1,11 +1,11 @@
 id: 951719015
-type: way
+type: node
 latitude: 43.37069
 longitude: -71.04526
 postcode: "03835"
 city: Farmington
-street: "NH Route 11"
-housenumber: 449
-phone: "+1-603-755-2969"
-opening_hours: "24/7"
+street: NH Route 11
+housenumber: "449"
+phone: +1-603-755-2969
+opening_hours: 24/7
 website: ""

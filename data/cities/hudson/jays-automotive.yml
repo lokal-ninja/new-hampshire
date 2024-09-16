@@ -1,11 +1,11 @@
 id: 53189314
-type: way
+type: node
 latitude: 42.78479
 longitude: -71.37862
 postcode: "03051"
 city: Hudson
-street: "Lawrence Road"
-housenumber: 3
+street: Lawrence Road
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

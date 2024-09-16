@@ -1,11 +1,11 @@
 id: 148285077
-type: way
+type: node
 latitude: 42.73474
 longitude: -71.32531
 postcode: "03076"
 city: Pelham
-street: "Nashua Road"
-housenumber: 11
+street: Nashua Road
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.pelhamfuneralhome.com/"
+website: https://www.pelhamfuneralhome.com/

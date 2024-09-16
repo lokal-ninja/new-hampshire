@@ -1,11 +1,11 @@
 id: 33724485
-type: way
+type: node
 latitude: 42.88699
 longitude: -71.32719
 postcode: "03038"
 city: Derry
-street: "Crystal Avenue"
-housenumber: 40
+street: Crystal Avenue
+housenumber: "40"
 phone: ""
 opening_hours: ""
-website: "https://gsresaletherapy.yolasite.com/"
+website: https://gsresaletherapy.yolasite.com/

@@ -1,11 +1,11 @@
 id: 254601400
-type: way
+type: node
 latitude: 42.76441
 longitude: -71.50028
 postcode: "03063"
 city: Nashua
-street: "Oneils Court"
-housenumber: 2
-phone: "+1-603-882-3942"
+street: Oneils Court
+housenumber: "2"
+phone: +1-603-882-3942
 opening_hours: ""
 website: ""

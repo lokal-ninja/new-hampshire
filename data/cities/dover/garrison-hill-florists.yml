@@ -1,11 +1,11 @@
 id: 245015136
-type: way
+type: node
 latitude: 43.19948
 longitude: -70.87635
 postcode: "03820"
 city: Dover
-street: "Chestnut Street"
-housenumber: 16
+street: Chestnut Street
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://garrisonhillflorist.com/"
+website: https://garrisonhillflorist.com/

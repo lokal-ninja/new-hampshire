@@ -1,11 +1,11 @@
 id: 431477177
-type: way
+type: node
 latitude: 42.70364
 longitude: -71.44207
 postcode: "03060"
 city: Nashua
-street: "Daniel Webster Highway"
-housenumber: 295
-phone: "+1-603-598-4657"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.cartridgeworld.com/"
+street: Daniel Webster Highway
+housenumber: "295"
+phone: +1-603-598-4657
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.cartridgeworld.com/

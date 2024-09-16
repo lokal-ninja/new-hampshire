@@ -1,11 +1,11 @@
 id: 86493628
-type: way
+type: node
 latitude: 42.96207
 longitude: -71.43783
 postcode: "03103"
 city: Manchester
-street: "South Willow Street"
-housenumber: 1100
+street: South Willow Street
+housenumber: "1100"
 phone: ""
 opening_hours: ""
-website: "https://www.quirkvwnh.com/"
+website: https://www.quirkvwnh.com/

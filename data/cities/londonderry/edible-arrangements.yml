@@ -1,11 +1,11 @@
 id: 176728124
-type: way
+type: node
 latitude: 42.84493
 longitude: -71.36017
 postcode: "03053"
 city: Londonderry
-street: "Nashua Road"
-housenumber: 123
+street: Nashua Road
+housenumber: "123"
 phone: ""
 opening_hours: ""
-website: "https://www.ediblearrangements.com/"
+website: https://www.ediblearrangements.com/

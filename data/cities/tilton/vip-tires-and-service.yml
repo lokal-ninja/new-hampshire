@@ -1,11 +1,11 @@
 id: 126902730
-type: way
+type: node
 latitude: 43.45712
 longitude: -71.56194
 postcode: "03276"
 city: Tilton
-street: "Laconia Road"
-housenumber: 117
+street: Laconia Road
+housenumber: "117"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 328686810
-type: way
+type: node
 latitude: 44.143
 longitude: -71.18175
 postcode: "03846"
 city: Jackson
-street: "Main Street"
-housenumber: 60
+street: Main Street
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.99437
 longitude: -71.46302
 postcode: "03101"
 city: Manchester
-street: "Elm Street"
-housenumber: 1155
+street: Elm Street
+housenumber: "1155"
 phone: ""
 opening_hours: ""
-website: "https://www.radiatorexpress.com/"
+website: https://www.radiatorexpress.com/

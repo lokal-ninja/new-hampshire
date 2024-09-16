@@ -1,11 +1,11 @@
 id: 180771901
-type: way
+type: node
 latitude: 42.75971
 longitude: -71.46571
 postcode: "03060"
 city: Nashua
-street: "West Pearl Street"
-housenumber: 86
+street: West Pearl Street
+housenumber: "86"
 phone: ""
 opening_hours: ""
-website: "https://fortingage.com/"
+website: https://fortingage.com/

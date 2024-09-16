@@ -1,11 +1,11 @@
 id: 54057626
-type: way
+type: node
 latitude: 42.75683
 longitude: -71.43241
 postcode: "03051"
 city: Hudson
-street: "Cross Street"
-housenumber: 32
-phone: "+1-603-882-4760"
+street: Cross Street
+housenumber: "32"
+phone: +1-603-882-4760
 opening_hours: ""
 website: ""

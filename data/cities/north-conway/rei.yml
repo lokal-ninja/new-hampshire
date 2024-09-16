@@ -4,8 +4,8 @@ latitude: 44.01872
 longitude: -71.11642
 postcode: "03860"
 city: North Conway
-street: "White Mountain Highway"
-housenumber: 1498
+street: White Mountain Highway
+housenumber: "1498"
 phone: "+16033560475"
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:00-18:00"
-website: "https://www.rei.com/stores/north-conway"
+opening_hours: Mo-Sa 08:00-20:00; Su 08:00-18:00
+website: https://www.rei.com/stores/north-conway

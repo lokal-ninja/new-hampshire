@@ -1,11 +1,11 @@
 id: 136555979
-type: way
+type: node
 latitude: 42.87068
 longitude: -71.34678
 postcode: "03053"
 city: Londonderry
-street: "Garden Lane"
-housenumber: 5
+street: Garden Lane
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

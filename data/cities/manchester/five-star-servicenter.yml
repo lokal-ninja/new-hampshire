@@ -1,11 +1,11 @@
 id: 802130033
-type: way
+type: node
 latitude: 42.98477
 longitude: -71.47521
 postcode: "03102"
 city: Manchester
-street: "West Street"
-housenumber: 115
-phone: "+1-603-627-2900"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 09:00-13:00"
-website: "https://5starservicenter.com/"
+street: West Street
+housenumber: "115"
+phone: +1-603-627-2900
+opening_hours: Mo-Fr 08:00-17:30; Sa 09:00-13:00
+website: https://5starservicenter.com/

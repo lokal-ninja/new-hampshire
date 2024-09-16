@@ -1,11 +1,11 @@
 id: 146810245
-type: way
+type: node
 latitude: 42.70606
 longitude: -71.44296
 postcode: "03060"
 city: Nashua
-street: "Daniel Webster Highway"
-housenumber: 261
-phone: "+1-603-888-7844"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://www.bedbathandbeyond.com/"
+street: Daniel Webster Highway
+housenumber: "261"
+phone: +1-603-888-7844
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://www.bedbathandbeyond.com/

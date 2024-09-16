@@ -4,8 +4,8 @@ latitude: 42.98295
 longitude: -71.46282
 postcode: "03101"
 city: Manchester
-street: "Elm Street"
-housenumber: 341
+street: Elm Street
+housenumber: "341"
 phone: ""
 opening_hours: ""
-website: "https://www.manchestermusicmill.com/"
+website: https://www.manchestermusicmill.com/

@@ -1,11 +1,11 @@
 id: 240587708
-type: way
+type: node
 latitude: 42.79336
 longitude: -71.52452
 postcode: "03063"
 city: Nashua
-street: "Amherst Street"
-housenumber: 504
+street: Amherst Street
+housenumber: "504"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/nh/nashua/oil-change-ab1132.html"
+website: https://store.vioc.com/nh/nashua/oil-change-ab1132.html

@@ -1,11 +1,11 @@
 id: 805128712
-type: way
+type: node
 latitude: 42.99493
 longitude: -71.48145
 postcode: "03102"
 city: Manchester
-street: "Kelley Street"
-housenumber: 238
-phone: "+1-603-666-0024"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "https://www.facebook.com/pages/category/Automotive-Repair-Shop/Moms-Garage-1683055212005010/"
+street: Kelley Street
+housenumber: "238"
+phone: +1-603-666-0024
+opening_hours: Mo-Fr 07:30-17:00
+website: https://www.facebook.com/pages/category/Automotive-Repair-Shop/Moms-Garage-1683055212005010/

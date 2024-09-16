@@ -1,11 +1,11 @@
 id: 188702862
-type: way
+type: node
 latitude: 42.75881
 longitude: -71.45973
 postcode: "03060"
 city: Nashua
-street: "East Hollis Street"
-housenumber: 38
+street: East Hollis Street
+housenumber: "38"
 phone: ""
 opening_hours: ""
-website: "https://www.familydollar.com/"
+website: https://www.familydollar.com/

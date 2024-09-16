@@ -1,11 +1,11 @@
 id: 174594695
-type: way
+type: node
 latitude: 42.79186
 longitude: -71.23418
 postcode: "03079"
 city: Salem
-street: "North Broadway"
-housenumber: 236
-phone: "+1-603-894-5887"
-opening_hours: "Mo,Tu,Th-Sa 12:00-20:00; Su 12:00-18:00"
+street: North Broadway
+housenumber: "236"
+phone: +1-603-894-5887
+opening_hours: Mo,Tu,Th-Sa 12:00-20:00; Su 12:00-18:00
 website: ""

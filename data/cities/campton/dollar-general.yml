@@ -1,11 +1,11 @@
 id: 722088001
-type: way
+type: node
 latitude: 43.85892
 longitude: -71.63335
 postcode: "03223"
 city: Campton
-street: "NH 49"
-housenumber: 410
+street: NH 49
+housenumber: "410"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/nh/campton/17739"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/nh/campton/17739

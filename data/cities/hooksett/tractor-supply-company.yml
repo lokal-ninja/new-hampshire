@@ -1,11 +1,11 @@
 id: 235959285
-type: way
+type: node
 latitude: 43.05382
 longitude: -71.44409
 postcode: "03106"
 city: Hooksett
-street: "Hooksett Road"
-housenumber: 1328
-phone: "+1 603 621 9837"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/tsc/store_HOOKSETT-NH-03106_1454"
+street: Hooksett Road
+housenumber: "1328"
+phone: +1 603 621 9837
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/tsc/store_HOOKSETT-NH-03106_1454

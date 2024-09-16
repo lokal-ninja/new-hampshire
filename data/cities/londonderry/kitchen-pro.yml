@@ -1,11 +1,11 @@
 id: 176596035
-type: way
+type: node
 latitude: 42.87888
 longitude: -71.34321
 postcode: "03053"
 city: Londonderry
-street: "Londonderry Road"
-housenumber: 33
+street: Londonderry Road
+housenumber: "33"
 phone: ""
 opening_hours: ""
-website: "https://www.kitchenprollc.co/"
+website: https://www.kitchenprollc.co/

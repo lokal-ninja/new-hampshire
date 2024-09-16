@@ -1,11 +1,11 @@
 id: 432644082
-type: way
+type: node
 latitude: 42.75883
 longitude: -71.45502
 postcode: "03060"
 city: Nashua
-street: "East Hollis Street"
-housenumber: 73
-phone: "+1-603-595-4656"
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-17:00"
-website: "https://locations.aarons.com/us/nh/nashua/73b-hollis-st"
+street: East Hollis Street
+housenumber: "73"
+phone: +1-603-595-4656
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-17:00
+website: https://locations.aarons.com/us/nh/nashua/73b-hollis-st

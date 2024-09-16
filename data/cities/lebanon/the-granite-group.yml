@@ -1,11 +1,11 @@
 id: 425984457
-type: way
+type: node
 latitude: 43.63836
 longitude: -72.27869
 postcode: "03766"
 city: Lebanon
-street: "Mechanic Street"
-housenumber: 266
-phone: "+1-603-442-6490"
-opening_hours: "Mo-Fr 07:00-16:30"
-website: "https://www.thegranitegroup.com/Locations/new-hampshire/lebanon"
+street: Mechanic Street
+housenumber: "266"
+phone: +1-603-442-6490
+opening_hours: Mo-Fr 07:00-16:30
+website: https://www.thegranitegroup.com/Locations/new-hampshire/lebanon

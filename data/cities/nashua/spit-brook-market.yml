@@ -1,11 +1,11 @@
 id: 430668032
-type: way
+type: node
 latitude: 42.70833
 longitude: -71.4575
 postcode: "03062"
 city: Nashua
-street: "Spit Brook Road"
-housenumber: 108
+street: Spit Brook Road
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

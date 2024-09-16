@@ -1,11 +1,11 @@
 id: 38094519
-type: way
+type: node
 latitude: 42.89432
 longitude: -71.31393
 postcode: "03038"
 city: Derry
-street: "Pinkerton Street"
-housenumber: 1
+street: Pinkerton Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

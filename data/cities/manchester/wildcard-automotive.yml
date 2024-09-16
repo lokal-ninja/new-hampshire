@@ -1,11 +1,11 @@
 id: 1016613807
-type: way
+type: node
 latitude: 42.99468
 longitude: -71.46183
 postcode: "03101"
 city: Manchester
-street: "Kosiuszko Street"
-housenumber: 51
+street: Kosiuszko Street
+housenumber: "51"
 phone: ""
 opening_hours: ""
-website: "http://www.wildcardsperformance.com/"
+website: http://www.wildcardsperformance.com/

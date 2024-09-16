@@ -1,11 +1,11 @@
 id: 1045119239
-type: way
+type: node
 latitude: 42.98479
 longitude: -71.45762
 postcode: "03103"
 city: Manchester
-street: "Union Street"
-housenumber: 324
+street: Union Street
+housenumber: "324"
 phone: ""
 opening_hours: ""
 website: ""

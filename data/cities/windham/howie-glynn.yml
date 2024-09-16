@@ -1,11 +1,11 @@
 id: 163435805
-type: way
+type: node
 latitude: 42.80484
 longitude: -71.29635
 postcode: "03087"
 city: Windham
-street: "Indian Rock Road"
-housenumber: 32
+street: Indian Rock Road
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

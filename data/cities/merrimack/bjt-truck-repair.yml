@@ -1,11 +1,11 @@
 id: 132395345
-type: way
+type: node
 latitude: 42.83215
 longitude: -71.48751
 postcode: "03054"
 city: Merrimack
-street: "Star Drive"
-housenumber: 17
+street: Star Drive
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

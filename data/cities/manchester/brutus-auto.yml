@@ -1,11 +1,11 @@
 id: 1023581701
-type: way
+type: node
 latitude: 42.9898
 longitude: -71.45904
 postcode: "03103"
 city: Manchester
-street: "Merrimack Street"
-housenumber: 148
-phone: "+1-603-624-8881"
+street: Merrimack Street
+housenumber: "148"
+phone: +1-603-624-8881
 opening_hours: ""
-website: "https://www.brutusauto.com/"
+website: https://www.brutusauto.com/

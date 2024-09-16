@@ -1,11 +1,11 @@
-id: 230522225
-type: way
-latitude: 42.95499
-longitude: -71.43124
+id: 201850961
+type: node
+latitude: 42.96001
+longitude: -71.44015
 postcode: "03103"
 city: Manchester
-street: "South Willow Street"
-housenumber: 1500
+street: South Willow Street
+housenumber: "1111"
 phone: ""
 opening_hours: ""
-website: "http://www.verizonwireless.com/"
+website: http://www.verizonwireless.com/

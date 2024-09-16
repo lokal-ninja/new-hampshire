@@ -1,11 +1,11 @@
 id: 145221249
-type: way
+type: node
 latitude: 42.72482
 longitude: -71.31817
 postcode: "03076"
 city: Pelham
-street: "Bridge Street"
-housenumber: 150
-phone: "+1 603-635-3001"
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-21:00"
-website: "https://stores.hannaford.com/nh/pelham/8015"
+street: Bridge Street
+housenumber: "150"
+phone: +1 603-635-3001
+opening_hours: Mo-Sa 07:00-22:00; Su 07:00-21:00
+website: https://stores.hannaford.com/nh/pelham/8015

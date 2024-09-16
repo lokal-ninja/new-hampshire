@@ -1,11 +1,11 @@
 id: 34685194
-type: way
+type: node
 latitude: 42.88038
 longitude: -71.34241
 postcode: "03053"
 city: Londonderry
-street: "Ash Street"
-housenumber: 27
-phone: "+1-603-432-3201"
-opening_hours: "Mo-Fr 08:00-17:30"
+street: Ash Street
+housenumber: "27"
+phone: +1-603-432-3201
+opening_hours: Mo-Fr 08:00-17:30
 website: ""

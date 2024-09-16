@@ -1,11 +1,11 @@
 id: 1292948901
-type: way
+type: node
 latitude: 43.64674
 longitude: -72.0126
 postcode: "03741"
 city: Canaan
-street: "U.S. Route 4"
-housenumber: 1167
+street: U.S. Route 4
+housenumber: "1167"
 phone: "6035237578"
 opening_hours: ""
 website: ""

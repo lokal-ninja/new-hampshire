@@ -4,8 +4,8 @@ latitude: 42.99127
 longitude: -71.46332
 postcode: "03101"
 city: Manchester
-street: "Elm Street"
-housenumber: 926
+street: Elm Street
+housenumber: "926"
 phone: ""
 opening_hours: ""
-website: "https://www.pearsonsjewelry.com/"
+website: https://www.pearsonsjewelry.com/

@@ -1,11 +1,11 @@
 id: 69424560
-type: way
+type: node
 latitude: 42.87513
 longitude: -71.2991
 postcode: "03038"
 city: Derry
-street: "Rockingham Road"
-housenumber: 129
-phone: "+1-603-437-5656"
+street: Rockingham Road
+housenumber: "129"
+phone: +1-603-437-5656
 opening_hours: ""
-website: "https://seacoastsport.com/"
+website: https://seacoastsport.com/

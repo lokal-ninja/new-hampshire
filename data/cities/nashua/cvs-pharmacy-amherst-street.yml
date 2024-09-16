@@ -1,11 +1,11 @@
 id: 241059731
-type: way
+type: node
 latitude: 42.80399
 longitude: -71.54095
 postcode: "03063"
 city: Nashua
-street: "Amherst Street"
-housenumber: 633
-phone: "+1-603-880-6861"
-opening_hours: "08:00-20:00"
-website: "https://www.cvs.com/store-locator/nashua-nh-pharmacies/633-amherst-st-nashua-nh-03063/storeid=723"
+street: Amherst Street
+housenumber: "633"
+phone: +1-603-880-6861
+opening_hours: 08:00-20:00
+website: https://www.cvs.com/store-locator/nashua-nh-pharmacies/633-amherst-st-nashua-nh-03063/storeid=723

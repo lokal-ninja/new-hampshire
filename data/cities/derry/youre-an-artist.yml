@@ -1,11 +1,11 @@
 id: 170294458
-type: way
+type: node
 latitude: 42.88129
 longitude: -71.32634
 postcode: "03038"
 city: Derry
-street: "Manning Street"
-housenumber: 16
-phone: "+1-603-425-9994"
+street: Manning Street
+housenumber: "16"
+phone: +1-603-425-9994
 opening_hours: ""
-website: "http://www.youreanartist.com/"
+website: http://www.youreanartist.com/

@@ -1,11 +1,11 @@
 id: 200858764
-type: way
+type: node
 latitude: 42.96319
 longitude: -71.06433
 postcode: "03833"
 city: Brentwood
-street: "South Road"
-housenumber: 317
+street: South Road
+housenumber: "317"
 phone: ""
 opening_hours: ""
-website: "https://www.lewismotorsalesonline.com/"
+website: https://www.lewismotorsalesonline.com/

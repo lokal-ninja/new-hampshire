@@ -1,11 +1,11 @@
 id: 187199141
-type: way
+type: node
 latitude: 42.73256
 longitude: -71.4233
 postcode: "03051"
 city: Hudson
-street: "Lowell Road"
-housenumber: 212
+street: Lowell Road
+housenumber: "212"
 phone: ""
 opening_hours: ""
-website: "https://www.fantasticsams.com/"
+website: https://www.fantasticsams.com/

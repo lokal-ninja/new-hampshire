@@ -4,8 +4,8 @@ latitude: 42.97495
 longitude: -71.46282
 postcode: "03101"
 city: Manchester
-street: "Elm Street"
-housenumber: 35
+street: Elm Street
+housenumber: "35"
 phone: ""
 opening_hours: ""
-website: "https://qcbike.org"
+website: https://qcbike.org

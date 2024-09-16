@@ -4,8 +4,8 @@ latitude: 43.64668
 longitude: -72.31023
 postcode: "03784"
 city: West Lebanon
-street: "Main Street"
-housenumber: 43
-phone: "+1-603-790-8479"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-19:00; Su 10:00-17:00"
-website: "https://www.batteriesplus.com/store-locator/nh/697"
+street: Main Street
+housenumber: "43"
+phone: +1-603-790-8479
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-19:00; Su 10:00-17:00
+website: https://www.batteriesplus.com/store-locator/nh/697

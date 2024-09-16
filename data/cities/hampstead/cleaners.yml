@@ -1,11 +1,11 @@
 id: 296385002
-type: way
+type: node
 latitude: 42.88778
 longitude: -71.14926
 postcode: "03841"
 city: Hampstead
-street: "Emerson Avenue"
-housenumber: 416
+street: Emerson Avenue
+housenumber: "416"
 phone: ""
 opening_hours: ""
 website: ""

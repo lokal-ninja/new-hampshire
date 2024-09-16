@@ -1,11 +1,11 @@
 id: 202906553
-type: way
+type: node
 latitude: 42.7567
 longitude: -71.45333
 postcode: "03060"
 city: Nashua
-street: "Allds Street"
-housenumber: 91
+street: Allds Street
+housenumber: "91"
 phone: ""
 opening_hours: ""
 website: ""

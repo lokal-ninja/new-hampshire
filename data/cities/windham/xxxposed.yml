@@ -1,11 +1,11 @@
 id: 94210331
-type: way
+type: node
 latitude: 42.81853
 longitude: -71.25221
 postcode: "03087"
 city: Windham
-street: "Rockingham Road"
-housenumber: 53
+street: Rockingham Road
+housenumber: "53"
 phone: ""
 opening_hours: ""
-website: "http://www.xxxposednh.com/"
+website: http://www.xxxposednh.com/

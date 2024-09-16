@@ -4,8 +4,8 @@ latitude: 42.70067
 longitude: -71.4363
 postcode: "03060"
 city: Nashua
-street: "Daniel Webster Highway"
-housenumber: 310
-phone: "+1-603-577-4600"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.t-mobile.com/"
+street: Daniel Webster Highway
+housenumber: "310"
+phone: +1-603-577-4600
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.t-mobile.com/

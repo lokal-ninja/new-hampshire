@@ -4,8 +4,8 @@ latitude: 42.99538
 longitude: -71.47942
 postcode: "03102"
 city: Manchester
-street: "Kelley Street"
-housenumber: 165
-phone: "+1-603-624-3500"
-opening_hours: "Tu-Fr 07:30-14:00; Sa 08:00-14:00; Su 09:00-13:00; Mo 07:30-13:00"
-website: "https://thebakeshoponkelleystreet.com/"
+street: Kelley Street
+housenumber: "165"
+phone: +1-603-624-3500
+opening_hours: Tu-Fr 07:30-14:00; Sa 08:00-14:00; Su 09:00-13:00; Mo 07:30-13:00
+website: https://thebakeshoponkelleystreet.com/

@@ -1,11 +1,11 @@
 id: 159265408
-type: way
+type: node
 latitude: 42.70843
 longitude: -71.43869
 postcode: "03060"
 city: Nashua
-street: "Daniel Webster Highway"
-housenumber: 260
-phone: "+1 603-888-5698"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/nashua-nh-495"
+street: Daniel Webster Highway
+housenumber: "260"
+phone: +1 603-888-5698
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/nashua-nh-495

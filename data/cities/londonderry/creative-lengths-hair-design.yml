@@ -1,11 +1,11 @@
 id: 87347345
-type: way
+type: node
 latitude: 42.90906
 longitude: -71.37268
 postcode: "03053"
 city: Londonderry
-street: "Perkins Road"
-housenumber: 45
+street: Perkins Road
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

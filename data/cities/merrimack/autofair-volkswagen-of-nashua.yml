@@ -1,11 +1,11 @@
 id: 75694693
-type: way
+type: node
 latitude: 42.80543
 longitude: -71.54732
 postcode: "03054"
 city: Merrimack
-street: "Milford Road"
-housenumber: 717
-phone: "+1-603-821-4313"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.autofairvolkswagenofnashua.com/"
+street: Milford Road
+housenumber: "717"
+phone: +1-603-821-4313
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.autofairvolkswagenofnashua.com/

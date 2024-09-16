@@ -1,11 +1,11 @@
 id: 1003092529
-type: way
+type: node
 latitude: 43.00621
 longitude: -71.46435
 postcode: "03104"
 city: Manchester
-street: "Webster Street"
-housenumber: 15
-phone: "+1 603 625 6700"
+street: Webster Street
+housenumber: "15"
+phone: +1 603 625 6700
 opening_hours: ""
 website: ""

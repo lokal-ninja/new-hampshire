@@ -1,11 +1,11 @@
 id: 296805364
-type: way
+type: node
 latitude: 42.96571
 longitude: -71.27541
 postcode: "03036"
 city: Chester
-street: "Chester Street"
-housenumber: 239
+street: Chester Street
+housenumber: "239"
 phone: ""
 opening_hours: ""
-website: "https://www.huntershideaways.com/"
+website: https://www.huntershideaways.com/

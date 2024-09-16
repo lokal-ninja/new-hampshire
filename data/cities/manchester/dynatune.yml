@@ -1,11 +1,11 @@
 id: 92620624
-type: way
+type: node
 latitude: 42.96708
 longitude: -71.45131
 postcode: "03103"
 city: Manchester
-street: "Loring Street"
-housenumber: 121
+street: Loring Street
+housenumber: "121"
 phone: ""
 opening_hours: ""
-website: "https://www.dynatune.com/"
+website: https://www.dynatune.com/

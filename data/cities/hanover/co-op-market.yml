@@ -1,11 +1,11 @@
 id: 548612679
-type: way
+type: node
 latitude: 43.7185
 longitude: -72.27359
 postcode: "03755"
 city: Hanover
-street: "Lyme Road"
-housenumber: 43
-phone: "+1-603-643-2725"
-opening_hours: "Mo-Fr 06:00-20:00; Sa-Su 07:00-20:00"
-website: "https://coopfoodstore.coop/coopmarket"
+street: Lyme Road
+housenumber: "43"
+phone: +1-603-643-2725
+opening_hours: Mo-Fr 06:00-20:00; Sa-Su 07:00-20:00
+website: https://coopfoodstore.coop/coopmarket

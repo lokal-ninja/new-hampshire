@@ -1,11 +1,11 @@
 id: 246519866
-type: way
+type: node
 latitude: 42.79488
 longitude: -71.52801
 postcode: "03063"
 city: Nashua
-street: "Amherst Street"
-housenumber: 522
-phone: "+1-603-881-3052"
-opening_hours: "Mo-Fr 11:30-18:00; Th 11:30-19:00; Sa 10:30-17:00"
-website: "https://boomchugalug.com/"
+street: Amherst Street
+housenumber: "522"
+phone: +1-603-881-3052
+opening_hours: Mo-Fr 11:30-18:00; Th 11:30-19:00; Sa 10:30-17:00
+website: https://boomchugalug.com/

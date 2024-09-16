@@ -1,11 +1,11 @@
 id: 157795996
-type: way
+type: node
 latitude: 42.72967
 longitude: -71.44786
 postcode: "03060"
 city: Nashua
-street: "Daniel Webster Highway"
-housenumber: 100
+street: Daniel Webster Highway
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/nh/nashua/100-daniel-webster-hwy.html"
+website: https://www.autozone.com/locations/nh/nashua/100-daniel-webster-hwy.html

@@ -1,11 +1,11 @@
 id: 180643876
-type: way
+type: node
 latitude: 42.75782
 longitude: -71.46602
 postcode: "03060"
 city: Nashua
-street: "Elm Street"
-housenumber: 37
-phone: "+1-603-882-0909"
+street: Elm Street
+housenumber: "37"
+phone: +1-603-882-0909
 opening_hours: ""
 website: ""

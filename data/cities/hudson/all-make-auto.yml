@@ -1,11 +1,11 @@
 id: 51653267
-type: way
+type: node
 latitude: 42.71686
 longitude: -71.41873
 postcode: "03051"
 city: Hudson
-street: "River Road"
-housenumber: 14
+street: River Road
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

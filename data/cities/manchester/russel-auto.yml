@@ -1,11 +1,11 @@
 id: 225643011
-type: way
+type: node
 latitude: 42.96967
 longitude: -71.45429
 postcode: "03103"
 city: Manchester
-street: "South Willow Street"
-housenumber: 247
-phone: "+1-603-625-6438"
+street: South Willow Street
+housenumber: "247"
+phone: +1-603-625-6438
 opening_hours: ""
-website: "https://www.russellautoinc.com/"
+website: https://www.russellautoinc.com/

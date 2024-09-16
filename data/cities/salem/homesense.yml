@@ -4,8 +4,8 @@ latitude: 42.77777
 longitude: -71.2278
 postcode: "03079"
 city: Salem
-street: "Central Street"
-housenumber: 67
+street: Central Street
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-21:00"
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-21:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.98212
 longitude: -70.95756
 postcode: "03833"
 city: Exeter
-street: "Lincoln Street"
-housenumber: 80
+street: Lincoln Street
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Th 08:00-19:00; Fr 08:00-17:00; Sa 07:00-15:00"
+opening_hours: Mo-Th 08:00-19:00; Fr 08:00-17:00; Sa 07:00-15:00
 website: ""

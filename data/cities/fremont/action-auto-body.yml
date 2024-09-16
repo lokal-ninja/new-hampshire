@@ -1,11 +1,11 @@
 id: 271373302
-type: way
+type: node
 latitude: 42.96722
 longitude: -71.09291
 postcode: "03044"
 city: Fremont
-street: "Main Street"
-housenumber: 928
-phone: "+1-603-642-3270"
+street: Main Street
+housenumber: "928"
+phone: +1-603-642-3270
 opening_hours: ""
 website: ""

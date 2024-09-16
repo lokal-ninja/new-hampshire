@@ -4,8 +4,8 @@ latitude: 42.96924
 longitude: -71.45265
 postcode: "03103"
 city: Manchester
-street: "Vinton Street"
-housenumber: 4
+street: Vinton Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "http://www.huntsphotoandvideo.com/"
+website: http://www.huntsphotoandvideo.com/

@@ -1,11 +1,11 @@
 id: 28730158
-type: way
+type: node
 latitude: 42.86161
 longitude: -71.34864
 postcode: "03053"
 city: Londonderry
-street: "Nashua Road"
-housenumber: 41
-phone: "+1 603-537-1927"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/londonderry/nh/londonderry/03053/3401"
+street: Nashua Road
+housenumber: "41"
+phone: +1 603-537-1927
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/londonderry/nh/londonderry/03053/3401

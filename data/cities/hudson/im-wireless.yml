@@ -1,11 +1,11 @@
 id: 58586175
-type: way
+type: node
 latitude: 42.74673
 longitude: -71.42436
 postcode: "03051"
 city: Hudson
-street: "Lowell Road"
-housenumber: 142
+street: Lowell Road
+housenumber: "142"
 phone: ""
 opening_hours: ""
-website: "http://www.imwirelessonline.com/"
+website: http://www.imwirelessonline.com/

@@ -1,11 +1,11 @@
 id: 82342634
-type: way
+type: node
 latitude: 42.76406
 longitude: -71.45898
 postcode: "03064"
 city: Nashua
-street: "Canal Street"
-housenumber: 84
+street: Canal Street
+housenumber: "84"
 phone: ""
 opening_hours: ""
-website: "http://www.davesqualitydrycleaning.com/"
+website: http://www.davesqualitydrycleaning.com/

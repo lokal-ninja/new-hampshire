@@ -1,11 +1,11 @@
 id: 158468005
-type: way
+type: node
 latitude: 42.74407
 longitude: -71.49013
 postcode: "03060"
 city: Nashua
-street: "Main Dunstable Road"
-housenumber: 170
+street: Main Dunstable Road
+housenumber: "170"
 phone: ""
 opening_hours: ""
-website: "https://www.porschenashua.com/"
+website: https://www.porschenashua.com/

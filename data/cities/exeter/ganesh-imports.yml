@@ -4,8 +4,8 @@ latitude: 42.98112
 longitude: -70.94546
 postcode: "03833"
 city: Exeter
-street: "Water Street"
-housenumber: 42
-phone: "+1-603-772-0102"
-opening_hours: "Mo-Su 10:00-18:00"
-website: "https://ganeshimports.com"
+street: Water Street
+housenumber: "42"
+phone: +1-603-772-0102
+opening_hours: Mo-Su 10:00-18:00
+website: https://ganeshimports.com

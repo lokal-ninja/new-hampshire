@@ -1,11 +1,11 @@
 id: 816847900
-type: way
+type: node
 latitude: 42.98019
 longitude: -71.47728
 postcode: "03102"
 city: Manchester
-street: "South Main Street"
-housenumber: 227
-phone: "+1-603-666-8538"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-227+s+main+st-manchester-nh-03102/id=3900"
+street: South Main Street
+housenumber: "227"
+phone: +1-603-666-8538
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-227+s+main+st-manchester-nh-03102/id=3900

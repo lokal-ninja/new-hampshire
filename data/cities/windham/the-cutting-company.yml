@@ -1,11 +1,11 @@
 id: 129076774
-type: way
+type: node
 latitude: 42.78778
 longitude: -71.3449
 postcode: "03087"
 city: Windham
-street: "Glance Road"
-housenumber: 26
+street: Glance Road
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 75777597
-type: way
+type: node
 latitude: 42.95702
 longitude: -71.48247
 postcode: "03110"
 city: Bedford
-street: "Kilton Road"
-housenumber: 19
+street: Kilton Road
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "http://www.martinshouseofcloth.com/"
+website: http://www.martinshouseofcloth.com/

@@ -1,11 +1,11 @@
 id: 220552387
-type: way
+type: node
 latitude: 42.96581
 longitude: -71.44915
 postcode: "03103"
 city: Manchester
-street: "South Willow Street"
-housenumber: 575
+street: South Willow Street
+housenumber: "575"
 phone: ""
 opening_hours: ""
-website: "http://myrecellmobile.com/"
+website: http://myrecellmobile.com/

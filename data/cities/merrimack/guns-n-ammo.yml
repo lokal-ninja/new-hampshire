@@ -1,11 +1,11 @@
 id: 151182019
-type: way
+type: node
 latitude: 42.88554
 longitude: -71.47486
 postcode: "03054"
 city: Merrimack
-street: "Daniel Webster Highway"
-housenumber: 619
+street: Daniel Webster Highway
+housenumber: "619"
 phone: ""
 opening_hours: ""
 website: ""

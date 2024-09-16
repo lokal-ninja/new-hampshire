@@ -1,11 +1,11 @@
 id: 99212977
-type: way
+type: node
 latitude: 42.94001
 longitude: -71.42228
 postcode: "03103"
 city: Manchester
-street: "Sheffield Road"
-housenumber: 254
+street: Sheffield Road
+housenumber: "254"
 phone: ""
 opening_hours: ""
-website: "https://www.proimageautomotive.com/"
+website: https://www.proimageautomotive.com/

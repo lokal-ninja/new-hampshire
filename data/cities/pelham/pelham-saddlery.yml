@@ -1,11 +1,11 @@
 id: 148545256
-type: way
+type: node
 latitude: 42.73734
 longitude: -71.32373
 postcode: "03076"
 city: Pelham
-street: "Windham Road"
-housenumber: 53
+street: Windham Road
+housenumber: "53"
 phone: ""
 opening_hours: ""
-website: "http://www.pelham-saddlery.com/"
+website: http://www.pelham-saddlery.com/

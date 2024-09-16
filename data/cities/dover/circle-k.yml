@@ -1,11 +1,11 @@
 id: 1306202103
-type: way
+type: node
 latitude: 43.17424
 longitude: -70.86184
 postcode: "03820"
 city: Dover
-street: "Dover Point Road"
-housenumber: 30
-phone: "+1- 603-842-6717"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/dover/30-dover-point-rd/4707264"
+street: Dover Point Road
+housenumber: "30"
+phone: +1- 603-842-6717
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/dover/30-dover-point-rd/4707264

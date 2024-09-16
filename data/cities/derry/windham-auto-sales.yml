@@ -1,11 +1,11 @@
 id: 69489502
-type: way
+type: node
 latitude: 42.86055
 longitude: -71.28516
 postcode: "03038"
 city: Derry
-street: "Rockingham Road"
-housenumber: 164
-phone: "+1-603-437-2176"
+street: Rockingham Road
+housenumber: "164"
+phone: +1-603-437-2176
 opening_hours: ""
-website: "https://www.windhamautosales.com/"
+website: https://www.windhamautosales.com/

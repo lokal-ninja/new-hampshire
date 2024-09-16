@@ -4,8 +4,8 @@ latitude: 42.98076
 longitude: -70.95846
 postcode: "03833"
 city: Exeter
-street: "Lincoln Street"
-housenumber: 48
-phone: "+1-603-778-8564"
-opening_hours: "Mo-Fr 10:00-14:00"
-website: "http://www.exeterhandkerchief.com/"
+street: Lincoln Street
+housenumber: "48"
+phone: +1-603-778-8564
+opening_hours: Mo-Fr 10:00-14:00
+website: http://www.exeterhandkerchief.com/

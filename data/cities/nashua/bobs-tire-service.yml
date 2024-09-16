@@ -1,11 +1,11 @@
 id: 179221564
-type: way
+type: node
 latitude: 42.75896
 longitude: -71.46836
 postcode: "03060"
 city: Nashua
-street: "West Pearl Street"
-housenumber: 140
+street: West Pearl Street
+housenumber: "140"
 phone: ""
 opening_hours: ""
-website: "http://www.bobstireserviceinc.net/"
+website: http://www.bobstireserviceinc.net/

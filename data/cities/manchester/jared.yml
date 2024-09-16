@@ -1,11 +1,11 @@
 id: 69637660
-type: way
+type: node
 latitude: 42.95335
 longitude: -71.43747
 postcode: "03103"
 city: Manchester
-street: "South Willow Street"
-housenumber: 1579
+street: South Willow Street
+housenumber: "1579"
 phone: ""
 opening_hours: ""
-website: "https://www.jared.com/"
+website: https://www.jared.com/

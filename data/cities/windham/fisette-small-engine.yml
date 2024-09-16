@@ -1,11 +1,11 @@
 id: 107936081
-type: way
+type: node
 latitude: 42.80241
 longitude: -71.31887
 postcode: "03087"
 city: Windham
-street: "Ledge Road"
-housenumber: 7
+street: Ledge Road
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.fisettesmallengine.com/"
+website: https://www.fisettesmallengine.com/

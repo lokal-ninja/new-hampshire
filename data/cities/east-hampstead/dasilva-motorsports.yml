@@ -1,11 +1,11 @@
 id: 296385023
-type: way
+type: node
 latitude: 42.88835
 longitude: -71.14835
 postcode: "03826"
 city: East Hampstead
-street: "State Route 111"
-housenumber: 710
+street: State Route 111
+housenumber: "710"
 phone: ""
 opening_hours: ""
-website: "https://www.dasilvamotorsports.com/"
+website: https://www.dasilvamotorsports.com/

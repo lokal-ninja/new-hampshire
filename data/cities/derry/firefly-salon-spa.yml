@@ -1,11 +1,11 @@
 id: 171978260
-type: way
+type: node
 latitude: 42.90174
 longitude: -71.335
 postcode: "03038"
 city: Derry
-street: "Manchester Road"
-housenumber: 35
+street: Manchester Road
+housenumber: "35"
 phone: ""
 opening_hours: ""
-website: "https://www.fireflysalonspa.com/"
+website: https://www.fireflysalonspa.com/

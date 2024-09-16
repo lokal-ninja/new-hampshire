@@ -1,11 +1,11 @@
 id: 1243038634
-type: way
+type: node
 latitude: 44.46946
 longitude: -71.18133
 postcode: "03570"
 city: Berlin
-street: "Main Street"
-housenumber: 107
+street: Main Street
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

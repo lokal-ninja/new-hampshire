@@ -1,11 +1,11 @@
 id: 32684079
-type: way
+type: node
 latitude: 42.89807
 longitude: -71.33196
 postcode: "03038"
 city: Derry
-street: "Manchester Road"
-housenumber: 19
-phone: "+1-603-965-3218"
-opening_hours: "Mo-Sa 09:00-21:00;Su 10:00-18:00"
-website: "https://www.woofmeownh.com/"
+street: Manchester Road
+housenumber: "19"
+phone: +1-603-965-3218
+opening_hours: Mo-Sa 09:00-21:00;Su 10:00-18:00
+website: https://www.woofmeownh.com/

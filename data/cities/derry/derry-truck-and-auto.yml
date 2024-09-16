@@ -1,11 +1,11 @@
 id: 34241184
-type: way
+type: node
 latitude: 42.88029
 longitude: -71.32504
 postcode: "03038"
 city: Derry
-street: "Railroad Avenue"
-housenumber: 12
+street: Railroad Avenue
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 245015196
-type: way
+type: node
 latitude: 43.21824
 longitude: -70.88041
 postcode: "03820"
 city: Dover
-street: "Central Avenue"
-housenumber: 851
+street: Central Avenue
+housenumber: "851"
 phone: ""
 opening_hours: ""
-website: "https://local.shaws.com/nh/dover/851-central-ave.html"
+website: https://local.shaws.com/nh/dover/851-central-ave.html

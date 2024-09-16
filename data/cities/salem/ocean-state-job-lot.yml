@@ -1,11 +1,11 @@
 id: 52234370
-type: way
+type: node
 latitude: 42.7693
 longitude: -71.21712
 postcode: "03079"
 city: Salem
-street: "Veterans Memorial Parkway"
-housenumber: 16
+street: Veterans Memorial Parkway
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

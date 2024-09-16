@@ -1,11 +1,11 @@
 id: 432827560
-type: way
+type: node
 latitude: 44.78178
 longitude: -71.13766
 postcode: "03579"
 city: Errol
-street: "Main Street"
-housenumber: 7
+street: Main Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

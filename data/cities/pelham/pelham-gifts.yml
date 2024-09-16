@@ -1,11 +1,11 @@
 id: 148500761
-type: way
+type: node
 latitude: 42.71625
 longitude: -71.31943
 postcode: "03076"
 city: Pelham
-street: "Bridge Street"
-housenumber: 95
+street: Bridge Street
+housenumber: "95"
 phone: ""
 opening_hours: ""
-website: "http://www.pelhamgifts.com/"
+website: http://www.pelhamgifts.com/

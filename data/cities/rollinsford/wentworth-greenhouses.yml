@@ -1,11 +1,11 @@
 id: 929055858
-type: way
+type: node
 latitude: 43.21556
 longitude: -70.86085
 postcode: "03869"
 city: Rollinsford
-street: "Rollins Road"
-housenumber: 141
-phone: "+1-603-743-4919"
+street: Rollins Road
+housenumber: "141"
+phone: +1-603-743-4919
 opening_hours: ""
-website: "https://wentworthgreenhouses.com/"
+website: https://wentworthgreenhouses.com/

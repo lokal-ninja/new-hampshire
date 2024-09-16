@@ -1,11 +1,11 @@
 id: 241059871
-type: way
+type: node
 latitude: 42.79771
 longitude: -71.53076
 postcode: "03063"
 city: Nashua
-street: "Blackstone Drive"
-housenumber: 4
+street: Blackstone Drive
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

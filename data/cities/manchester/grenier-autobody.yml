@@ -1,11 +1,11 @@
 id: 99213046
-type: way
+type: node
 latitude: 42.94026
 longitude: -71.42283
 postcode: "03103"
 city: Manchester
-street: "South Willow Street"
-housenumber: 8050
+street: South Willow Street
+housenumber: "8050"
 phone: ""
 opening_hours: ""
-website: "https://www.grenierautobody.com/"
+website: https://www.grenierautobody.com/

@@ -1,11 +1,11 @@
 id: 506717604
-type: way
+type: node
 latitude: 43.17672
 longitude: -72.09811
 postcode: "03280"
 city: Washington
-street: "North Main Street"
-housenumber: 29
+street: North Main Street
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

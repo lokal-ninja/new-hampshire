@@ -4,8 +4,8 @@ latitude: 42.95223
 longitude: -70.83221
 postcode: "03842"
 city: Hampton
-street: "Lafayette Road"
-housenumber: 845
-phone: "+1-603-926-5950"
+street: Lafayette Road
+housenumber: "845"
+phone: +1-603-926-5950
 opening_hours: ""
-website: "https://www.hamptonnaturalfoods.com/"
+website: https://www.hamptonnaturalfoods.com/

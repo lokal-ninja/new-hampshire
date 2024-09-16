@@ -4,8 +4,8 @@ latitude: 43.70139
 longitude: -72.28916
 postcode: "03755"
 city: Hanover
-street: "South Main Street"
-housenumber: 34
-phone: "+1-603-643-3143"
-opening_hours: "Mo-Sa 11:00-17:00"
-website: "https://hanoverstrings.com/"
+street: South Main Street
+housenumber: "34"
+phone: +1-603-643-3143
+opening_hours: Mo-Sa 11:00-17:00
+website: https://hanoverstrings.com/

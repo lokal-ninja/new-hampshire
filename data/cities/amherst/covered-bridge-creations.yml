@@ -1,11 +1,11 @@
 id: 241059739
-type: way
+type: node
 latitude: 42.8048
 longitude: -71.5641
 postcode: "03031"
 city: Amherst
-street: "State Route 101A"
-housenumber: 141
+street: State Route 101A
+housenumber: "141"
 phone: ""
 opening_hours: ""
-website: "https://coveredbridgeyarns.tripod.com/"
+website: https://coveredbridgeyarns.tripod.com/

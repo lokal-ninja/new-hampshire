@@ -1,11 +1,11 @@
 id: 41741729
-type: way
+type: node
 latitude: 42.7702
 longitude: -71.23208
 postcode: ""
 city: Salem
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.simon.com/mall/the-mall-at-rockingham-park"
+website: https://www.simon.com/mall/the-mall-at-rockingham-park

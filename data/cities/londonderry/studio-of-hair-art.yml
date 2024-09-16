@@ -1,11 +1,11 @@
 id: 87015049
-type: way
+type: node
 latitude: 42.86143
 longitude: -71.39343
 postcode: "03053"
 city: Londonderry
-street: "High Range Road"
-housenumber: 126
+street: High Range Road
+housenumber: "126"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.67586
 longitude: -72.27386
 postcode: "03756"
 city: Lebanon
-street: "Medical Center Drive"
-housenumber: 1
-phone: "+1-603-650-7061"
-opening_hours: "Mo-Fr 08:30-17:00; Sa,Su 11:00-14:00"
-website: "https://www.dartmouth-hitchcock.org/at-hospital/flowers-gifts-conveniences.html"
+street: Medical Center Drive
+housenumber: "1"
+phone: +1-603-650-7061
+opening_hours: Mo-Fr 08:30-17:00; Sa,Su 11:00-14:00
+website: https://www.dartmouth-hitchcock.org/at-hospital/flowers-gifts-conveniences.html

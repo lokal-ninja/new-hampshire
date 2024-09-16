@@ -1,11 +1,11 @@
 id: 75728331
-type: way
+type: node
 latitude: 42.73125
 longitude: -71.44504
 postcode: "03060"
 city: Nashua
-street: "South Main Street"
-housenumber: 590
+street: South Main Street
+housenumber: "590"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 241059948
-type: way
+type: node
 latitude: 42.80273
 longitude: -71.54269
 postcode: "03063"
 city: Nashua
-street: "Amherst Street"
-housenumber: 650
+street: Amherst Street
+housenumber: "650"
 phone: ""
 opening_hours: ""
-website: "http://www.supertan.org/"
+website: http://www.supertan.org/

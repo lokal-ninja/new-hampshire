@@ -1,11 +1,11 @@
 id: 146701673
-type: way
+type: node
 latitude: 42.78239
 longitude: -71.5041
 postcode: "03063"
 city: Nashua
-street: "Amherst Street"
-housenumber: 350
+street: Amherst Street
+housenumber: "350"
 phone: ""
 opening_hours: ""
-website: "http://www.ktcleaners.com/"
+website: http://www.ktcleaners.com/

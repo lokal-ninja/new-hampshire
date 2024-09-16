@@ -1,11 +1,11 @@
 id: 254601366
-type: way
+type: node
 latitude: 42.76225
 longitude: -71.50532
 postcode: "03063"
 city: Nashua
-street: "Broad Street"
-housenumber: 292
-phone: "+1-603-882-5318"
+street: Broad Street
+housenumber: "292"
+phone: +1-603-882-5318
 opening_hours: ""
 website: ""

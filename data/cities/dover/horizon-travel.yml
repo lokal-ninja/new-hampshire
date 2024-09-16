@@ -1,11 +1,11 @@
 id: 195507322
-type: way
+type: node
 latitude: 43.19295
 longitude: -70.87325
 postcode: "03820"
 city: Dover
-street: "Central Avenue"
-housenumber: 263
+street: Central Avenue
+housenumber: "263"
 phone: ""
 opening_hours: ""
-website: "http://www.horizon-utrav.com/"
+website: http://www.horizon-utrav.com/

@@ -1,11 +1,11 @@
 id: 58614897
-type: way
+type: node
 latitude: 42.76673
 longitude: -71.43984
 postcode: "03051"
 city: Hudson
-street: "Derry Street"
-housenumber: 15
+street: Derry Street
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.showtimepc.com/"
+website: https://www.showtimepc.com/

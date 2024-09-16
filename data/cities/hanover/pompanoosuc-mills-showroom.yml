@@ -4,8 +4,8 @@ latitude: 43.70065
 longitude: -72.28866
 postcode: "03755"
 city: Hanover
-street: "Lebanon Street"
-housenumber: 3
-phone: "+1-603-643-1530"
-opening_hours: "Mo-Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.pompy.com/"
+street: Lebanon Street
+housenumber: "3"
+phone: +1-603-643-1530
+opening_hours: Mo-Sa 10:00-18:00; Su 11:00-17:00
+website: https://www.pompy.com/

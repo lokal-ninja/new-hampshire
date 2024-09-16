@@ -1,11 +1,11 @@
 id: 151559881
-type: way
+type: node
 latitude: 42.91475
 longitude: -71.39668
 postcode: "03053"
 city: Londonderry
-street: "Mammoth Road"
-housenumber: 501
+street: Mammoth Road
+housenumber: "501"
 phone: ""
 opening_hours: ""
 website: ""

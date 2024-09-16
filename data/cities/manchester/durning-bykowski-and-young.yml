@@ -1,11 +1,11 @@
 id: 1024265331
-type: way
+type: node
 latitude: 42.99008
 longitude: -71.45572
 postcode: "03103"
 city: Manchester
-street: "Manchester Street"
-housenumber: 285
+street: Manchester Street
+housenumber: "285"
 phone: ""
 opening_hours: ""
-website: "https://www.durningbykowskiandyoung.com/"
+website: https://www.durningbykowskiandyoung.com/

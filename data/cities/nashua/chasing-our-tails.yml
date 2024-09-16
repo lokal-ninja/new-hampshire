@@ -1,11 +1,11 @@
 id: 161930787
-type: way
+type: node
 latitude: 42.71059
 longitude: -71.44406
 postcode: "03060"
 city: Nashua
-street: "Spit Brook Road"
-housenumber: 8
-phone: "+1-603-809-4061"
+street: Spit Brook Road
+housenumber: "8"
+phone: +1-603-809-4061
 opening_hours: ""
-website: "https://chasingourtails.com/"
+website: https://chasingourtails.com/

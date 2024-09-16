@@ -1,11 +1,11 @@
 id: 82642701
-type: way
+type: node
 latitude: 42.76209
 longitude: -71.44808
 postcode: "03060"
 city: Nashua
-street: "East Hollis Street"
-housenumber: 144
+street: East Hollis Street
+housenumber: "144"
 phone: ""
 opening_hours: ""
 website: ""

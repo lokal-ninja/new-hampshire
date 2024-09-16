@@ -1,11 +1,11 @@
 id: 271373310
-type: way
+type: node
 latitude: 42.97858
 longitude: -71.12082
 postcode: "03044"
 city: Fremont
-street: "Main Street"
-housenumber: 572
+street: Main Street
+housenumber: "572"
 phone: ""
 opening_hours: ""
-website: "http://www.evenflowauto.net/"
+website: http://www.evenflowauto.net/

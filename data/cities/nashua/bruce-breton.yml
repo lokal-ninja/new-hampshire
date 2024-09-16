@@ -1,11 +1,11 @@
 id: 241059729
-type: way
+type: node
 latitude: 42.78789
 longitude: -71.51314
 postcode: "03063"
 city: Nashua
-street: "Amherst Street"
-housenumber: 427
+street: Amherst Street
+housenumber: "427"
 phone: ""
 opening_hours: ""
-website: "http://www.brucebretoncoin.com/"
+website: http://www.brucebretoncoin.com/

@@ -1,11 +1,11 @@
 id: 56721953
-type: way
+type: node
 latitude: 42.74796
 longitude: -71.42563
 postcode: "03051"
 city: Hudson
-street: "Lowell Road"
-housenumber: 134
+street: Lowell Road
+housenumber: "134"
 phone: ""
 opening_hours: ""
-website: "https://www.sullivantire.com/"
+website: https://www.sullivantire.com/

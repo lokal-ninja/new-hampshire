@@ -1,11 +1,11 @@
 id: 207800823
-type: way
+type: node
 latitude: 42.98764
 longitude: -71.41775
 postcode: "03104"
 city: Manchester
-street: "Hanover Street"
-housenumber: 1104
+street: Hanover Street
+housenumber: "1104"
 phone: ""
 opening_hours: ""
 website: ""

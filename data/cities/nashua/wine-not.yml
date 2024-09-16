@@ -1,11 +1,11 @@
 id: 180643870
-type: way
+type: node
 latitude: 42.75909
 longitude: -71.46522
 postcode: "03060"
 city: Nashua
-street: "Main Street"
-housenumber: 221
-phone: "+1-603-204-5569"
-opening_hours: "Tu-Sa 11:00-18:00; We 11:00-20:00"
-website: "http://www.winenotboutique.com/"
+street: Main Street
+housenumber: "221"
+phone: +1-603-204-5569
+opening_hours: Tu-Sa 11:00-18:00; We 11:00-20:00
+website: http://www.winenotboutique.com/

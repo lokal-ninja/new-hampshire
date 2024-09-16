@@ -1,11 +1,11 @@
 id: 226332308
-type: way
+type: node
 latitude: 42.77452
 longitude: -71.4878
 postcode: "03064"
 city: Nashua
-street: "Amherst Street"
-housenumber: 165
+street: Amherst Street
+housenumber: "165"
 phone: ""
 opening_hours: ""
-website: "http://www.topiaryflorist.com/"
+website: http://www.topiaryflorist.com/

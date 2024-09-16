@@ -1,11 +1,11 @@
 id: 178845134
-type: way
+type: node
 latitude: 42.73867
 longitude: -71.48987
 postcode: "03062"
 city: Nashua
-street: "Pittsburgh Avenue"
-housenumber: 2
+street: Pittsburgh Avenue
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "http://www.perfectpartylinen.com/"
+website: http://www.perfectpartylinen.com/

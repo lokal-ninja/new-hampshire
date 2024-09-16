@@ -1,11 +1,11 @@
 id: 54057630
-type: way
+type: node
 latitude: 42.75843
 longitude: -71.43135
 postcode: "03051"
 city: Hudson
-street: "Lowell Road"
-housenumber: 36
+street: Lowell Road
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

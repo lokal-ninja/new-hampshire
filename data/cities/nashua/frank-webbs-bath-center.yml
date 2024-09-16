@@ -1,11 +1,11 @@
 id: 163893417
-type: way
+type: node
 latitude: 42.74953
 longitude: -71.49451
 postcode: "03062"
 city: Nashua
-street: "Redmond Street"
-housenumber: 7
+street: Redmond Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://frankwebb.com/"
+website: https://frankwebb.com/

@@ -1,11 +1,11 @@
 id: 1229842968
-type: way
+type: node
 latitude: 43.18116
 longitude: -70.90093
 postcode: "03820"
 city: Dover
-street: "Sumner Drive"
-housenumber: 28
+street: Sumner Drive
+housenumber: "28"
 phone: ""
 opening_hours: ""
-website: "https://dupontservicecenter.com/"
+website: https://dupontservicecenter.com/

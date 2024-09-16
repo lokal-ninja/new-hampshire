@@ -1,11 +1,11 @@
 id: 245015189
-type: way
+type: node
 latitude: 43.20683
 longitude: -70.87477
 postcode: "03820"
 city: Dover
-street: "Central Avenue"
-housenumber: 679
+street: Central Avenue
+housenumber: "679"
 phone: ""
 opening_hours: ""
-website: "https://www.riteaid.com/"
+website: https://www.riteaid.com/

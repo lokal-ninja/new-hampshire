@@ -1,11 +1,11 @@
 id: 296568364
-type: way
+type: node
 latitude: 42.87615
 longitude: -71.30004
 postcode: "03038"
 city: Derry
-street: "Rockingham Road"
-housenumber: 127
+street: Rockingham Road
+housenumber: "127"
 phone: ""
 opening_hours: ""
-website: "http://venusavani.com/"
+website: http://venusavani.com/

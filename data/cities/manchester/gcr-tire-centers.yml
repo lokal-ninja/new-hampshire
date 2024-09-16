@@ -1,11 +1,11 @@
 id: 207690432
-type: way
+type: node
 latitude: 42.97657
 longitude: -71.40809
 postcode: "03109"
 city: Manchester
-street: "East Industrial Park Drive"
-housenumber: 459
+street: East Industrial Park Drive
+housenumber: "459"
 phone: ""
 opening_hours: ""
-website: "https://www.gcrtires.com/"
+website: https://www.gcrtires.com/

@@ -1,11 +1,11 @@
 id: 1230018420
-type: way
+type: node
 latitude: 43.07126
 longitude: -70.77224
 postcode: "03801"
 city: Portsmouth
-street: "Bartlett Street"
-housenumber: 105
+street: Bartlett Street
+housenumber: "105"
 phone: ""
 opening_hours: ""
-website: "https://www.riccilumber.com/"
+website: https://www.riccilumber.com/

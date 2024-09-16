@@ -1,11 +1,11 @@
 id: 296728190
-type: way
+type: node
 latitude: 42.89112
 longitude: -71.13962
 postcode: "03826"
 city: East Hampstead
-street: "Colby Corner"
-housenumber: 19
+street: Colby Corner
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "http://www.windhamjewelersinc.com/"
+website: http://www.windhamjewelersinc.com/

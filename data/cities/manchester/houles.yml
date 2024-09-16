@@ -4,8 +4,8 @@ latitude: 42.99159
 longitude: -71.46343
 postcode: "03101"
 city: Manchester
-street: "Stark Street"
-housenumber: 5
+street: Stark Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

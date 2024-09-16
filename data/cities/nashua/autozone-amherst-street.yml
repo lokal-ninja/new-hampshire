@@ -1,11 +1,11 @@
 id: 431798745
-type: way
+type: node
 latitude: 42.78085
 longitude: -71.49972
 postcode: "03063"
 city: Nashua
-street: "Amherst Street"
-housenumber: 313
-phone: "+1-603-594-4512"
-opening_hours: "Mo-Sa 07:30-20:00; Su 08:30-19:00"
-website: "https://www.autozone.com/locations/nh/nashua/313-amherst-st.html"
+street: Amherst Street
+housenumber: "313"
+phone: +1-603-594-4512
+opening_hours: Mo-Sa 07:30-20:00; Su 08:30-19:00
+website: https://www.autozone.com/locations/nh/nashua/313-amherst-st.html

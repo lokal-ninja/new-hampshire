@@ -1,11 +1,11 @@
 id: 238915053
-type: way
+type: node
 latitude: 42.74734
 longitude: -71.45956
 postcode: "03060"
 city: Nashua
-street: "Main Street"
-housenumber: 358
+street: Main Street
+housenumber: "358"
 phone: ""
 opening_hours: ""
 website: ""

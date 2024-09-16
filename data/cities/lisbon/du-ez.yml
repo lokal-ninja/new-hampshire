@@ -1,11 +1,11 @@
 id: 1197713730
-type: way
+type: node
 latitude: 44.21452
 longitude: -71.90824
 postcode: "03585"
 city: Lisbon
-street: "Main"
-housenumber: 
+street: Main
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 179913142
-type: way
+type: node
 latitude: 42.7624
 longitude: -71.46658
 postcode: "03060"
 city: Nashua
-street: "Water Street"
-housenumber: 5
+street: Water Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

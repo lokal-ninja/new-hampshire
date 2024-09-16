@@ -1,11 +1,11 @@
 id: 170827474
-type: way
+type: node
 latitude: 42.88176
 longitude: -71.32419
 postcode: "03038"
 city: Derry
-street: "East Broadway"
-housenumber: 49
+street: East Broadway
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-20:00"
-website: "https://lineagevapors.com/"
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-20:00
+website: https://lineagevapors.com/

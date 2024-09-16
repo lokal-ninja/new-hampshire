@@ -1,11 +1,11 @@
 id: 169669292
-type: way
+type: node
 latitude: 42.76509
 longitude: -71.46464
 postcode: "03064"
 city: Nashua
-street: "Lowell Street"
-housenumber: 46
-phone: "+1-603-883-1030"
+street: Lowell Street
+housenumber: "46"
+phone: +1-603-883-1030
 opening_hours: ""
 website: ""

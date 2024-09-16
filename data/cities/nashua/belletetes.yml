@@ -1,11 +1,11 @@
 id: 179784494
-type: way
+type: node
 latitude: 42.7365
 longitude: -71.48684
 postcode: "03062"
 city: Nashua
-street: "Northeastern Boulevard"
-housenumber: 80
+street: Northeastern Boulevard
+housenumber: "80"
 phone: ""
 opening_hours: ""
-website: "https://www.belletetes.com/"
+website: https://www.belletetes.com/

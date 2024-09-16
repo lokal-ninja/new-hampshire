@@ -1,11 +1,11 @@
 id: 159433546
-type: way
+type: node
 latitude: 42.86319
 longitude: -71.35317
 postcode: "03053"
 city: Londonderry
-street: "Orchard View Drive"
-housenumber: 4
+street: Orchard View Drive
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "http://www.countrysideflorist.com/"
+website: http://www.countrysideflorist.com/

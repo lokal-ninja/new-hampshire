@@ -1,11 +1,11 @@
 id: 224192197
-type: way
+type: node
 latitude: 42.8148
 longitude: -71.59629
 postcode: "03031"
 city: Amherst
-street: "State Route 101A"
-housenumber: 42
+street: State Route 101A
+housenumber: "42"
 phone: ""
 opening_hours: ""
-website: "https://earthwardnatural.com/"
+website: https://earthwardnatural.com/

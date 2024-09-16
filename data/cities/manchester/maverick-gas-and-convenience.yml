@@ -1,11 +1,11 @@
 id: 1047455201
-type: way
+type: node
 latitude: 42.9741
 longitude: -71.45772
 postcode: "03103"
 city: Manchester
-street: "Willow Street"
-housenumber: 9
+street: Willow Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

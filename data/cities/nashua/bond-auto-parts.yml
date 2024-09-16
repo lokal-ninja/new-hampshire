@@ -1,11 +1,11 @@
 id: 254454029
-type: way
+type: node
 latitude: 42.74013
 longitude: -71.49527
 postcode: "03062"
 city: Nashua
-street: "Northeastern Boulevard"
-housenumber: 130
+street: Northeastern Boulevard
+housenumber: "130"
 phone: ""
 opening_hours: ""
-website: "https://www.bondauto.com/"
+website: https://www.bondauto.com/

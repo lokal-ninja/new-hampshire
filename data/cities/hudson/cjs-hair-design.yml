@@ -1,11 +1,11 @@
 id: 204526251
-type: way
+type: node
 latitude: 42.77355
 longitude: -71.44536
 postcode: "03051"
 city: Hudson
-street: "Derry Street"
-housenumber: 76
-phone: "+1-603-889-5582"
+street: Derry Street
+housenumber: "76"
+phone: +1-603-889-5582
 opening_hours: ""
 website: ""

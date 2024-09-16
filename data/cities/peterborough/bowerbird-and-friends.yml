@@ -4,8 +4,8 @@ latitude: 42.87581
 longitude: -71.94963
 postcode: "03458"
 city: Peterborough
-street: "Depot Street"
-housenumber: 16
+street: Depot Street
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 10:00-17:30"
-website: "https://www.bowerbirdfriends.com/"
+opening_hours: Mo-Sa 10:00-17:30
+website: https://www.bowerbirdfriends.com/

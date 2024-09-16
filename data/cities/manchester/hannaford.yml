@@ -1,11 +1,11 @@
 id: 85931746
-type: way
+type: node
 latitude: 42.9573
 longitude: -71.44235
 postcode: "03103"
 city: Manchester
-street: "John E. Devine Drive"
-housenumber: 201
-phone: "+1 603-626-4567"
-opening_hours: "Su 07:00-22:00; Mo-Sa 06:00-23:00"
-website: "https://stores.hannaford.com/nh/manchester/8164"
+street: John E. Devine Drive
+housenumber: "201"
+phone: +1 603-626-4567
+opening_hours: Su 07:00-22:00; Mo-Sa 06:00-23:00
+website: https://stores.hannaford.com/nh/manchester/8164

@@ -1,11 +1,11 @@
 id: 1237346708
-type: way
+type: node
 latitude: 43.54873
 longitude: -71.46781
 postcode: "03246"
 city: Laconia
-street: "Franklin Street"
-housenumber: 42
+street: Franklin Street
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 232954457
-type: way
+type: node
 latitude: 42.76961
 longitude: -71.48038
 postcode: "03064"
 city: Nashua
-street: "Broad Street"
-housenumber: 10
-phone: "+1-603-897-9451"
+street: Broad Street
+housenumber: "10"
+phone: +1-603-897-9451
 opening_hours: ""
-website: "https://www.janettelopezhairsalon.com/"
+website: https://www.janettelopezhairsalon.com/

@@ -1,11 +1,11 @@
 id: 432583027
-type: way
+type: node
 latitude: 42.70998
 longitude: -71.44327
 postcode: "03060"
 city: Nashua
-street: "Spit Brook Road"
-housenumber: 15
-phone: "+1-603-891-2122"
-opening_hours: "Mo-Sa 10:00-18:00; Th,Fr 10:00-20:00; Su 10:00-16:00"
-website: "https://www.2guyscigars.com/"
+street: Spit Brook Road
+housenumber: "15"
+phone: +1-603-891-2122
+opening_hours: Mo-Sa 10:00-18:00; Th,Fr 10:00-20:00; Su 10:00-16:00
+website: https://www.2guyscigars.com/

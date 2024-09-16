@@ -1,11 +1,11 @@
 id: 580053419
-type: way
+type: node
 latitude: 42.80455
 longitude: -71.54171
 postcode: "03063"
 city: Nashua
-street: "Amherst Street"
-housenumber: 637
-phone: "+1-888-351-1711"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-16:00"
-website: "https://www.nashuausedcarsuperstore.com/"
+street: Amherst Street
+housenumber: "637"
+phone: +1-888-351-1711
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-16:00
+website: https://www.nashuausedcarsuperstore.com/

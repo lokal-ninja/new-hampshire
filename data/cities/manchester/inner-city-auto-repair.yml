@@ -1,11 +1,11 @@
 id: 1046226319
-type: way
+type: node
 latitude: 42.98602
 longitude: -71.46363
 postcode: "03101"
 city: Manchester
-street: "Elm Street"
-housenumber: 560
-phone: "+1-603-623-0099"
+street: Elm Street
+housenumber: "560"
+phone: +1-603-623-0099
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 244779973
-type: way
+type: node
 latitude: 42.98575
 longitude: -70.93526
 postcode: "03833"
 city: Exeter
-street: "Portsmouth Avenue"
-housenumber: 75
-phone: "+1-603-583-5460"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 09:00-17:00"
-website: "https://salons.greatclips.com/us/nh/exeter/75-portsmouth-ave"
+street: Portsmouth Avenue
+housenumber: "75"
+phone: +1-603-583-5460
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 09:00-17:00
+website: https://salons.greatclips.com/us/nh/exeter/75-portsmouth-ave

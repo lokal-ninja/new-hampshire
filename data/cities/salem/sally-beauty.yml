@@ -1,11 +1,11 @@
 id: 164269134
-type: way
+type: node
 latitude: 42.76358
 longitude: -71.21359
 postcode: "03079"
 city: Salem
-street: "South Broadway"
-housenumber: 215
+street: South Broadway
+housenumber: "215"
 phone: ""
 opening_hours: ""
-website: "https://www.sallybeauty.com/"
+website: https://www.sallybeauty.com/

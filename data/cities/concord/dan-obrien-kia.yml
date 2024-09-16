@@ -1,11 +1,11 @@
 id: 833924744
-type: way
+type: node
 latitude: 43.18744
 longitude: -71.50035
 postcode: ""
 city: Concord
-street: "Manchester Street"
-housenumber: 158
+street: Manchester Street
+housenumber: "158"
 phone: ""
-opening_hours: "08:00-20:00"
+opening_hours: 08:00-20:00
 website: ""

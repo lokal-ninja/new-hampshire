@@ -1,11 +1,11 @@
 id: 357297598
-type: way
+type: node
 latitude: 44.30904
 longitude: -71.79729
 postcode: "03561"
 city: Littleton
-street: "Dells Road"
-housenumber: 247
-phone: "+1-603-444-4193"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.walgreens.com/locator/walgreens-274+dells+rd-littleton-nh-03561/id=10410"
+street: Dells Road
+housenumber: "247"
+phone: +1-603-444-4193
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.walgreens.com/locator/walgreens-274+dells+rd-littleton-nh-03561/id=10410

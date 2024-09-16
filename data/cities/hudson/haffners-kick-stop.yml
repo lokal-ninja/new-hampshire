@@ -1,11 +1,11 @@
 id: 28930957
-type: way
+type: node
 latitude: 42.73322
 longitude: -71.4259
 postcode: "03051"
 city: Hudson
-street: "Lowell Road"
-housenumber: 215
-phone: "+1 603 595 2410"
-opening_hours: "24/7"
-website: "https://haffnersoil.com/"
+street: Lowell Road
+housenumber: "215"
+phone: +1 603 595 2410
+opening_hours: 24/7
+website: https://haffnersoil.com/

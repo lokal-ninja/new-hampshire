@@ -1,11 +1,11 @@
 id: 195507329
-type: way
+type: node
 latitude: 43.19509
 longitude: -70.87504
 postcode: "03820"
 city: Dover
-street: "Washington Street"
-housenumber: 85
+street: Washington Street
+housenumber: "85"
 phone: ""
 opening_hours: ""
-website: "https://www.officeinteriorsltd.com/"
+website: https://www.officeinteriorsltd.com/

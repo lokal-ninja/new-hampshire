@@ -1,11 +1,11 @@
 id: 1240049063
-type: way
+type: node
 latitude: 42.9856
 longitude: -70.93599
 postcode: "03833"
 city: Exeter
-street: "Portsmouth Avenue"
-housenumber: 75
-phone: "+1-603-772-0396"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 10:00-15:00"
-website: "http://www.gnfloorbydesign.com/"
+street: Portsmouth Avenue
+housenumber: "75"
+phone: +1-603-772-0396
+opening_hours: Mo-Fr 09:00-17:00; Sa 10:00-15:00
+website: http://www.gnfloorbydesign.com/

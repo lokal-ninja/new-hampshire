@@ -1,11 +1,11 @@
 id: 1117420932
-type: way
+type: node
 latitude: 43.26494
 longitude: -70.90987
 postcode: "03878"
 city: Somersworth
-street: "Whitehouse Road"
-housenumber: 115
-phone: "+1-855-268-2867"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-17:30"
+street: Whitehouse Road
+housenumber: "115"
+phone: +1-855-268-2867
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:00-17:30
 website: ""

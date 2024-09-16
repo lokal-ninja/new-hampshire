@@ -1,11 +1,11 @@
 id: 145221259
-type: way
+type: node
 latitude: 42.72644
 longitude: -71.31991
 postcode: "03076"
 city: Pelham
-street: "Bridge Street"
-housenumber: 151
+street: Bridge Street
+housenumber: "151"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-151+bridge+st-pelham-nh-03076/id=12352"
+website: https://www.walgreens.com/locator/walgreens-151+bridge+st-pelham-nh-03076/id=12352

@@ -4,8 +4,8 @@ latitude: 42.98203
 longitude: -70.94837
 postcode: "03833"
 city: Exeter
-street: "Water Street"
-housenumber: 179
-phone: "+1-603-772-3156"
-opening_hours: "Mo-Sa 10:00-17:00"
-website: "http://www.georgeandphillips.com/"
+street: Water Street
+housenumber: "179"
+phone: +1-603-772-3156
+opening_hours: Mo-Sa 10:00-17:00
+website: http://www.georgeandphillips.com/

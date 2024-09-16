@@ -1,11 +1,11 @@
 id: 162321509
-type: way
+type: node
 latitude: 42.74065
 longitude: -71.19416
 postcode: "03079"
 city: Salem
-street: "South Broadway"
-housenumber: 541
-phone: "+1 603-681-4218"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/"
+street: South Broadway
+housenumber: "541"
+phone: +1 603-681-4218
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/

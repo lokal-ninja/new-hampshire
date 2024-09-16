@@ -1,11 +1,11 @@
 id: 162321504
-type: way
+type: node
 latitude: 42.74296
 longitude: -71.19821
 postcode: "03079"
 city: Salem
-street: "South Broadway"
-housenumber: 517
+street: South Broadway
+housenumber: "517"
 phone: ""
 opening_hours: ""
-website: "https://www.dellaria.com/"
+website: https://www.dellaria.com/

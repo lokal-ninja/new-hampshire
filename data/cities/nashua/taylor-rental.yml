@@ -1,11 +1,11 @@
 id: 55552617
-type: way
+type: node
 latitude: 42.7278
 longitude: -71.4471
 postcode: "03060"
 city: Nashua
-street: "Daniel Webster Highway"
-housenumber: 118
-phone: "+1-603-888-1670"
-opening_hours: "Mo-Fr 08:00-17:30"
-website: "http://www.taylorrentalnashua.com/"
+street: Daniel Webster Highway
+housenumber: "118"
+phone: +1-603-888-1670
+opening_hours: Mo-Fr 08:00-17:30
+website: http://www.taylorrentalnashua.com/

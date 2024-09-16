@@ -1,11 +1,11 @@
 id: 246519883
-type: way
+type: node
 latitude: 42.7947
 longitude: -71.52769
 postcode: "03063"
 city: Nashua
-street: "Amherst Street"
-housenumber: 522
+street: Amherst Street
+housenumber: "522"
 phone: ""
 opening_hours: ""
-website: "https://www.tilegalleryusa.com/"
+website: https://www.tilegalleryusa.com/

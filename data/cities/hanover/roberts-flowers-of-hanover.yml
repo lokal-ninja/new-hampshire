@@ -4,8 +4,8 @@ latitude: 43.70095
 longitude: -72.28901
 postcode: "03755"
 city: Hanover
-street: "South Main Street"
-housenumber: 44
-phone: "+1-603-643-4343;+1-800-643-4555"
-opening_hours: "Mo-Sa 08:00-17:00"
-website: "http://robertsflowersofhanover.com"
+street: South Main Street
+housenumber: "44"
+phone: +1-603-643-4343;+1-800-643-4555
+opening_hours: Mo-Sa 08:00-17:00
+website: http://robertsflowersofhanover.com

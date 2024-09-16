@@ -1,11 +1,11 @@
 id: 224224556
-type: way
+type: node
 latitude: 42.81045
 longitude: -71.57449
 postcode: "03031"
 city: Amherst
-street: "State Route 101A"
-housenumber: 100
+street: State Route 101A
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.aamco.com/"
+website: https://www.aamco.com/

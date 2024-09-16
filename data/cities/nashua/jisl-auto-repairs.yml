@@ -1,11 +1,11 @@
 id: 226506166
-type: way
+type: node
 latitude: 42.76393
 longitude: -71.45271
 postcode: "03060"
 city: Nashua
-street: "Bridge Street"
-housenumber: 16
-phone: "+1-603-889-3336"
+street: Bridge Street
+housenumber: "16"
+phone: +1-603-889-3336
 opening_hours: ""
-website: "http://jislauto.com/"
+website: http://jislauto.com/

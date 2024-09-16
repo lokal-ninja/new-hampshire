@@ -1,11 +1,11 @@
 id: 169669293
-type: way
+type: node
 latitude: 42.76443
 longitude: -71.4621
 postcode: "03064"
 city: Nashua
-street: "Canal Street"
-housenumber: 26
+street: Canal Street
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

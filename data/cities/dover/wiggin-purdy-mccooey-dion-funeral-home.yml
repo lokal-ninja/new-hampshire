@@ -1,11 +1,11 @@
 id: 245015218
-type: way
+type: node
 latitude: 43.20576
 longitude: -70.87491
 postcode: "03820"
 city: Dover
-street: "Central Avenue"
-housenumber: 655
+street: Central Avenue
+housenumber: "655"
 phone: ""
 opening_hours: ""
-website: "https://www.purdyfuneralservice.com/"
+website: https://www.purdyfuneralservice.com/

@@ -4,8 +4,8 @@ latitude: 42.98188
 longitude: -70.94813
 postcode: "03833"
 city: Exeter
-street: "Water Street"
-housenumber: 163
-phone: "+1-603-775-7297"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-16:00"
-website: "https://www.pawspetamesbury.com/"
+street: Water Street
+housenumber: "163"
+phone: +1-603-775-7297
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-16:00
+website: https://www.pawspetamesbury.com/

@@ -1,11 +1,11 @@
 id: 140637697
-type: way
+type: node
 latitude: 43.04402
 longitude: -71.46858
 postcode: "03106"
 city: Hooksett
-street: "Market Drive"
-housenumber: 30
-phone: "+1-603-624-8126"
-opening_hours: "Mo-Sa 07:00-21:00; Su 07:00-19:00"
-website: "http://www.mydemoulas.net/locations/new-hampshire/hooksett-market-basket/"
+street: Market Drive
+housenumber: "30"
+phone: +1-603-624-8126
+opening_hours: Mo-Sa 07:00-21:00; Su 07:00-19:00
+website: http://www.mydemoulas.net/locations/new-hampshire/hooksett-market-basket/

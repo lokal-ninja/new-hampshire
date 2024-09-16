@@ -1,11 +1,11 @@
 id: 1047479312
-type: way
+type: node
 latitude: 42.97372
 longitude: -71.45701
 postcode: "03103"
 city: Manchester
-street: "Shasta Street"
-housenumber: 229
+street: Shasta Street
+housenumber: "229"
 phone: ""
 opening_hours: ""
-website: "https://ushydraulics.com/"
+website: https://ushydraulics.com/

@@ -1,11 +1,11 @@
 id: 101820085
-type: way
+type: node
 latitude: 42.80438
 longitude: -71.5474
 postcode: "03054"
 city: Merrimack
-street: "Milford Road"
-housenumber: 714
+street: Milford Road
+housenumber: "714"
 phone: ""
 opening_hours: ""
 website: ""

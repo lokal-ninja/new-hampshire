@@ -2,10 +2,10 @@ id: 8784373184
 type: node
 latitude: 42.93204
 longitude: -72.29609
-postcode: "03431-2453"
+postcode: 03431-2453
 city: Keene
-street: "West Street"
-housenumber: 478
-phone: "+1 877-473-1096"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/nh/keene/478-west-street"
+street: West Street
+housenumber: "478"
+phone: +1 877-473-1096
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/nh/keene/478-west-street

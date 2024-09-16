@@ -1,11 +1,11 @@
 id: 54928646
-type: way
+type: node
 latitude: 42.7044
 longitude: -71.44044
 postcode: "03060"
 city: Nashua
-street: "Daniel Webster Highway"
-housenumber: 286
-phone: "+1-603-888-5371"
-opening_hours: "24/7"
-website: "https://uhaul.com/"
+street: Daniel Webster Highway
+housenumber: "286"
+phone: +1-603-888-5371
+opening_hours: 24/7
+website: https://uhaul.com/

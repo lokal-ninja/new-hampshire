@@ -1,11 +1,11 @@
 id: 83530485
-type: way
+type: node
 latitude: 43.03839
 longitude: -71.43293
 postcode: "03106"
 city: Hooksett
-street: "Hooksett Road"
-housenumber: 1197
-phone: "+1-603-644-2111"
+street: Hooksett Road
+housenumber: "1197"
+phone: +1-603-644-2111
 opening_hours: ""
-website: "https://www.goodalesbikeshop.com/"
+website: https://www.goodalesbikeshop.com/

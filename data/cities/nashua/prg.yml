@@ -1,11 +1,11 @@
 id: 71368176
-type: way
+type: node
 latitude: 42.75839
 longitude: -71.46471
 postcode: "03060"
 city: Nashua
-street: "Main Street"
-housenumber: 227
-phone: "+1-603-882-5604"
+street: Main Street
+housenumber: "227"
+phone: +1-603-882-5604
 opening_hours: ""
-website: "http://www.persianrugsnh.com/"
+website: http://www.persianrugsnh.com/

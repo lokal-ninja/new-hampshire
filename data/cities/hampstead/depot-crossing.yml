@@ -1,11 +1,11 @@
 id: 770762838
-type: way
+type: node
 latitude: 42.9035
 longitude: -71.21755
 postcode: "03841"
 city: Hampstead
-street: "Main Street"
-housenumber: 598
-phone: "+1-603-489-1115"
-opening_hours: "Mo-Su 6:00-10:00"
-website: "https://gas-stations.citgo.com/NH/HAMPSTEAD/03841/598-MAIN-ST"
+street: Main Street
+housenumber: "598"
+phone: +1-603-489-1115
+opening_hours: Mo-Su 6:00-10:00
+website: https://gas-stations.citgo.com/NH/HAMPSTEAD/03841/598-MAIN-ST

@@ -1,11 +1,11 @@
 id: 32326532
-type: way
+type: node
 latitude: 42.75425
 longitude: -71.43072
 postcode: "03051"
 city: Hudson
-street: "Lowell Road"
-housenumber: 71
+street: Lowell Road
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-18:00"
-website: "https://www.riteaid.com/locations/nh/hudson/71-lowell-road.html"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-18:00
+website: https://www.riteaid.com/locations/nh/hudson/71-lowell-road.html

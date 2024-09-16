@@ -4,8 +4,8 @@ latitude: 42.80517
 longitude: -71.56558
 postcode: "03031"
 city: Amherst
-street: "NH 101A"
-housenumber: 135
-phone: "+1 603 886-6727"
-opening_hours: "Mo-Tu 09:00-17:00, Th-Sa 09:00-17:00"
+street: NH 101A
+housenumber: "135"
+phone: +1 603 886-6727
+opening_hours: Mo-Tu 09:00-17:00, Th-Sa 09:00-17:00
 website: ""

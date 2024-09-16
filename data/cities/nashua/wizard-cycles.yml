@@ -1,11 +1,11 @@
 id: 244406600
-type: way
+type: node
 latitude: 42.7396
 longitude: -71.49375
 postcode: "03062"
 city: Nashua
-street: "Northeastern Boulevard"
-housenumber: 120
+street: Northeastern Boulevard
+housenumber: "120"
 phone: ""
 opening_hours: ""
-website: "https://www.streetwizetech.com/"
+website: https://www.streetwizetech.com/

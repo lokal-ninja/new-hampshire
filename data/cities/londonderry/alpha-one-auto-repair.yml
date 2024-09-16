@@ -1,11 +1,11 @@
 id: 176596025
-type: way
+type: node
 latitude: 42.87881
 longitude: -71.34318
 postcode: "03053"
 city: Londonderry
-street: "Londonderry Road"
-housenumber: 33
+street: Londonderry Road
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

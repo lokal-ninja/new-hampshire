@@ -1,11 +1,11 @@
 id: 51713872
-type: way
+type: node
 latitude: 42.72389
 longitude: -71.4244
 postcode: "03051"
 city: Hudson
-street: "Lowell Road"
-housenumber: 261
+street: Lowell Road
+housenumber: "261"
 phone: ""
 opening_hours: ""
-website: "https://www.friendlumber.com/"
+website: https://www.friendlumber.com/

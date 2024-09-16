@@ -1,11 +1,11 @@
 id: 162321497
-type: way
+type: node
 latitude: 42.74277
 longitude: -71.19843
 postcode: "03079"
 city: Salem
-street: "South Broadway"
-housenumber: 517
+street: South Broadway
+housenumber: "517"
 phone: ""
 opening_hours: ""
-website: "https://atouchofthesun.com/"
+website: https://atouchofthesun.com/

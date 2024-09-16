@@ -1,11 +1,11 @@
 id: 870539176
-type: way
+type: node
 latitude: 42.96111
 longitude: -71.44045
 postcode: "03103"
 city: Manchester
-street: "South Willow Street"
-housenumber: 1051
-phone: "+1 603-854-7012"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-19:00"
-website: "https://stores.dsw.com/usa/nh/manchester/dsw-designer-shoe-warehouse-1051-s--willow-st-.html"
+street: South Willow Street
+housenumber: "1051"
+phone: +1 603-854-7012
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-19:00
+website: https://stores.dsw.com/usa/nh/manchester/dsw-designer-shoe-warehouse-1051-s--willow-st-.html

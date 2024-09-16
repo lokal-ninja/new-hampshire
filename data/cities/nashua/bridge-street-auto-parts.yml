@@ -1,11 +1,11 @@
 id: 226506139
-type: way
+type: node
 latitude: 42.76394
 longitude: -71.45328
 postcode: "03060"
 city: Nashua
-street: "Bridge Street"
-housenumber: 6
+street: Bridge Street
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

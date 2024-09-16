@@ -1,11 +1,11 @@
 id: 69963321
-type: way
+type: node
 latitude: 42.83262
 longitude: -71.64865
 postcode: "03055"
 city: Milford
-street: "South St"
-housenumber: 172
+street: South St
+housenumber: "172"
 phone: ""
-opening_hours: "Mo-Tu 11:00-17:00;Th-Sa 11:00-17:00;Su 11:00-15:00"
-website: "http://www.consigningforgood.com/"
+opening_hours: Mo-Tu 11:00-17:00;Th-Sa 11:00-17:00;Su 11:00-15:00
+website: http://www.consigningforgood.com/

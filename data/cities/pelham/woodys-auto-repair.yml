@@ -1,11 +1,11 @@
 id: 148285088
-type: way
+type: node
 latitude: 42.73975
 longitude: -71.33197
 postcode: "03076"
 city: Pelham
-street: "Nashua Road"
-housenumber: 47
+street: Nashua Road
+housenumber: "47"
 phone: ""
 opening_hours: ""
-website: "http://woodysautorepair.com/"
+website: http://woodysautorepair.com/

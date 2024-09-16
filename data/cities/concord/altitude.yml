@@ -1,11 +1,11 @@
 id: 159094528
-type: way
+type: node
 latitude: 43.22184
 longitude: -71.48323
 postcode: "03301"
 city: Concord
-street: "Loudon Road"
-housenumber: 270
-phone: "+1-603-664-4444"
-opening_hours: "Su-Th 10:00-20:00; Fr 10:00-22:00; Sa 09:00-22:00"
-website: "https://altitudeconcord.com/"
+street: Loudon Road
+housenumber: "270"
+phone: +1-603-664-4444
+opening_hours: Su-Th 10:00-20:00; Fr 10:00-22:00; Sa 09:00-22:00
+website: https://altitudeconcord.com/

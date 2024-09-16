@@ -1,11 +1,11 @@
 id: 99219798
-type: way
+type: node
 latitude: 42.91421
 longitude: -71.38917
 postcode: "03053"
 city: Londonderry
-street: "Rockingham Road"
-housenumber: 213
-phone: "+1-603-434-5510"
+street: Rockingham Road
+housenumber: "213"
+phone: +1-603-434-5510
 opening_hours: ""
-website: "https://www.smoothskinonline.com/"
+website: https://www.smoothskinonline.com/

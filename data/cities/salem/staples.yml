@@ -4,8 +4,8 @@ latitude: 42.76803
 longitude: -71.21738
 postcode: "03079"
 city: Salem
-street: "South Broadway"
-housenumber: 167
+street: South Broadway
+housenumber: "167"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://stores.staples.com/nh/salem/167-south-broadway-suite-5"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://stores.staples.com/nh/salem/167-south-broadway-suite-5

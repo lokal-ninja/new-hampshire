@@ -1,11 +1,11 @@
 id: 99107913
-type: way
+type: node
 latitude: 42.77016
 longitude: -71.37237
 postcode: "03051"
 city: Hudson
-street: "Kimball Hill Road"
-housenumber: 131
+street: Kimball Hill Road
+housenumber: "131"
 phone: ""
 opening_hours: ""
-website: "https://www.smithfarmhudson.com/"
+website: https://www.smithfarmhudson.com/

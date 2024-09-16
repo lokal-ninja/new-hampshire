@@ -1,11 +1,11 @@
 id: 271956437
-type: way
+type: node
 latitude: 42.95465
 longitude: -71.44095
 postcode: "03103"
 city: Manchester
-street: "Kaye Street"
-housenumber: 150
-phone: "+1-603-645-5400"
+street: Kaye Street
+housenumber: "150"
+phone: +1-603-645-5400
 opening_hours: ""
-website: "https://www.samedaycomputers.com/"
+website: https://www.samedaycomputers.com/

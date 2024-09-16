@@ -1,11 +1,11 @@
 id: 884419781
-type: way
+type: node
 latitude: 43.30633
 longitude: -70.97269
 postcode: "03867"
 city: Rochester
-street: "Signal Street"
-housenumber: 17
-phone: "+1-603-335-2460"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://citytobaccobeverage.com/"
+street: Signal Street
+housenumber: "17"
+phone: +1-603-335-2460
+opening_hours: Mo-Su 07:00-21:00
+website: https://citytobaccobeverage.com/

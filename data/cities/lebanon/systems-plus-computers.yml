@@ -1,11 +1,11 @@
 id: 255569658
-type: way
+type: node
 latitude: 43.63703
 longitude: -72.2902
 postcode: "03766"
 city: Lebanon
-street: "Miracle Mile"
-housenumber: 390
-phone: "+1-603-643-5800"
-opening_hours: "Mo-Fr 08:30-17:30"
-website: "https://systemsplus.com/"
+street: Miracle Mile
+housenumber: "390"
+phone: +1-603-643-5800
+opening_hours: Mo-Fr 08:30-17:30
+website: https://systemsplus.com/

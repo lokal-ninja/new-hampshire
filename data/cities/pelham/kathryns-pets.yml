@@ -1,11 +1,11 @@
 id: 121777030
-type: way
+type: node
 latitude: 42.76922
 longitude: -71.35271
 postcode: "03076"
 city: Pelham
-street: "Keyes Hill Road"
-housenumber: 6
+street: Keyes Hill Road
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

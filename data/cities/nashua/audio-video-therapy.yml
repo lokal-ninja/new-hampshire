@@ -1,11 +1,11 @@
 id: 53435388
-type: way
+type: node
 latitude: 42.71361
 longitude: -71.44224
 postcode: "03060"
 city: Nashua
-street: "Daniel Webster Highway"
-housenumber: 216
-phone: "+1-603-888-9777"
-opening_hours: "Tu-Fr 11:00-19:00; Sa 10:00-18:00; Su 12:00-17:00"
-website: "https://www.avtherapy.net/"
+street: Daniel Webster Highway
+housenumber: "216"
+phone: +1-603-888-9777
+opening_hours: Tu-Fr 11:00-19:00; Sa 10:00-18:00; Su 12:00-17:00
+website: https://www.avtherapy.net/

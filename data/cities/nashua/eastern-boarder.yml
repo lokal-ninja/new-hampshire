@@ -1,11 +1,11 @@
 id: 159365976
-type: way
+type: node
 latitude: 42.71185
 longitude: -71.44122
 postcode: "03060"
 city: Nashua
-street: "Daniel Webster Highway"
-housenumber: 228
-phone: "+1-603-888-0722"
-opening_hours: "Mo-Fr 11:00-20:00; Sa 10:00-20:00; Su 12:00-17:00"
-website: "https://www.easternboarder.com"
+street: Daniel Webster Highway
+housenumber: "228"
+phone: +1-603-888-0722
+opening_hours: Mo-Fr 11:00-20:00; Sa 10:00-20:00; Su 12:00-17:00
+website: https://www.easternboarder.com

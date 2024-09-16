@@ -1,11 +1,11 @@
 id: 958995203
-type: way
+type: node
 latitude: 43.37733
 longitude: -72.15431
 postcode: "03773"
 city: Newport
-street: "Sunapee Street"
-housenumber: 351
+street: Sunapee Street
+housenumber: "351"
 phone: "+16038631050"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 07:00-16:00"
-website: "https://lavalleys.com/"
+opening_hours: Mo-Fr 07:00-17:00; Sa 07:00-16:00
+website: https://lavalleys.com/

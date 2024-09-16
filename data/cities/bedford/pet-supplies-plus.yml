@@ -1,11 +1,11 @@
 id: 656876478
-type: way
+type: node
 latitude: 42.95901
 longitude: -71.47878
 postcode: "03110"
 city: Bedford
-street: "South River Road"
-housenumber: 
+street: South River Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

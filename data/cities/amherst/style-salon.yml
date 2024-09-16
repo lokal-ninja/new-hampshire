@@ -1,11 +1,11 @@
 id: 224054805
-type: way
+type: node
 latitude: 42.81786
 longitude: -71.60287
 postcode: "03031"
 city: Amherst
-street: "State Route 101A"
-housenumber: 25
+street: State Route 101A
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "http://stylesalononline.com/"
+website: http://stylesalononline.com/

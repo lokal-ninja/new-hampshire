@@ -1,11 +1,11 @@
 id: 179732428
-type: way
+type: node
 latitude: 42.75915
 longitude: -71.46782
 postcode: "03060"
 city: Nashua
-street: "Walnut Street"
-housenumber: 52
+street: Walnut Street
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

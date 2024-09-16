@@ -1,11 +1,11 @@
 id: 297221832
-type: way
+type: node
 latitude: 42.92902
 longitude: -71.18711
 postcode: "03873"
 city: Sandown
-street: "Main Street"
-housenumber: 335
+street: Main Street
+housenumber: "335"
 phone: ""
 opening_hours: ""
 website: ""

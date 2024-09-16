@@ -1,11 +1,11 @@
 id: 54057633
-type: way
+type: node
 latitude: 42.75814
 longitude: -71.432
 postcode: "03051"
 city: Hudson
-street: "Lowell Road"
-housenumber: 35
+street: Lowell Road
+housenumber: "35"
 phone: ""
 opening_hours: ""
-website: "http://chasingourtails.net/"
+website: http://chasingourtails.net/

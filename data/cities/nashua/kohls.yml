@@ -1,11 +1,11 @@
 id: 135937786
-type: way
+type: node
 latitude: 42.76579
 longitude: -71.49681
 postcode: "03063"
 city: Nashua
-street: "Gusabel Avenue"
-housenumber: 21
-phone: "+1 603-889-6150"
-opening_hours: "Mo-Th 08:00-23:00; Fr 08:00-24:00; Sa 07:00-24:00; Su 08:00-22:00"
-website: "https://www.kohls.com/stores/nh/nashua-533.shtml"
+street: Gusabel Avenue
+housenumber: "21"
+phone: +1 603-889-6150
+opening_hours: Mo-Th 08:00-23:00; Fr 08:00-24:00; Sa 07:00-24:00; Su 08:00-22:00
+website: https://www.kohls.com/stores/nh/nashua-533.shtml

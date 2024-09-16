@@ -1,11 +1,11 @@
 id: 103806635
-type: way
+type: node
 latitude: 42.77916
 longitude: -71.38725
 postcode: "03051"
 city: Hudson
-street: "Industrial Drive"
-housenumber: 3
+street: Industrial Drive
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "http://www.princeracingtransmissions.com/"
+website: http://www.princeracingtransmissions.com/

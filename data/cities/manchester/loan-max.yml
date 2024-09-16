@@ -1,11 +1,11 @@
 id: 1047584918
-type: way
+type: node
 latitude: 42.97035
 longitude: -71.45373
 postcode: "03103"
 city: Manchester
-street: "South Willow Street"
-housenumber: 250
+street: South Willow Street
+housenumber: "250"
 phone: ""
 opening_hours: ""
-website: "http://www.loanmaxtitleloans.net/"
+website: http://www.loanmaxtitleloans.net/

@@ -1,11 +1,11 @@
 id: 254080383
-type: way
+type: node
 latitude: 42.8628
 longitude: -71.28758
 postcode: "03038"
 city: Derry
-street: "Rockingham Road"
-housenumber: 152
+street: Rockingham Road
+housenumber: "152"
 phone: ""
 opening_hours: ""
-website: "https://fadezbarbershop.com/"
+website: https://fadezbarbershop.com/

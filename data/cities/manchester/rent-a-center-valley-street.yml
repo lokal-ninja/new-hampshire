@@ -1,11 +1,11 @@
 id: 1042008065
-type: way
+type: node
 latitude: 42.98167
 longitude: -71.45061
 postcode: "03103"
 city: Manchester
-street: "Valley Street"
-housenumber: 490
+street: Valley Street
+housenumber: "490"
 phone: ""
 opening_hours: ""
-website: "https://www.rentacenter.com/"
+website: https://www.rentacenter.com/

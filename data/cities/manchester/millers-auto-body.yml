@@ -1,11 +1,11 @@
 id: 802137832
-type: way
+type: node
 latitude: 42.98114
 longitude: -71.47536
 postcode: "03102"
 city: Manchester
-street: "Blaine Street"
-housenumber: 221
+street: Blaine Street
+housenumber: "221"
 phone: ""
 opening_hours: ""
 website: ""

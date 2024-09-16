@@ -1,11 +1,11 @@
 id: 379029162
-type: way
+type: node
 latitude: 43.06935
 longitude: -70.94096
 postcode: "03857"
 city: Newmarket
-street: "Exeter Road"
-housenumber: 82
-phone: "+1-603-292-6401"
-opening_hours: "Mo-Fr 09:00-18:00"
+street: Exeter Road
+housenumber: "82"
+phone: +1-603-292-6401
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

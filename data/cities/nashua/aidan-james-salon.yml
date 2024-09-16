@@ -1,11 +1,11 @@
 id: 241059712
-type: way
+type: node
 latitude: 42.80006
 longitude: -71.54204
 postcode: "03063"
 city: Nashua
-street: "Northwest Boulevard"
-housenumber: 36
+street: Northwest Boulevard
+housenumber: "36"
 phone: ""
 opening_hours: ""
-website: "https://aidanjamessalon.com/"
+website: https://aidanjamessalon.com/

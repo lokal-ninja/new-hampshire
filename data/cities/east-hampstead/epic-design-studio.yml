@@ -1,11 +1,11 @@
 id: 296986209
-type: way
+type: node
 latitude: 42.89324
 longitude: -71.1445
 postcode: "03826"
 city: East Hampstead
-street: "Sandown Road"
-housenumber: 320
+street: Sandown Road
+housenumber: "320"
 phone: ""
 opening_hours: ""
-website: "https://epic-designstudio.com/"
+website: https://epic-designstudio.com/

@@ -1,11 +1,11 @@
 id: 368493158
-type: way
+type: node
 latitude: 42.93629
 longitude: -70.83803
 postcode: "03842"
 city: Hampton
-street: "Lafayette Road"
-housenumber: 293
-phone: "+1 (603) 926-5061"
-opening_hours: "Su-Tu 10:00-18:00, We-Sa 10:00-20:00"
-website: "https://huckleberryscandies.com/"
+street: Lafayette Road
+housenumber: "293"
+phone: +1 (603) 926-5061
+opening_hours: Su-Tu 10:00-18:00, We-Sa 10:00-20:00
+website: https://huckleberryscandies.com/

@@ -1,11 +1,11 @@
 id: 236156358
-type: way
+type: node
 latitude: 43.03913
 longitude: -71.43459
 postcode: "03106"
 city: Hooksett
-street: "Hooksett Road"
-housenumber: 1208
+street: Hooksett Road
+housenumber: "1208"
 phone: ""
 opening_hours: ""
-website: "http://www.gatecitycollision.com/"
+website: http://www.gatecitycollision.com/

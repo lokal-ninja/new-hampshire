@@ -1,11 +1,11 @@
 id: 409327411
-type: way
+type: node
 latitude: 42.95429
 longitude: -71.47666
 postcode: "03110"
 city: Bedford
-street: "South River Road"
-housenumber: 121
-phone: "+1 603 218 1900"
+street: South River Road
+housenumber: "121"
+phone: +1 603 218 1900
 opening_hours: ""
-website: "https://www.wholefoodsmarket.com/stores/bedfordnewhampshire"
+website: https://www.wholefoodsmarket.com/stores/bedfordnewhampshire

@@ -1,11 +1,11 @@
 id: 633511388
-type: way
+type: node
 latitude: 42.8948
 longitude: -70.8683
 postcode: "03874"
 city: Seabrook
-street: "Lafayette Road"
-housenumber: 700
-phone: "+1-603-474-1130"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: Lafayette Road
+housenumber: "700"
+phone: +1-603-474-1130
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

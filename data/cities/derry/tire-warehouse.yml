@@ -1,11 +1,11 @@
 id: 51442025
-type: way
+type: node
 latitude: 42.89936
 longitude: -71.32108
 postcode: "03038"
 city: Derry
-street: "Tsienneto Road"
-housenumber: 17
+street: Tsienneto Road
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

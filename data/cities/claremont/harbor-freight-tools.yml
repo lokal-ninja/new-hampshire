@@ -1,11 +1,11 @@
 id: 75532053
-type: way
+type: node
 latitude: 43.36758
 longitude: -72.32288
 postcode: "03743"
 city: Claremont
-street: "Washington Street"
-housenumber: 286
-phone: "+1 802-546-2700"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://go.harborfreight.com/store/harbor-freight-tools-in-claremont-nh-03743/"
+street: Washington Street
+housenumber: "286"
+phone: +1 802-546-2700
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://go.harborfreight.com/store/harbor-freight-tools-in-claremont-nh-03743/

@@ -1,11 +1,11 @@
 id: 1041986672
-type: way
+type: node
 latitude: 42.98618
 longitude: -71.44647
 postcode: "03103"
 city: Manchester
-street: "Spruce Street"
-housenumber: 391
+street: Spruce Street
+housenumber: "391"
 phone: ""
 opening_hours: ""
-website: "http://www.labowfloristandgift.com/"
+website: http://www.labowfloristandgift.com/

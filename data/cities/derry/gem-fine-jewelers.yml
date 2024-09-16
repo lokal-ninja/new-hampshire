@@ -1,11 +1,11 @@
 id: 170294451
-type: way
+type: node
 latitude: 42.88107
 longitude: -71.32607
 postcode: "03038"
 city: Derry
-street: "East Broadway"
-housenumber: 12
-phone: "+1-603-432-1920"
-opening_hours: "Tu-Fr 09:30-18:00; Sa 09:00-17:00"
-website: "https://www.gem-jewelers.com/"
+street: East Broadway
+housenumber: "12"
+phone: +1-603-432-1920
+opening_hours: Tu-Fr 09:30-18:00; Sa 09:00-17:00
+website: https://www.gem-jewelers.com/

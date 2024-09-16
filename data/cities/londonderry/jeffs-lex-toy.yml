@@ -1,11 +1,11 @@
 id: 55031357
-type: way
+type: node
 latitude: 42.90224
 longitude: -71.35076
 postcode: "03053"
 city: Londonderry
-street: "Commercial Lane"
-housenumber: 1
+street: Commercial Lane
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

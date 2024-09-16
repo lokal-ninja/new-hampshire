@@ -1,11 +1,11 @@
 id: 33724504
-type: way
+type: node
 latitude: 42.88199
 longitude: -71.32469
 postcode: "03038"
 city: Derry
-street: "East Broadway"
-housenumber: 42
-phone: "+1-603-552-3418"
+street: East Broadway
+housenumber: "42"
+phone: +1-603-552-3418
 opening_hours: ""
-website: "https://www.cashforgoldnh.com/"
+website: https://www.cashforgoldnh.com/

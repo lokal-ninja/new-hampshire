@@ -1,11 +1,11 @@
 id: 203685657
-type: way
+type: node
 latitude: 42.97395
 longitude: -71.4279
 postcode: "03109"
 city: Manchester
-street: "Mammoth Road"
-housenumber: 10
+street: Mammoth Road
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

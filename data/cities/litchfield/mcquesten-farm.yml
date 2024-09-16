@@ -1,11 +1,11 @@
 id: 32835918
-type: way
+type: node
 latitude: 42.85626
 longitude: -71.4761
 postcode: "03052"
 city: Litchfield
-street: "Charles Bancroft Highway"
-housenumber: 330
+street: Charles Bancroft Highway
+housenumber: "330"
 phone: ""
 opening_hours: ""
 website: ""

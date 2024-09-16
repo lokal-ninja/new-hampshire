@@ -1,11 +1,11 @@
 id: 328686787
-type: way
+type: node
 latitude: 44.14236
 longitude: -71.18533
 postcode: "03846"
 city: Jackson
-street: "Main Street"
-housenumber: 21
+street: Main Street
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "https://www.flossiesgeneralstore.com/"
+website: https://www.flossiesgeneralstore.com/

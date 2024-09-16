@@ -1,11 +1,11 @@
 id: 174594702
-type: way
+type: node
 latitude: 42.79225
 longitude: -71.23394
 postcode: "03079"
 city: Salem
-street: "North Broadway"
-housenumber: 236
-phone: "+1-603-458-2094"
-opening_hours: "Mo,Tu by appointment only; We,Th 12:00-17:00; Fr-Su 10:00-18:00"
-website: "https://www.pedegoelectricbikes.com/dealers/salem-nh/"
+street: North Broadway
+housenumber: "236"
+phone: +1-603-458-2094
+opening_hours: Mo,Tu "by appointment only"; We,Th 12:00-17:00; Fr-Su 10:00-18:00
+website: https://www.pedegoelectricbikes.com/dealers/salem-nh/

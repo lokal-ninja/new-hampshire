@@ -1,11 +1,11 @@
 id: 204875421
-type: way
+type: node
 latitude: 42.75135
 longitude: -71.46035
 postcode: "03060"
 city: Nashua
-street: "Main Street"
-housenumber: 300
-phone: "+1-603-595-0675"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-16:00; Su 12:00-16:00"
-website: "https://www.cosmoprofbeauty.com/"
+street: Main Street
+housenumber: "300"
+phone: +1-603-595-0675
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-16:00; Su 12:00-16:00
+website: https://www.cosmoprofbeauty.com/

@@ -1,11 +1,11 @@
 id: 245015211
-type: way
+type: node
 latitude: 43.21592
 longitude: -70.88224
 postcode: "03820"
 city: Dover
-street: "Glenwood Avenue"
-housenumber: 1
+street: Glenwood Avenue
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1+glenwood+ave-dover-nh-03820/id=10780"
+website: https://www.walgreens.com/locator/walgreens-1+glenwood+ave-dover-nh-03820/id=10780

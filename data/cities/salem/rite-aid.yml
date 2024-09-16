@@ -1,11 +1,11 @@
 id: 699527188
-type: way
+type: node
 latitude: 42.7765
 longitude: -71.22485
 postcode: "03079"
 city: Salem
-street: "South Broadway"
-housenumber: 53
+street: South Broadway
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-19:00; Su 08:00-18:00"
-website: "https://www.riteaid.com/locations/nh/salem/53-south-broadway.html"
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-19:00; Su 08:00-18:00
+website: https://www.riteaid.com/locations/nh/salem/53-south-broadway.html

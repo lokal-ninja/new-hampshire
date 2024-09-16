@@ -1,11 +1,11 @@
 id: 358573311
-type: way
+type: node
 latitude: 43.36904
 longitude: -72.37774
 postcode: "03743"
 city: Claremont
-street: "Plains Road"
-housenumber: 12
+street: Plains Road
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.thewheelhousebikes.com"
+website: https://www.thewheelhousebikes.com

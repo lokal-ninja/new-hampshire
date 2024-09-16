@@ -1,11 +1,11 @@
 id: 135663018
-type: way
+type: node
 latitude: 42.76864
 longitude: -71.42183
 postcode: "03051"
 city: Hudson
-street: "Ferry Street"
-housenumber: 153
+street: Ferry Street
+housenumber: "153"
 phone: ""
 opening_hours: ""
-website: "https://www.roysautosale.com/"
+website: https://www.roysautosale.com/

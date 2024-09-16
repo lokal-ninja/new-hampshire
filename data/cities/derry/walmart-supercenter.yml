@@ -1,11 +1,11 @@
 id: 441087199
-type: way
+type: node
 latitude: 42.90132
 longitude: -71.32549
 postcode: "03038"
 city: Derry
-street: "Ashleigh Drive"
-housenumber: 11
-phone: "+1-603-434-3589"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1753/derry-nh/whats-new"
+street: Ashleigh Drive
+housenumber: "11"
+phone: +1-603-434-3589
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1753/derry-nh/whats-new

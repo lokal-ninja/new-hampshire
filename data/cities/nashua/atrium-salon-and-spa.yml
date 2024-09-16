@@ -1,11 +1,11 @@
 id: 232531670
-type: way
+type: node
 latitude: 42.78016
 longitude: -71.49676
 postcode: "03063"
 city: Nashua
-street: "Profile Circle"
-housenumber: 0
+street: Profile Circle
+housenumber: "0"
 phone: ""
 opening_hours: ""
-website: "http://salonatrium.com/"
+website: http://salonatrium.com/

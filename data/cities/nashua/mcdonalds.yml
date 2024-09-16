@@ -1,11 +1,11 @@
 id: 180345099
-type: way
+type: node
 latitude: 42.76168
 longitude: -71.46642
 postcode: "03060"
 city: Nashua
-street: "Factory Street"
-housenumber: 7
+street: Factory Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

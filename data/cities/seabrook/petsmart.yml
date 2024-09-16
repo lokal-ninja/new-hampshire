@@ -1,11 +1,11 @@
 id: 1312602668
-type: way
+type: node
 latitude: 42.89292
 longitude: -70.8671
 postcode: "03874"
 city: Seabrook
-street: "Lafayette Road"
-housenumber: 700
-phone: "+1-603-814-3027"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/nh/seabrook-store2390.html"
+street: Lafayette Road
+housenumber: "700"
+phone: +1-603-814-3027
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/nh/seabrook-store2390.html

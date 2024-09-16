@@ -1,11 +1,11 @@
 id: 92620636
-type: way
+type: node
 latitude: 42.95918
 longitude: -71.43627
 postcode: "03103"
 city: Manchester
-street: "South Willow Street"
-housenumber: 1250
+street: South Willow Street
+housenumber: "1250"
 phone: ""
 opening_hours: ""
-website: "https://www.quirkchevynh.com/"
+website: https://www.quirkchevynh.com/

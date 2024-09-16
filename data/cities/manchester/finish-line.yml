@@ -1,11 +1,11 @@
 id: 230522145
-type: way
+type: node
 latitude: 42.95544
 longitude: -71.43334
 postcode: "03103"
 city: Manchester
-street: "South Willow Street"
-housenumber: 1500
+street: South Willow Street
+housenumber: "1500"
 phone: ""
 opening_hours: ""
-website: "https://stores.finishline.com/nh/manchester/mall-of-new-hampshire.html"
+website: https://stores.finishline.com/nh/manchester/mall-of-new-hampshire.html

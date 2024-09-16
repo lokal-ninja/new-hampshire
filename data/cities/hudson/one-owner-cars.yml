@@ -1,11 +1,11 @@
 id: 65057218
-type: way
+type: node
 latitude: 42.76713
 longitude: -71.44
 postcode: "03051"
 city: Hudson
-street: "Derry Street"
-housenumber: 19
+street: Derry Street
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://oneownercars.com/"
+website: https://oneownercars.com/

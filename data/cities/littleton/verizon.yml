@@ -4,8 +4,8 @@ latitude: 44.30433
 longitude: -71.80425
 postcode: "03561"
 city: Littleton
-street: "Meadow Street"
-housenumber: 678
-phone: "+1-603-444-0005"
-opening_hours: "Mo-Sa 09:00-18:00; Su 11:00-17:00"
-website: "https://www.verizon.com/stores/new-hampshire/littleton/wireless-zone-littleton-meadow-st-1806022/#/storeDetails"
+street: Meadow Street
+housenumber: "678"
+phone: +1-603-444-0005
+opening_hours: Mo-Sa 09:00-18:00; Su 11:00-17:00
+website: https://www.verizon.com/stores/new-hampshire/littleton/wireless-zone-littleton-meadow-st-1806022/#/storeDetails

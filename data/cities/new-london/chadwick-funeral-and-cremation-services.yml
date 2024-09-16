@@ -1,11 +1,11 @@
 id: 834055740
-type: way
+type: node
 latitude: 43.41608
 longitude: -71.98688
 postcode: "03257"
 city: New London
-street: "Main Street"
-housenumber: 235
-phone: "+1-603-526-6442"
+street: Main Street
+housenumber: "235"
+phone: +1-603-526-6442
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 221685475
-type: way
+type: node
 latitude: 43.0155
 longitude: -71.45008
 postcode: "03104"
 city: Manchester
-street: "Hooksett Road"
-housenumber: 625
+street: Hooksett Road
+housenumber: "625"
 phone: ""
 opening_hours: ""
-website: "http://www.bonnevilleson.net/"
+website: http://www.bonnevilleson.net/

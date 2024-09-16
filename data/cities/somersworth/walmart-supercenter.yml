@@ -1,11 +1,11 @@
 id: 229191444
-type: way
+type: node
 latitude: 43.23504
 longitude: -70.87814
 postcode: "03878"
 city: Somersworth
-street: "Walton's Way"
-housenumber: 59
-phone: "+1 603-692-6346"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1749/somersworth-nh/whats-new"
+street: Walton's Way
+housenumber: "59"
+phone: +1 603-692-6346
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1749/somersworth-nh/whats-new

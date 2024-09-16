@@ -4,8 +4,8 @@ latitude: 42.98165
 longitude: -70.94699
 postcode: "03833"
 city: Exeter
-street: "Water Street"
-housenumber: 121
-phone: "+1-603-778-8677"
-opening_hours: "by appointment"
-website: "https://www.theexetertailor.com/"
+street: Water Street
+housenumber: "121"
+phone: +1-603-778-8677
+opening_hours: '"by appointment"'
+website: https://www.theexetertailor.com/

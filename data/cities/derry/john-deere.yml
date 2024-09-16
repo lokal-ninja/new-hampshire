@@ -1,11 +1,11 @@
 id: 69543624
-type: way
+type: node
 latitude: 42.85136
 longitude: -71.27334
 postcode: "03038"
 city: Derry
-street: "Rockingham Road"
-housenumber: 212
+street: Rockingham Road
+housenumber: "212"
 phone: ""
 opening_hours: ""
-website: "http://rosencrantztractor.com/"
+website: http://rosencrantztractor.com/

@@ -1,11 +1,11 @@
 id: 331216687
-type: way
+type: node
 latitude: 43.9785
 longitude: -71.12454
 postcode: "03818"
 city: Conway
-street: "Main Street"
-housenumber: 145
+street: Main Street
+housenumber: "145"
 phone: ""
 opening_hours: ""
 website: ""

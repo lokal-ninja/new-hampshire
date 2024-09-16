@@ -1,11 +1,11 @@
 id: 274466640
-type: way
+type: node
 latitude: 42.99297
 longitude: -71.14552
 postcode: "03044"
 city: Fremont
-street: "Main Street"
-housenumber: 225
+street: Main Street
+housenumber: "225"
 phone: ""
 opening_hours: ""
 website: ""

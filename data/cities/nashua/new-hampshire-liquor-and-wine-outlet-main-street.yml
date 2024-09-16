@@ -1,11 +1,11 @@
 id: 204875436
-type: way
+type: node
 latitude: 42.75152
 longitude: -71.45984
 postcode: "03060"
 city: Nashua
-street: "Main Street"
-housenumber: 300
-phone: "+1-603-595-2374"
-opening_hours: "Mo-We 10:00-18:00; Th-Sa 10:00-20:00; Su 10:00-17:00"
-website: "https://www.liquorandwineoutlets.com/"
+street: Main Street
+housenumber: "300"
+phone: +1-603-595-2374
+opening_hours: Mo-We 10:00-18:00; Th-Sa 10:00-20:00; Su 10:00-17:00
+website: https://www.liquorandwineoutlets.com/

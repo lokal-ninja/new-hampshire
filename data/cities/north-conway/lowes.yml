@@ -1,11 +1,11 @@
 id: 166124034
-type: way
+type: node
 latitude: 44.01879
 longitude: -71.10962
 postcode: "03818"
 city: North Conway
-street: "Mountain Valley Boulevard"
-housenumber: 32
-phone: "+1 603-733-3036"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-19:00"
-website: "https://www.lowes.com/store/nh-north-conway/2374"
+street: Mountain Valley Boulevard
+housenumber: "32"
+phone: +1 603-733-3036
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-19:00
+website: https://www.lowes.com/store/nh-north-conway/2374

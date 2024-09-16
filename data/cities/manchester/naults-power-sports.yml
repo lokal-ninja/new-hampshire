@@ -1,11 +1,11 @@
 id: 350478790
-type: way
+type: node
 latitude: 42.97636
 longitude: -71.47346
 postcode: "03102"
 city: Manchester
-street: "Second Street"
-housenumber: 420
-phone: "+1-603-669-7220"
+street: Second Street
+housenumber: "420"
+phone: +1-603-669-7220
 opening_hours: ""
-website: "http://www.naults.com/"
+website: http://www.naults.com/

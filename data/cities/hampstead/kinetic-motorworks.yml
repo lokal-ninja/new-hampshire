@@ -1,11 +1,11 @@
 id: 1049795800
-type: way
+type: node
 latitude: 42.90457
 longitude: -71.18974
 postcode: "03841"
 city: Hampstead
-street: "Kent Farm Road"
-housenumber: 313
-phone: "+1  603 329 6083"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 10:00-15:00"
-website: "https://kineticmotorworks.com/"
+street: Kent Farm Road
+housenumber: "313"
+phone: +1  603 329 6083
+opening_hours: Mo-Fr 08:00-18:00; Sa 10:00-15:00
+website: https://kineticmotorworks.com/

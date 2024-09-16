@@ -1,11 +1,11 @@
 id: 245015144
-type: way
+type: node
 latitude: 43.19462
 longitude: -70.87519
 postcode: "03820"
 city: Dover
-street: "Central Avenue"
-housenumber: 330
+street: Central Avenue
+housenumber: "330"
 phone: ""
 opening_hours: ""
 website: ""

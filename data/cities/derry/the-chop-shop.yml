@@ -1,11 +1,11 @@
 id: 34980235
-type: way
+type: node
 latitude: 42.8768
 longitude: -71.32009
 postcode: "03038"
 city: Derry
-street: "Birch Street"
-housenumber: 47
+street: Birch Street
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

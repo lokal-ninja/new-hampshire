@@ -1,11 +1,11 @@
 id: 190539413
-type: way
+type: node
 latitude: 42.76532
 longitude: -71.46522
 postcode: "03064"
 city: Nashua
-street: "Lowell Street"
-housenumber: 34
-phone: "+1-603-882-7517"
+street: Lowell Street
+housenumber: "34"
+phone: +1-603-882-7517
 opening_hours: ""
-website: "http://www.lowellstreetautomotive.com/"
+website: http://www.lowellstreetautomotive.com/

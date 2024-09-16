@@ -1,11 +1,11 @@
 id: 200858900
-type: way
+type: node
 latitude: 43.65059
 longitude: -72.24718
 postcode: "03766"
 city: Lebanon
-street: "Evans Drive"
-housenumber: 51
-phone: "+1-888-708-6201"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://www.keynissannh.com/"
+street: Evans Drive
+housenumber: "51"
+phone: +1-888-708-6201
+opening_hours: Mo-Sa 09:00-17:00
+website: https://www.keynissannh.com/

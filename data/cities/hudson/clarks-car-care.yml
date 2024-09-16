@@ -1,11 +1,11 @@
 id: 68168123
-type: way
+type: node
 latitude: 42.81581
 longitude: -71.41563
 postcode: "03051"
 city: Hudson
-street: "Derry Road"
-housenumber: 317
+street: Derry Road
+housenumber: "317"
 phone: ""
 opening_hours: ""
 website: ""

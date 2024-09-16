@@ -1,11 +1,11 @@
 id: 171978268
-type: way
+type: node
 latitude: 42.90188
 longitude: -71.33591
 postcode: "03038"
 city: Derry
-street: "Manchester Road"
-housenumber: 35
+street: Manchester Road
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

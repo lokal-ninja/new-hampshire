@@ -4,8 +4,8 @@ latitude: 43.17941
 longitude: -70.90163
 postcode: "03820"
 city: Dover
-street: "Sumner Drive"
-housenumber: 1
+street: Sumner Drive
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://tricitylinex.com/"
+website: http://tricitylinex.com/

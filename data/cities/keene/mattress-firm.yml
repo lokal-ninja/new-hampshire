@@ -1,11 +1,11 @@
 id: 443684624
-type: way
+type: node
 latitude: 42.93547
 longitude: -72.29388
 postcode: "03431"
 city: Keene
-street: "West Street"
-housenumber: 447
-phone: "+1 603-352-2796"
+street: West Street
+housenumber: "447"
+phone: +1 603-352-2796
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/nh/keene/178008/"
+website: https://www.mattressfirm.com/en-us/stores/nh/keene/178008/

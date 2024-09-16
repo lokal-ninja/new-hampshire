@@ -1,11 +1,11 @@
 id: 1023615260
-type: way
+type: node
 latitude: 42.99052
 longitude: -71.45732
 postcode: "03104"
 city: Manchester
-street: "Hanover Street"
-housenumber: 243
+street: Hanover Street
+housenumber: "243"
 phone: ""
 opening_hours: ""
-website: "https://phaneuf.net/"
+website: https://phaneuf.net/
