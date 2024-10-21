@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /plaistow/walmart/
-shop: supermarket
+shop: department store
 ---
