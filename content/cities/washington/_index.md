@@ -1,6 +1,6 @@
 ---
 title: Washington
 url: /washington/
-latitude: 43.177
-longitude: -72.098
+latitude: 43.176
+longitude: -72.096
 ---
