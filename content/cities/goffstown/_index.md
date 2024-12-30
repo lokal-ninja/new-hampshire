@@ -1,6 +1,6 @@
 ---
 title: Goffstown
 url: /goffstown/
-latitude: 42.989
-longitude: -71.525
+latitude: 43.015
+longitude: -71.587
 ---
