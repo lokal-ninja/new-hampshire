@@ -1,6 +1,6 @@
 ---
 title: Moultonborough
 url: /moultonborough/
-latitude: 43.721
-longitude: -71.434
+latitude: 43.715
+longitude: -71.449
 ---
