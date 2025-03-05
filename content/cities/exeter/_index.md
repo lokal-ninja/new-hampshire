@@ -1,6 +1,6 @@
 ---
 title: Exeter
 url: /exeter/
-latitude: 42.994
-longitude: -70.972
+latitude: 42.989
+longitude: -70.966
 ---
