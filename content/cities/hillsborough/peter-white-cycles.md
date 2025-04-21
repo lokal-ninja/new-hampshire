@@ -1,5 +1,5 @@
 ---
 title: "Peter White Cycles"
-url: /hillsborough-nh-03244/peter-white-cycles/
+url: /hillsborough/peter-white-cycles/
 shop: bicycle
 ---
