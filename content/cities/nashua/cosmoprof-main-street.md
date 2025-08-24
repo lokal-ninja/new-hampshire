@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
-url: /nashua/cosmoprof-amherst-street/
+url: /nashua/cosmoprof-main-street/
 shop: hairdresser supply
 ---
