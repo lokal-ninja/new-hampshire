@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /nashua/target-daniel-webster-highway/
+url: /nashua/target-amherst-street/
 shop: department store
 ---
