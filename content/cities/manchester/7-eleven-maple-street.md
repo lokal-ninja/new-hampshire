@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /londonderry/7-eleven-nashua-road/
+url: /manchester/7-eleven-maple-street/
 shop: convenience
 ---
