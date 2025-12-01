@@ -7,6 +7,5 @@ city: Hudson
 street: Pine Rd Unit E
 housenumber: "67"
 phone: +1 978-291-5906
-opening_hours: 'Monday To Friday : 8:30 am–4:30 pm,Saturday: 9:00 am–2:00 pm, Sunday:
-    Closed'
+opening_hours: Mo-Fr 08:30-16:30, Sa 09:00-14:00; Su off
 website: ""
