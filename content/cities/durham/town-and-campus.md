@@ -1,5 +1,5 @@
 ---
-title: "Town and Campus"
+title: "Town & Campus"
 url: /durham/town-and-campus/
 shop: gift
 ---
