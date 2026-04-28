@@ -1,6 +1,6 @@
 ---
 title: Meredith
 url: /meredith/
-latitude: 43.66
-longitude: -71.498
+latitude: 43.658
+longitude: -71.5
 ---
