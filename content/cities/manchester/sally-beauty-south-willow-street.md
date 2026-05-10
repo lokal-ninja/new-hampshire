@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
-url: /manchester/sally-beauty-march-avenue/
+url: /manchester/sally-beauty-south-willow-street/
 shop: hairdresser supply
 ---
