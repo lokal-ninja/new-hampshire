@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
-url: /nashua/jiffy-lube-east-hollis-street/
+url: /nashua/jiffy-lube-amherst-street/
 shop: car repair
 ---
