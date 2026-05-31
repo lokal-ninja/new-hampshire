@@ -1,5 +1,5 @@
 ---
 title: "Hair Cuttery"
-url: /nashua/hair-cuttery-spit-brook-road/
+url: /nashua/hair-cuttery-cellu-drive/
 shop: hairdresser
 ---
