@@ -1,5 +1,5 @@
 ---
 title: "Nouria"
-url: /nashua/nouria-west-hollis-street/
+url: /nashua/nouria-harris-road/
 shop: convenience
 ---
