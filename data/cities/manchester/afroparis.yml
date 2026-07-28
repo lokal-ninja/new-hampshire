@@ -7,5 +7,5 @@ city: Manchester
 street: Elm Street
 housenumber: "1289"
 phone: "+16038365048"
-opening_hours: ""
+opening_hours: Tu-Th,Su 12:30-18:30; Fr,Sa 12:30-19:00; Mo off
 website: ""
