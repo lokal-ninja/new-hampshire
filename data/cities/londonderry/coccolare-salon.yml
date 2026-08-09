@@ -7,5 +7,6 @@ city: Londonderry
 street: Gilcreast Road
 housenumber: "66"
 phone: +1-603-432-2001
-opening_hours: Tu 9:00-20:00; We 9:00-17:00; Th 9:00-20:00; Fr 9:00-17:00; Sa 9:00-17:00
+opening_hours: Tu 09:00-20:00; We 09:00-17:00; Th 09:00-20:00; Fr 09:00-17:00; Sa
+    09:00-17:00
 website: http://www.coccolaresalon.com/
