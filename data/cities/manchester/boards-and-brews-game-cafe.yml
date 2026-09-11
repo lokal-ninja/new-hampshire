@@ -7,5 +7,6 @@ city: Manchester
 street: Elm Street
 housenumber: "941"
 phone: +1-603-232-5184
-opening_hours: ""
+opening_hours: Tu-Th 16:00-22:00; Fr 16:00-24:00; Sa 12:00-24:00; Su 12:00-21:00;
+    Mo off
 website: https://www.boardsandbrewsnh.com/
