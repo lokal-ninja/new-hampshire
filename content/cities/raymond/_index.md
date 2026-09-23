@@ -1,6 +1,6 @@
 ---
 title: Raymond
 url: /raymond/
-latitude: 43.04
-longitude: -71.168
+latitude: 43.037
+longitude: -71.166
 ---
