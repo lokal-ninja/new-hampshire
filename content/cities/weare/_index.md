@@ -1,6 +1,6 @@
 ---
 title: Weare
 url: /weare/
-latitude: 43.05
-longitude: -71.694
+latitude: 43.095
+longitude: -71.73
 ---
