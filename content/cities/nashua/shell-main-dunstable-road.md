@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /nashua/shell-amherst-street/
+url: /nashua/shell-main-dunstable-road/
 shop: convenience
 ---
